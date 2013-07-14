@@ -1,0 +1,32 @@
+{
+  "items": [
+    {
+      "container-author": [
+        {
+          "given": "Oliver Wendell", 
+          "family": "Holmes"
+        }
+      ], 
+      "title": "Law in Science and Science in Law", 
+      "issued": {
+        "raw": "1920"
+      }, 
+      "page": "210", 
+      "container-title": "Collected Legal Papers", 
+      "type": "chapter", 
+      "id": "chapter-2"
+    }
+  ], 
+  "stylename": "mlz-new-zealand-law", 
+  "citationitems": [
+    {
+      "first-reference-note-number": 1, 
+      "label": null, 
+      "locator": 125, 
+      "position": 1, 
+      "id": "chapter-2", 
+      "near-note": false
+    }
+  ], 
+  "result": "Holmes, above n 1, at 125."
+}

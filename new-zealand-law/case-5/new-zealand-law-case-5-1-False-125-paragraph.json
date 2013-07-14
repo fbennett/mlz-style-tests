@@ -1,0 +1,31 @@
+{
+  "items": [
+    {
+      "title": "Mishra v. Grohman", 
+      "issued": {
+        "raw": "1990-12-05"
+      }, 
+      "jurisdiction": "us;federal;ma", 
+      "authority": "District Court", 
+      "page": "1", 
+      "container-title": "New York Law Journal", 
+      "original-date": {
+        "raw": "1990-12-04"
+      }, 
+      "type": "article-newspaper", 
+      "id": "case-5"
+    }
+  ], 
+  "stylename": "mlz-new-zealand-law", 
+  "citationitems": [
+    {
+      "first-reference-note-number": 1, 
+      "label": "paragraph", 
+      "locator": 125, 
+      "position": 1, 
+      "id": "case-5", 
+      "near-note": false
+    }
+  ], 
+  "result": "\u201cMishra v Grohman\u201d, above n 1, at [125]."
+}

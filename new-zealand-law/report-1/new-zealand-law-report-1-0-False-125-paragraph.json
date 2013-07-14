@@ -1,0 +1,35 @@
+{
+  "items": [
+    {
+      "publisher": "CERN", 
+      "author": [
+        {
+          "given": "Tim", 
+          "family": "Berners-Lee"
+        }
+      ], 
+      "URL": "http://www.w3.org/History/1989/proposal.html", 
+      "issued": {
+        "raw": "1989-03"
+      }, 
+      "title": "Information Management: A Proposal", 
+      "accessed": {
+        "raw": "2012-09-15"
+      }, 
+      "type": "report", 
+      "id": "report-1"
+    }
+  ], 
+  "stylename": "mlz-new-zealand-law", 
+  "citationitems": [
+    {
+      "first-reference-note-number": 1, 
+      "label": "paragraph", 
+      "locator": 125, 
+      "position": 0, 
+      "id": "report-1", 
+      "near-note": false
+    }
+  ], 
+  "result": "Tim Berners-Lee <i>Information Management: A Proposal</i> (CERN 1989) at [125]."
+}

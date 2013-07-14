@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "medium": "Online cartoon", 
+      "dimensions": "500 px \u00d7 271 px", 
+      "author": [
+        {
+          "given": "Randall", 
+          "family": "Munroe"
+        }
+      ], 
+      "URL": "http://xkcd.com/285/", 
+      "issued": {
+        "raw": "2007-08"
+      }, 
+      "title": "Wikipedian Protester", 
+      "container-title": "XKCD", 
+      "type": "graphic", 
+      "id": "artwork-1"
+    }
+  ], 
+  "stylename": "mlz-new-zealand-law", 
+  "citationitems": [
+    {
+      "first-reference-note-number": 1, 
+      "label": "section", 
+      "locator": 125, 
+      "position": 1, 
+      "id": "artwork-1", 
+      "near-note": true
+    }
+  ], 
+  "result": "Munroe, above n 1, at s 125."
+}

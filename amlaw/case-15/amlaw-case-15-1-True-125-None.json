@@ -1,0 +1,27 @@
+{
+  "items": [
+    {
+      "title": "P v. U.K.", 
+      "issued": {
+        "raw": "1988-07-11"
+      }, 
+      "jurisdiction": "coe.int", 
+      "number": "13473/87", 
+      "authority": "European Commission of Human Rights", 
+      "type": "legal_case", 
+      "id": "case-15"
+    }
+  ], 
+  "stylename": "mlz-amlaw", 
+  "citationitems": [
+    {
+      "first-reference-note-number": 1, 
+      "label": null, 
+      "locator": 125, 
+      "position": 1, 
+      "id": "case-15", 
+      "near-note": true
+    }
+  ], 
+  "result": "<i>P v. U.K.</i>, 125."
+}

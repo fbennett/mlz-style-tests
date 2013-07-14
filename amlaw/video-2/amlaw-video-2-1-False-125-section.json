@@ -1,0 +1,25 @@
+{
+  "items": [
+    {
+      "publisher": "New Line Cinema", 
+      "issued": {
+        "raw": "2006"
+      }, 
+      "type": "motion_picture", 
+      "id": "ITEM-1", 
+      "title": "Snakes on a Plane"
+    }
+  ], 
+  "stylename": "mlz-amlaw", 
+  "citationitems": [
+    {
+      "first-reference-note-number": 1, 
+      "label": "section", 
+      "locator": 125, 
+      "position": 1, 
+      "id": "ITEM-1", 
+      "near-note": false
+    }
+  ], 
+  "result": "<span style=\"font-variant:small-caps;\">Snakes on a Plane</span>, <i>supra</i> note 1, sec. 125."
+}

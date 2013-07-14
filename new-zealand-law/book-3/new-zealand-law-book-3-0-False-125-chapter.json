@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "publisher": "Comstock Editions", 
+      "ISBN": "9780891740087", 
+      "publisher-place": "Sausalito, California", 
+      "author": [
+        {
+          "given": "Andrew", 
+          "family": "Garcia"
+        }
+      ], 
+      "issued": {
+        "raw": "1986"
+      }, 
+      "title": "Tough trip through Paradise 1878-1879", 
+      "editor": [
+        {
+          "given": "Bennett H.", 
+          "family": "Stein"
+        }
+      ], 
+      "type": "book", 
+      "id": "book-3"
+    }
+  ], 
+  "stylename": "mlz-new-zealand-law", 
+  "citationitems": [
+    {
+      "first-reference-note-number": 1, 
+      "label": "chapter", 
+      "locator": 125, 
+      "position": 0, 
+      "id": "book-3", 
+      "near-note": false
+    }
+  ], 
+  "result": "Andrew Garcia <i>Tough trip through Paradise 1878-1879</i>, Bennett H Stein (ed) (Comstock Editions, Sausalito, California, 1986) at ch 125."
+}

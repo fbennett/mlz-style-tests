@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "publisher": "CBS", 
+      "title": "Don't Count Your Tomatoes Before They're Picked", 
+      "issued": {
+        "raw": "1967-10-18"
+      }, 
+      "number": "69", 
+      "container-title": "Green Acres", 
+      "genre": "television broadcast", 
+      "type": "broadcast", 
+      "id": "tv-1"
+    }
+  ], 
+  "stylename": "mlz-new-zealand-law", 
+  "citationitems": [
+    {
+      "first-reference-note-number": 1, 
+      "label": null, 
+      "locator": 125, 
+      "position": 1, 
+      "id": "tv-1", 
+      "near-note": true
+    }
+  ], 
+  "result": "\u201cDon\u2019t Count Your Tomatoes Before They're Picked\u201d, above n 1, at 125."
+}

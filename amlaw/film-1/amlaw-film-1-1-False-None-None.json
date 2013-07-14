@@ -1,0 +1,23 @@
+{
+  "items": [
+    {
+      "publisher": "Newmarket", 
+      "issued": {
+        "raw": "2000"
+      }, 
+      "type": "motion_picture", 
+      "id": "film-1", 
+      "title": "Memento"
+    }
+  ], 
+  "stylename": "mlz-amlaw", 
+  "citationitems": [
+    {
+      "position": 1, 
+      "first-reference-note-number": 1, 
+      "id": "film-1", 
+      "near-note": false
+    }
+  ], 
+  "result": "<span style=\"font-variant:small-caps;\">Memento</span>, <i>supra</i> note 1."
+}

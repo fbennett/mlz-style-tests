@@ -1,0 +1,32 @@
+{
+  "items": [
+    {
+      "publisher": "Covici Friede Publishers", 
+      "author": [
+        {
+          "given": "Nathanael", 
+          "family": "West"
+        }
+      ], 
+      "issued": {
+        "raw": "1934"
+      }, 
+      "title": "A Cool Million: The Dismantling of Lemuel Pitkin", 
+      "title-short": "A Cool Million", 
+      "type": "book", 
+      "id": "book-4"
+    }
+  ], 
+  "stylename": "mlz-new-zealand-law", 
+  "citationitems": [
+    {
+      "first-reference-note-number": 1, 
+      "label": "chapter", 
+      "locator": 125, 
+      "position": 3, 
+      "id": "book-4", 
+      "near-note": false
+    }
+  ], 
+  "result": "At ch 125."
+}

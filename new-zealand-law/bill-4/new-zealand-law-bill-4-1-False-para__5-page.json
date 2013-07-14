@@ -1,0 +1,30 @@
+{
+  "items": [
+    {
+      "number": "836", 
+      "issued": {
+        "raw": "1999"
+      }, 
+      "jurisdiction": "us;me", 
+      "chapter-number": "3", 
+      "authority": "Legislature|House of Representatives", 
+      "event": "Senate Joint Resolution", 
+      "collection-number": "118", 
+      "genre": "Special Session", 
+      "type": "bill", 
+      "id": "bill-4"
+    }
+  ], 
+  "stylename": "mlz-new-zealand-law", 
+  "citationitems": [
+    {
+      "first-reference-note-number": 1, 
+      "label": "page", 
+      "locator": "para. 5", 
+      "position": 1, 
+      "id": "bill-4", 
+      "near-note": false
+    }
+  ], 
+  "result": "SJ Res 836, 118th Leg, 3rd Spec Sess (Me 1999)."
+}

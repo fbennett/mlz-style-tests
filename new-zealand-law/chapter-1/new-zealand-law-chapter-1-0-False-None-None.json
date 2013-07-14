@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "publisher": "West", 
+      "container-author": [
+        {
+          "isInstitution": "true", 
+          "family": "National Lawyers Guild"
+        }
+      ], 
+      "publisher-place": "Chicago", 
+      "author": [
+        {
+          "given": "Andrew G.", 
+          "family": "Ferguson"
+        }
+      ], 
+      "issued": {
+        "raw": "1999"
+      }, 
+      "title": "Continuing Seizure: Fourth Amendment Seizure in Section 1983 Malicious Prosecution Cases", 
+      "page": "54\\-1", 
+      "volume": "15", 
+      "editor": [
+        {
+          "given": "Steven", 
+          "family": "Saltzman"
+        }
+      ], 
+      "container-title": "Civil Rights Litigation and Attorney Fees Annual Handbook", 
+      "type": "chapter", 
+      "id": "chapter-1"
+    }
+  ], 
+  "stylename": "mlz-new-zealand-law", 
+  "citationitems": [
+    {
+      "position": 0, 
+      "first-reference-note-number": 1, 
+      "id": "chapter-1", 
+      "near-note": false
+    }
+  ], 
+  "result": "Andrew G Ferguson \u201cContinuing Seizure: Fourth Amendment Seizure in Section 1983 Malicious Prosecution Cases\u201d in Steven Saltzman (ed) <i>Civil Rights Litigation and Attorney Fees Annual Handbook</i> (West, Chicago, 1999) 54-1."
+}

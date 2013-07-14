@@ -1,0 +1,33 @@
+{
+  "items": [
+    {
+      "publisher": "Columbia Broadcasting System", 
+      "author": [
+        {
+          "given": "Orson", 
+          "family": "Welles"
+        }
+      ], 
+      "issued": {
+        "raw": "1938-10-30"
+      }, 
+      "title": "War of the Worlds", 
+      "container-title": "Mercury Theatre on the Air", 
+      "genre": "radio broadcast", 
+      "type": "broadcast", 
+      "id": "radio-1"
+    }
+  ], 
+  "stylename": "mlz-new-zealand-law", 
+  "citationitems": [
+    {
+      "first-reference-note-number": 1, 
+      "label": null, 
+      "locator": 125, 
+      "position": 0, 
+      "id": "radio-1", 
+      "near-note": false
+    }
+  ], 
+  "result": "\u201cWar of the Worlds\u201d directed by Orson Welles on <i>Mercury Theatre on the Air</i> (CBS, 30 October 1938) at 125."
+}

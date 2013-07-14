@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "author": [
+        {
+          "isInstitution": "true", 
+          "family": "United States"
+        }, 
+        {
+          "isInstitution": "true", 
+          "family": "Japan"
+        }
+      ], 
+      "section": "art. X", 
+      "title": "Treaty of Friendship, Commerce and Navigation", 
+      "page": "2063", 
+      "volume": "4", 
+      "event-date": {
+        "raw": "1953-04-02"
+      }, 
+      "container-title": "U.S.T.", 
+      "type": "treaty", 
+      "id": "xtra0"
+    }, 
+    {
+      "author": [
+        {
+          "isInstitution": "true", 
+          "family": "United States"
+        }, 
+        {
+          "isInstitution": "true", 
+          "family": "Japan"
+        }
+      ], 
+      "section": "art. X", 
+      "title": "Treaty of Friendship, Commerce and Navigation", 
+      "page": "135", 
+      "volume": "75", 
+      "event-date": {
+        "raw": "1953-04-02"
+      }, 
+      "container-title": "U.N.T.S.", 
+      "type": "treaty", 
+      "id": "treaty-3"
+    }
+  ], 
+  "stylename": "mlz-new-zealand-law", 
+  "citationitems": [
+    {
+      "first-reference-note-number": 1, 
+      "label": null, 
+      "locator": null, 
+      "position": 1, 
+      "id": "xtra0", 
+      "near-note": true
+    }, 
+    {
+      "first-reference-note-number": 1, 
+      "label": null, 
+      "locator": null, 
+      "position": 1, 
+      "id": "treaty-3", 
+      "near-note": true
+    }
+  ], 
+  "result": "Treaty of Friendship, Commerce and Navigation, US\u2013Japan (signed 2 April 1953), art X."
+}

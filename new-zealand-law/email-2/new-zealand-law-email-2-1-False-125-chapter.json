@@ -1,0 +1,36 @@
+{
+  "items": [
+    {
+      "author": [
+        {
+          "given": "Kostya", 
+          "family": "Lantsman"
+        }
+      ], 
+      "issued": {
+        "raw": "2011-08-22"
+      }, 
+      "type": "personal_communication", 
+      "genre": "email", 
+      "recipient": [
+        {
+          "given": "Frank", 
+          "family": "Bennett"
+        }
+      ], 
+      "id": "email-2"
+    }
+  ], 
+  "stylename": "mlz-new-zealand-law", 
+  "citationitems": [
+    {
+      "first-reference-note-number": 1, 
+      "label": "chapter", 
+      "locator": 125, 
+      "position": 1, 
+      "id": "email-2", 
+      "near-note": false
+    }
+  ], 
+  "result": "Lantsman, above n 1, at ch 125."
+}

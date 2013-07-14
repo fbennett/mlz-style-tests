@@ -1,0 +1,38 @@
+{
+  "items": [
+    {
+      "publisher": "MJF", 
+      "author": [
+        {
+          "given": "Gerald", 
+          "family": "Hill"
+        }, 
+        {
+          "given": "Kathleen", 
+          "family": "Hill"
+        }
+      ], 
+      "URL": "http://dictionary.law.com/", 
+      "issued": {
+        "raw": "2002"
+      }, 
+      "title": "vexatious litigation", 
+      "container-title": "The People's Law Dictionary", 
+      "accessed": {
+        "raw": "Feb 25, 2012"
+      }, 
+      "type": "entry-dictionary", 
+      "id": "dictionary-entry-2"
+    }
+  ], 
+  "stylename": "mlz-new-zealand-law", 
+  "citationitems": [
+    {
+      "position": 0, 
+      "first-reference-note-number": 1, 
+      "id": "dictionary-entry-2", 
+      "near-note": false
+    }
+  ], 
+  "result": "Gerald Hill and Kathleen Hill <i>The People\u2019s Law Dictionary</i> (2002) vexatious litigation &#60;http://dictionary.law.com/&#62;."
+}

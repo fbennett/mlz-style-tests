@@ -1,0 +1,25 @@
+{
+  "items": [
+    {
+      "title": "Balogh v. Hungary", 
+      "issued": {
+        "raw": "2004-07-20"
+      }, 
+      "jurisdiction": "coe.int;court.of.human.rights", 
+      "number": "47940/99", 
+      "authority": "European Court of Human Rights|Second Section", 
+      "type": "legal_case", 
+      "id": "case-11"
+    }
+  ], 
+  "stylename": "mlz-new-zealand-law", 
+  "citationitems": [
+    {
+      "position": 0, 
+      "first-reference-note-number": 1, 
+      "id": "case-11", 
+      "near-note": false
+    }
+  ], 
+  "result": "<i>Balogh v Hungary</i> (47940/99) Second Section, ECHR 20 July 2004."
+}

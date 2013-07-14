@@ -1,0 +1,36 @@
+{
+  "items": [
+    {
+      "author": [
+        {
+          "given": "Gordon", 
+          "family": "Brown"
+        }
+      ], 
+      "issued": {
+        "raw": "2009-11-20"
+      }, 
+      "type": "personal_communication", 
+      "genre": "Letter", 
+      "recipient": [
+        {
+          "given": "Lady", 
+          "family": "Ashton"
+        }
+      ], 
+      "id": "letter-1"
+    }
+  ], 
+  "stylename": "mlz-new-zealand-law", 
+  "citationitems": [
+    {
+      "first-reference-note-number": 1, 
+      "label": "section", 
+      "locator": 125, 
+      "position": 1, 
+      "id": "letter-1", 
+      "near-note": false
+    }
+  ], 
+  "result": "Brown, above n 1, at s 125."
+}

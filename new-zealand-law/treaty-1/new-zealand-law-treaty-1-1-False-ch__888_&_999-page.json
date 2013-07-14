@@ -1,0 +1,38 @@
+{
+  "items": [
+    {
+      "author": [
+        {
+          "isInstitution": "true", 
+          "family": "United States"
+        }, 
+        {
+          "isInstitution": "true", 
+          "family": "Japan"
+        }
+      ], 
+      "section": "art. X", 
+      "title": "Treaty of Friendship, Commerce and Navigation", 
+      "page": "135", 
+      "volume": "75", 
+      "event-date": {
+        "raw": "1953-04-02"
+      }, 
+      "container-title": "U.N.T.S.", 
+      "type": "treaty", 
+      "id": "treaty-1"
+    }
+  ], 
+  "stylename": "mlz-new-zealand-law", 
+  "citationitems": [
+    {
+      "first-reference-note-number": 1, 
+      "label": "page", 
+      "locator": "ch. 888 & 999", 
+      "position": 1, 
+      "id": "treaty-1", 
+      "near-note": false
+    }
+  ], 
+  "result": "Treaty of Friendship, Commerce and Navigation, art X chs 888 &#38; 999."
+}

@@ -1,0 +1,33 @@
+{
+  "items": [
+    {
+      "medium": "Oil on poplar", 
+      "dimensions": "77 cm \u00d7 53 cm", 
+      "author": [
+        {
+          "given": "", 
+          "family": "Leonardo da Vinci"
+        }
+      ], 
+      "issued": {
+        "raw": "1503-1519"
+      }, 
+      "title": "Mona Lisa", 
+      "archive": "Mus\u00e9e du Louvre", 
+      "type": "graphic", 
+      "id": "artwork-2"
+    }
+  ], 
+  "stylename": "mlz-new-zealand-law", 
+  "citationitems": [
+    {
+      "first-reference-note-number": 1, 
+      "label": "section", 
+      "locator": 125, 
+      "position": 3, 
+      "id": "artwork-2", 
+      "near-note": false
+    }
+  ], 
+  "result": "At s 125."
+}

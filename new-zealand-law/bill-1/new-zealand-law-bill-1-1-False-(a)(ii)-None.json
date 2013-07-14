@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "author": [
+        {
+          "given": "Darrel", 
+          "family": "Issa"
+        }
+      ], 
+      "URL": "http://www.gpo.gov/fdsys/pkg/BILLS-112hr3699ih/pdf/BILLS-112hr3699ih.pdf", 
+      "issued": {
+        "raw": "Dec. 16, 2011"
+      }, 
+      "section": "sec. 2", 
+      "jurisdiction": "us", 
+      "chapter-number": "1", 
+      "authority": "U.S. Congress|House of Representatives", 
+      "number": "3699", 
+      "collection-number": "112", 
+      "title": "Research Works Act", 
+      "type": "bill", 
+      "id": "bill-1"
+    }
+  ], 
+  "stylename": "mlz-new-zealand-law", 
+  "citationitems": [
+    {
+      "first-reference-note-number": 1, 
+      "label": null, 
+      "locator": "(a)(ii)", 
+      "position": 1, 
+      "id": "bill-1", 
+      "near-note": false
+    }
+  ], 
+  "result": "Research Works Act, HR 3699, 112th US Cong (1st Sess 2011) s 2(a)(ii)."
+}

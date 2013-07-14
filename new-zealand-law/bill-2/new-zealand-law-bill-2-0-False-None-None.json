@@ -1,0 +1,26 @@
+{
+  "items": [
+    {
+      "issued": {
+        "raw": "1999"
+      }, 
+      "jurisdiction": "us", 
+      "number": "79", 
+      "authority": "U.S. Congress|House of Representatives", 
+      "event": "House of Representatives Joint Resolution", 
+      "collection-number": "106", 
+      "type": "bill", 
+      "id": "bill-2"
+    }
+  ], 
+  "stylename": "mlz-new-zealand-law", 
+  "citationitems": [
+    {
+      "position": 0, 
+      "first-reference-note-number": 1, 
+      "id": "bill-2", 
+      "near-note": false
+    }
+  ], 
+  "result": "HRJ Res 79, 106th US Cong (1999)."
+}

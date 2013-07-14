@@ -1,0 +1,43 @@
+{
+  "items": [
+    {
+      "title": "White Slave Traffic (Mann) Act", 
+      "issued": {
+        "raw": "1910"
+      }, 
+      "jurisdiction": "us", 
+      "number": "ch. 395", 
+      "type": "gazette", 
+      "id": "xtra0"
+    }, 
+    {
+      "title": "White Slave Traffic (Mann) Act", 
+      "issued": {
+        "raw": "1910"
+      }, 
+      "section": "p. 826", 
+      "jurisdiction": "us", 
+      "page": "825", 
+      "volume": "36", 
+      "container-title": "Statutes at Large", 
+      "type": "gazette", 
+      "id": "statute-3"
+    }
+  ], 
+  "stylename": "mlz-new-zealand-law", 
+  "citationitems": [
+    {
+      "position": 2, 
+      "first-reference-note-number": 1, 
+      "id": "xtra0", 
+      "near-note": false
+    }, 
+    {
+      "position": 2, 
+      "first-reference-note-number": 1, 
+      "id": "statute-3", 
+      "near-note": false
+    }
+  ], 
+  "result": "White Slave Traffic (Mann) Act, 36 Stat 826."
+}

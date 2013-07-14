@@ -1,0 +1,31 @@
+{
+  "items": [
+    {
+      "issue": "95", 
+      "title": "Osman v. U.K.", 
+      "issued": {
+        "raw": "1998-10-28"
+      }, 
+      "jurisdiction": "coe.int;court.of.human.rights", 
+      "number": "23452/94", 
+      "authority": "European Court of Human Rights | Section I", 
+      "page": "3124", 
+      "volume": "VIII", 
+      "publication-date": "1998", 
+      "collection-number": "1998", 
+      "container-title": "Reports of Judgments and Decisions", 
+      "type": "legal_case", 
+      "id": "case-9"
+    }
+  ], 
+  "stylename": "mlz-amlaw", 
+  "citationitems": [
+    {
+      "position": 0, 
+      "first-reference-note-number": 1, 
+      "id": "case-9", 
+      "near-note": false
+    }
+  ], 
+  "result": "Osman v. U.K., 1998-VIII Eur. Ct. H.R. 3124."
+}

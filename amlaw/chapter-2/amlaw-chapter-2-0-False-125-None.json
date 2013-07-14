@@ -1,0 +1,32 @@
+{
+  "items": [
+    {
+      "container-author": [
+        {
+          "given": "Oliver Wendell", 
+          "family": "Holmes"
+        }
+      ], 
+      "title": "Law in Science and Science in Law", 
+      "issued": {
+        "raw": "1920"
+      }, 
+      "page": "210", 
+      "container-title": "Collected Legal Papers", 
+      "type": "chapter", 
+      "id": "chapter-2"
+    }
+  ], 
+  "stylename": "mlz-amlaw", 
+  "citationitems": [
+    {
+      "first-reference-note-number": 1, 
+      "label": null, 
+      "locator": 125, 
+      "position": 0, 
+      "id": "chapter-2", 
+      "near-note": false
+    }
+  ], 
+  "result": "<span style=\"font-variant:small-caps;\">Oliver Wendell Holmes</span>, <i>Law in Science and Science in Law</i>, <i>in</i> <span style=\"font-variant:small-caps;\">Collected Legal Papers</span> 210, 125 (1920)."
+}

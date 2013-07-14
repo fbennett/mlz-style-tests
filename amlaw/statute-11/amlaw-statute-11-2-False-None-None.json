@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "Counter Terrorism Act", 
+      "issued": {
+        "raw": "2008"
+      }, 
+      "section": "sec. 1", 
+      "jurisdiction": "gb", 
+      "type": "legislation", 
+      "id": "statute-11"
+    }
+  ], 
+  "stylename": "mlz-amlaw", 
+  "citationitems": [
+    {
+      "position": 2, 
+      "first-reference-note-number": 1, 
+      "id": "statute-11", 
+      "near-note": false
+    }
+  ], 
+  "result": "<i>Id.</i>"
+}

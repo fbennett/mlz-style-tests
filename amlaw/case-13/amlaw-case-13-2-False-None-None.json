@@ -1,0 +1,31 @@
+{
+  "items": [
+    {
+      "title": "Simpson v. U.K.", 
+      "issued": {
+        "raw": "1989"
+      }, 
+      "jurisdiction": "coe.int", 
+      "number": "14688/89", 
+      "authority": "European Commission of Human Rights", 
+      "page": "188", 
+      "volume": "64", 
+      "publication-date": {
+        "raw": "1989"
+      }, 
+      "container-title": "Decisions and Reports", 
+      "type": "legal_case", 
+      "id": "case-13"
+    }
+  ], 
+  "stylename": "mlz-amlaw", 
+  "citationitems": [
+    {
+      "position": 2, 
+      "first-reference-note-number": 1, 
+      "id": "case-13", 
+      "near-note": false
+    }
+  ], 
+  "result": "<i>Id.</i>"
+}

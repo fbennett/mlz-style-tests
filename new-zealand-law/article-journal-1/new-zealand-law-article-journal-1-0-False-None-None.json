@@ -1,0 +1,32 @@
+{
+  "items": [
+    {
+      "author": [
+        {
+          "given": "Jeffrey Scott", 
+          "family": "McIllwain"
+        }
+      ], 
+      "issue": "4", 
+      "title": "Organized crime: A social network approach", 
+      "page": "301-323", 
+      "volume": "32", 
+      "issued": {
+        "raw": "1999"
+      }, 
+      "container-title": "Crime, Law and Social Change", 
+      "type": "article-journal", 
+      "id": "article-journal-1"
+    }
+  ], 
+  "stylename": "mlz-new-zealand-law", 
+  "citationitems": [
+    {
+      "position": 0, 
+      "first-reference-note-number": 1, 
+      "id": "article-journal-1", 
+      "near-note": false
+    }
+  ], 
+  "result": "Jeffrey Scott McIllwain \u201cOrganized crime: A social network approach\u201d (1999) 32 Crime, L &#38; Soc Change 301."
+}

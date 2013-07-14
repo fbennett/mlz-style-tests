@@ -1,0 +1,32 @@
+{
+  "items": [
+    {
+      "author": [
+        {
+          "given": "Frank", 
+          "family": "Bennett"
+        }
+      ], 
+      "URL": "http://www.youtube.com/watch?v=NK0hNDhqbSM", 
+      "issued": {
+        "raw": "2012-04-28"
+      }, 
+      "title": "Multilingual Zotero variant (MLZ) with OpenCongress.org", 
+      "container-title": "YouTube", 
+      "type": "video", 
+      "id": "video-4"
+    }
+  ], 
+  "stylename": "mlz-amlaw", 
+  "citationitems": [
+    {
+      "first-reference-note-number": 1, 
+      "label": "chapter", 
+      "locator": 125, 
+      "position": 0, 
+      "id": "video-4", 
+      "near-note": false
+    }
+  ], 
+  "result": "Frank Bennett, <i>Multilingual Zotero variant (MLZ) with OpenCongress.org</i>, <span style=\"font-variant:small-caps;\">YouTube</span> ch. 125 (Apr. 28, 2012), http://www.youtube.com/watch?v=NK0hNDhqbSM."
+}

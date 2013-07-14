@@ -1,0 +1,27 @@
+{
+  "items": [
+    {
+      "title": "Fucella v. Ricker", 
+      "issued": {
+        "raw": "1982"
+      }, 
+      "jurisdiction": "ca;on", 
+      "authority": "High Court of Justice", 
+      "page": "423", 
+      "volume": "35", 
+      "container-title": "Ontario Reports Second", 
+      "type": "legal_case", 
+      "id": "case-18"
+    }
+  ], 
+  "stylename": "mlz-amlaw", 
+  "citationitems": [
+    {
+      "position": 0, 
+      "first-reference-note-number": 1, 
+      "id": "case-18", 
+      "near-note": false
+    }
+  ], 
+  "result": "Fucella v. Ricker (1982), 35 O.R. (2d) 423 (Ont. High Ct. J.)."
+}

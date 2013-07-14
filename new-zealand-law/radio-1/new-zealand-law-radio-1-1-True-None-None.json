@@ -1,0 +1,31 @@
+{
+  "items": [
+    {
+      "publisher": "Columbia Broadcasting System", 
+      "author": [
+        {
+          "given": "Orson", 
+          "family": "Welles"
+        }
+      ], 
+      "issued": {
+        "raw": "1938-10-30"
+      }, 
+      "title": "War of the Worlds", 
+      "container-title": "Mercury Theatre on the Air", 
+      "genre": "radio broadcast", 
+      "type": "broadcast", 
+      "id": "radio-1"
+    }
+  ], 
+  "stylename": "mlz-new-zealand-law", 
+  "citationitems": [
+    {
+      "position": 1, 
+      "first-reference-note-number": 1, 
+      "id": "radio-1", 
+      "near-note": true
+    }
+  ], 
+  "result": "\u201cWar of the Worlds\u201d, above n 1."
+}

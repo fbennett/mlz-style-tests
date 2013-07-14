@@ -1,0 +1,33 @@
+{
+  "items": [
+    {
+      "number": "47/135, Annex", 
+      "title": "Declaration on the Rights of Persons Belonging to National or Ethnic, Religious and Linguistic Minorities", 
+      "issued": {
+        "raw": "1992-12-18"
+      }, 
+      "section": "p. 210", 
+      "jurisdiction": "un.org", 
+      "archive_location": "A/47/49 (Vol. 1)", 
+      "chapter-number": "49 (Vol. I)", 
+      "authority": "General Assembly", 
+      "id": "bill-5", 
+      "collection-number": "47", 
+      "container-title": "United Nations General Assembly Official Record", 
+      "type": "bill", 
+      "event": "Resolution"
+    }
+  ], 
+  "stylename": "mlz-amlaw", 
+  "citationitems": [
+    {
+      "first-reference-note-number": 1, 
+      "label": "page", 
+      "locator": ", sec. 25 & 143", 
+      "position": 0, 
+      "id": "bill-5", 
+      "near-note": false
+    }
+  ], 
+  "result": "Declaration on the Rights of Persons Belonging to National or Ethnic, Religious and Linguistic Minorities, G.A. Res. 47/135, Annex, U.N. GAOR, 47th, Sess., Supp. No. 49 (Vol. I), U.N. Doc. A/47/49 (Vol. 1), at 210, sections 25 &#38; 143 (Dec. 18, 1992)."
+}

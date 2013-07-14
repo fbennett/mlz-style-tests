@@ -1,0 +1,47 @@
+{
+  "items": [
+    {
+      "publisher": "West", 
+      "container-author": [
+        {
+          "isInstitution": "true", 
+          "family": "National Lawyers Guild"
+        }
+      ], 
+      "publisher-place": "Chicago", 
+      "author": [
+        {
+          "given": "Andrew G.", 
+          "family": "Ferguson"
+        }
+      ], 
+      "issued": {
+        "raw": "1999"
+      }, 
+      "title": "Continuing Seizure: Fourth Amendment Seizure in Section 1983 Malicious Prosecution Cases", 
+      "page": "54\\-1", 
+      "volume": "15", 
+      "editor": [
+        {
+          "given": "Steven", 
+          "family": "Saltzman"
+        }
+      ], 
+      "container-title": "Civil Rights Litigation and Attorney Fees Annual Handbook", 
+      "type": "chapter", 
+      "id": "chapter-1"
+    }
+  ], 
+  "stylename": "mlz-amlaw", 
+  "citationitems": [
+    {
+      "first-reference-note-number": 1, 
+      "label": "chapter", 
+      "locator": 125, 
+      "position": 3, 
+      "id": "chapter-1", 
+      "near-note": false
+    }
+  ], 
+  "result": "<i>Id.</i> ch. 125."
+}

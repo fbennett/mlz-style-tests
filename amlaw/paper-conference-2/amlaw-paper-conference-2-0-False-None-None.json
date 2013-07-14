@@ -1,0 +1,36 @@
+{
+  "items": [
+    {
+      "author": [
+        {
+          "given": "Michael J.", 
+          "family": "Trebilcock"
+        }, 
+        {
+          "given": "Edward M.", 
+          "family": "Iacobucci"
+        }
+      ], 
+      "issued": {
+        "raw": "2003"
+      }, 
+      "title": "Privatization and Accountability", 
+      "event": "Symposium: Public Values in an Era of Privatization", 
+      "volume": "116", 
+      "container-title": "Harvard Law Review", 
+      "type": "paper-conference", 
+      "id": "paper-conference-2", 
+      "page": "1422-1454"
+    }
+  ], 
+  "stylename": "mlz-amlaw", 
+  "citationitems": [
+    {
+      "position": 0, 
+      "first-reference-note-number": 1, 
+      "id": "paper-conference-2", 
+      "near-note": false
+    }
+  ], 
+  "result": "Michael J. Trebilcock &#38; Edward M. Iacobucci, <i>Privatization and Accountability</i>, 116 <span style=\"font-variant:small-caps;\">Harv. L. Rev.</span> 1422 (2003)."
+}

@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "issued": {
+        "raw": "1999"
+      }, 
+      "jurisdiction": "us", 
+      "number": "79", 
+      "authority": "U.S. Congress|House of Representatives", 
+      "event": "House of Representatives Joint Resolution", 
+      "collection-number": "106", 
+      "type": "bill", 
+      "id": "bill-2"
+    }
+  ], 
+  "stylename": "mlz-amlaw", 
+  "citationitems": [
+    {
+      "first-reference-note-number": 1, 
+      "label": "page", 
+      "locator": ", sec. 25 & 143", 
+      "position": 0, 
+      "id": "bill-2", 
+      "near-note": false
+    }
+  ], 
+  "result": "H.R.J. Res. 79, 106th Cong. (1999)."
+}

@@ -1,0 +1,35 @@
+{
+  "items": [
+    {
+      "author": [
+        {
+          "given": "Eric", 
+          "family": "Posner"
+        }
+      ], 
+      "URL": "http://www.volokh.com/posts/1233241458.shtml", 
+      "issued": {
+        "raw": "2009-01-29"
+      }, 
+      "title": "More on Section 7 of the Torture Convention", 
+      "container-title": "Volokh Conspiracy", 
+      "accessed": {
+        "raw": "2012-04-30"
+      }, 
+      "type": "webpage", 
+      "id": "webpage-1"
+    }
+  ], 
+  "stylename": "mlz-amlaw", 
+  "citationitems": [
+    {
+      "first-reference-note-number": 1, 
+      "label": "chapter", 
+      "locator": 125, 
+      "position": 1, 
+      "id": "webpage-1", 
+      "near-note": true
+    }
+  ], 
+  "result": "Posner, <i>supra</i> note 1, ch. 125."
+}

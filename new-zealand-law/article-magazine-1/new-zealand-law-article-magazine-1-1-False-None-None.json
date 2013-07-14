@@ -1,0 +1,32 @@
+{
+  "items": [
+    {
+      "author": [
+        {
+          "given": "Haldun", 
+          "family": "Ozaktas"
+        }
+      ], 
+      "issue": "4", 
+      "title": "The Optimal Number of Friends in the Information Age", 
+      "page": "32", 
+      "volume": "49", 
+      "issued": {
+        "raw": "2005-07"
+      }, 
+      "container-title": "Journal of Irreproducible Results", 
+      "type": "article-magazine", 
+      "id": "article-magazine-1"
+    }
+  ], 
+  "stylename": "mlz-new-zealand-law", 
+  "citationitems": [
+    {
+      "position": 1, 
+      "first-reference-note-number": 1, 
+      "id": "article-magazine-1", 
+      "near-note": false
+    }
+  ], 
+  "result": "Ozaktas, above n 1."
+}

@@ -1,0 +1,36 @@
+{
+  "items": [
+    {
+      "medium": "WEB", 
+      "author": [
+        {
+          "given": "Donald", 
+          "family": "Knuth"
+        }
+      ], 
+      "URL": "http://www.tex.ac.uk/ctan/systems/knuth/dist/tex/tex.web", 
+      "issued": {
+        "raw": "February 2008"
+      }, 
+      "title": "TeX", 
+      "version": "3.1415926", 
+      "accessed": {
+        "raw": "2012-02-04"
+      }, 
+      "type": "book", 
+      "id": "computer-program-2"
+    }
+  ], 
+  "stylename": "mlz-amlaw", 
+  "citationitems": [
+    {
+      "first-reference-note-number": 1, 
+      "label": "section", 
+      "locator": 125, 
+      "position": 1, 
+      "id": "computer-program-2", 
+      "near-note": false
+    }
+  ], 
+  "result": "Knuth, <i>supra</i> note 1, sec. 125."
+}

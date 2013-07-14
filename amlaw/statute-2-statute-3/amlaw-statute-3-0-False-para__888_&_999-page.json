@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "title": "White Slave Traffic (Mann) Act", 
+      "issued": {
+        "raw": "1910"
+      }, 
+      "jurisdiction": "us", 
+      "number": "ch. 395", 
+      "type": "gazette", 
+      "id": "xtra0"
+    }, 
+    {
+      "title": "White Slave Traffic (Mann) Act", 
+      "issued": {
+        "raw": "1910"
+      }, 
+      "section": "p. 826", 
+      "jurisdiction": "us", 
+      "page": "825", 
+      "volume": "36", 
+      "container-title": "Statutes at Large", 
+      "type": "gazette", 
+      "id": "statute-3"
+    }
+  ], 
+  "stylename": "mlz-amlaw", 
+  "citationitems": [
+    {
+      "position": 0, 
+      "first-reference-note-number": 1, 
+      "id": "xtra0", 
+      "near-note": false
+    }, 
+    {
+      "first-reference-note-number": 1, 
+      "label": "page", 
+      "locator": "para. 888 & 999", 
+      "position": 0, 
+      "id": "statute-3", 
+      "near-note": false
+    }
+  ], 
+  "result": "White Slave Traffic (Mann) Act, ch. 395, 36 Stat. 825, 826 \u00b6\u00b6 888 &#38; 999 (1910)."
+}

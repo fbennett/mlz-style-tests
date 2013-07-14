@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "title": "Mishra v. Grohman", 
+      "issued": {
+        "raw": "1990-12-05"
+      }, 
+      "jurisdiction": "us;federal;ma", 
+      "authority": "District Court", 
+      "page": "1", 
+      "container-title": "New York Law Journal", 
+      "original-date": {
+        "raw": "1990-12-04"
+      }, 
+      "type": "article-newspaper", 
+      "id": "case-5"
+    }
+  ], 
+  "stylename": "mlz-amlaw", 
+  "citationitems": [
+    {
+      "position": 0, 
+      "first-reference-note-number": 1, 
+      "id": "case-5", 
+      "near-note": false
+    }
+  ], 
+  "result": "<i>Mishra v. Grohman</i>, <span style=\"font-variant:small-caps;\">N.Y. L.J.</span>, Dec. 5, 1990, at 1 (D. Mass. Dec. 4, 1990)."
+}

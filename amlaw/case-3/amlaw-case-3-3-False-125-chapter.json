@@ -1,0 +1,31 @@
+{
+  "items": [
+    {
+      "title": "Chuck Wagon Catering Inc. v. Raduege", 
+      "issued": {
+        "raw": "1979-05-01"
+      }, 
+      "jurisdiction": "us;wi", 
+      "authority": "Supreme Court", 
+      "page": "797", 
+      "volume": "277", 
+      "publication-date": "1979", 
+      "container-title": "Northwest Reporter Second", 
+      "title-short": "Chuck Wagon Catering", 
+      "type": "legal_case", 
+      "id": "case-3"
+    }
+  ], 
+  "stylename": "mlz-amlaw", 
+  "citationitems": [
+    {
+      "first-reference-note-number": 1, 
+      "label": "chapter", 
+      "locator": 125, 
+      "position": 3, 
+      "id": "case-3", 
+      "near-note": false
+    }
+  ], 
+  "result": "<i>Id.</i> ch. 125."
+}

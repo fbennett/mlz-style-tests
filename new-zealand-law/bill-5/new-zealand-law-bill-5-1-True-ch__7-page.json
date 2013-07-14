@@ -1,0 +1,33 @@
+{
+  "items": [
+    {
+      "number": "47/135, Annex", 
+      "title": "Declaration on the Rights of Persons Belonging to National or Ethnic, Religious and Linguistic Minorities", 
+      "issued": {
+        "raw": "1992-12-18"
+      }, 
+      "section": "p. 210", 
+      "jurisdiction": "un.org", 
+      "archive_location": "A/47/49 (Vol. 1)", 
+      "chapter-number": "49 (Vol. I)", 
+      "authority": "General Assembly", 
+      "id": "bill-5", 
+      "collection-number": "47", 
+      "container-title": "United Nations General Assembly Official Record", 
+      "type": "bill", 
+      "event": "Resolution"
+    }
+  ], 
+  "stylename": "mlz-new-zealand-law", 
+  "citationitems": [
+    {
+      "first-reference-note-number": 1, 
+      "label": "page", 
+      "locator": "ch. 7", 
+      "position": 1, 
+      "id": "bill-5", 
+      "near-note": true
+    }
+  ], 
+  "result": "Declaration on the Rights of Persons Belonging to National or Ethnic, Religious and Linguistic Minorities, p 210 ch 7."
+}

@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "author": [
+        {
+          "isInstitution": "true", 
+          "family": "United States"
+        }, 
+        {
+          "isInstitution": "true", 
+          "family": "Japan"
+        }
+      ], 
+      "section": "art. X", 
+      "title": "Treaty of Friendship, Commerce and Navigation", 
+      "page": "2063", 
+      "volume": "4", 
+      "event-date": {
+        "raw": "1953-04-02"
+      }, 
+      "container-title": "U.S.T.", 
+      "type": "treaty", 
+      "id": "xtra0"
+    }, 
+    {
+      "author": [
+        {
+          "isInstitution": "true", 
+          "family": "United States"
+        }, 
+        {
+          "isInstitution": "true", 
+          "family": "Japan"
+        }
+      ], 
+      "section": "art. X", 
+      "title": "Treaty of Friendship, Commerce and Navigation", 
+      "page": "135", 
+      "volume": "75", 
+      "event-date": {
+        "raw": "1953-04-02"
+      }, 
+      "container-title": "U.N.T.S.", 
+      "type": "treaty", 
+      "id": "treaty-3"
+    }
+  ], 
+  "stylename": "mlz-amlaw", 
+  "citationitems": [
+    {
+      "first-reference-note-number": 1, 
+      "label": "page", 
+      "locator": "sec. 888-999", 
+      "position": 0, 
+      "id": "xtra0", 
+      "near-note": false
+    }, 
+    {
+      "first-reference-note-number": 1, 
+      "label": "page", 
+      "locator": "sec. 888-999", 
+      "position": 0, 
+      "id": "treaty-3", 
+      "near-note": false
+    }
+  ], 
+  "result": "Treaty of Friendship, Commerce and Navigation, U.S.-Japan, art. X secs. 888\u2013999, 4 U.S.T. 2063, 75 U.N.T.S. 135."
+}

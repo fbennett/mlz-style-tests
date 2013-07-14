@@ -1,0 +1,43 @@
+{
+  "items": [
+    {
+      "publisher": "EMI Angel", 
+      "medium": "CD", 
+      "author": [
+        {
+          "given": "Seiji", 
+          "family": "Ozawa"
+        }, 
+        {
+          "isInstitution": "true", 
+          "family": "Berlin Philharmonic"
+        }
+      ], 
+      "issued": {
+        "raw": "1990"
+      }, 
+      "title": "1812 Overture", 
+      "composer": [
+        {
+          "given": "Pyotr Il'yich", 
+          "family": "Tchaikovsky"
+        }
+      ], 
+      "container-title": "1812 Overture etc.", 
+      "type": "song", 
+      "id": "audio-2"
+    }
+  ], 
+  "stylename": "mlz-amlaw", 
+  "citationitems": [
+    {
+      "first-reference-note-number": 1, 
+      "label": "section", 
+      "locator": 125, 
+      "position": 1, 
+      "id": "audio-2", 
+      "near-note": false
+    }
+  ], 
+  "result": "<span style=\"font-variant:small-caps;\">Ozawa, Berlin Philharmonic</span>, <i>supra</i> note 1, sec. 125."
+}

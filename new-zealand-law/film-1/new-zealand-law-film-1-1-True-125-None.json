@@ -1,0 +1,25 @@
+{
+  "items": [
+    {
+      "publisher": "Newmarket", 
+      "issued": {
+        "raw": "2000"
+      }, 
+      "type": "motion_picture", 
+      "id": "film-1", 
+      "title": "Memento"
+    }
+  ], 
+  "stylename": "mlz-new-zealand-law", 
+  "citationitems": [
+    {
+      "first-reference-note-number": 1, 
+      "label": null, 
+      "locator": 125, 
+      "position": 1, 
+      "id": "film-1", 
+      "near-note": true
+    }
+  ], 
+  "result": "<i>Memento</i>, above n 1, at 125."
+}

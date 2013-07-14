@@ -1,0 +1,27 @@
+{
+  "items": [
+    {
+      "title": "Powick v. Malvern Wells Water Co.", 
+      "issued": {
+        "raw": "1993-09-28"
+      }, 
+      "authority": "High Court|Queen's Bench", 
+      "note": "{:jurisdiction:gb;england.and.wales}", 
+      "container-title": "The Times", 
+      "type": "article-newspaper", 
+      "id": "ITEM-1"
+    }
+  ], 
+  "stylename": "mlz-amlaw", 
+  "citationitems": [
+    {
+      "first-reference-note-number": 1, 
+      "label": "section", 
+      "locator": 125, 
+      "position": 1, 
+      "id": "ITEM-1", 
+      "near-note": true
+    }
+  ], 
+  "result": "<i>Powick v. Malvern Wells Water Co.</i>, <i>supra</i> note 1, sec. 125."
+}

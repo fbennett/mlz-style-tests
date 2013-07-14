@@ -1,0 +1,36 @@
+{
+  "items": [
+    {
+      "author": [
+        {
+          "given": "", 
+          "family": "billmon"
+        }
+      ], 
+      "URL": "http://web.archive.org/web/20050707022657/http://billmon.org/archives/001974.html", 
+      "issued": {
+        "raw": "July 4, 2005"
+      }, 
+      "title": "Goodbye Columbus", 
+      "container-title": "Whiskey Bar", 
+      "genre": "Weblog", 
+      "accessed": {
+        "raw": "2011-01-31"
+      }, 
+      "type": "post-weblog", 
+      "id": "post-weblog-1"
+    }
+  ], 
+  "stylename": "mlz-amlaw", 
+  "citationitems": [
+    {
+      "first-reference-note-number": 1, 
+      "label": "section", 
+      "locator": 125, 
+      "position": 1, 
+      "id": "post-weblog-1", 
+      "near-note": false
+    }
+  ], 
+  "result": "billmon, <i>supra</i> note 1, sec. 125."
+}

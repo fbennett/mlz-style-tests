@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "volume": "2", 
+      "author": [
+        {
+          "given": "William", 
+          "family": "Blackstone"
+        }
+      ], 
+      "type": "classic", 
+      "id": "classic-1", 
+      "title": "Commentaries"
+    }
+  ], 
+  "stylename": "mlz-new-zealand-law", 
+  "citationitems": [
+    {
+      "first-reference-note-number": 1, 
+      "label": "section", 
+      "locator": 125, 
+      "position": 0, 
+      "id": "classic-1", 
+      "near-note": false
+    }
+  ], 
+  "result": "William Blackstone <i>Commentaries</i> vol 2 at s 125."
+}

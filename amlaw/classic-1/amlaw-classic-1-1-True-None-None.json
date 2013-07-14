@@ -1,0 +1,26 @@
+{
+  "items": [
+    {
+      "volume": "2", 
+      "author": [
+        {
+          "given": "William", 
+          "family": "Blackstone"
+        }
+      ], 
+      "type": "classic", 
+      "id": "classic-1", 
+      "title": "Commentaries"
+    }
+  ], 
+  "stylename": "mlz-amlaw", 
+  "citationitems": [
+    {
+      "position": 1, 
+      "first-reference-note-number": 1, 
+      "id": "classic-1", 
+      "near-note": true
+    }
+  ], 
+  "result": "2 <span style=\"font-variant:small-caps;\">William Blackstone</span>, <span style=\"font-variant:small-caps;\">Commentaries</span>."
+}

@@ -1,0 +1,33 @@
+{
+  "items": [
+    {
+      "title": "X v. Netherlands", 
+      "issued": {
+        "raw": "1971-07-20"
+      }, 
+      "jurisdiction": "coe.int", 
+      "number": "4130/69", 
+      "authority": "European Commission of Human Rights", 
+      "page": "9", 
+      "volume": "38", 
+      "publication-date": {
+        "raw": "1971"
+      }, 
+      "container-title": "Collection of Decisions", 
+      "type": "legal_case", 
+      "id": "case-12"
+    }
+  ], 
+  "stylename": "mlz-new-zealand-law", 
+  "citationitems": [
+    {
+      "first-reference-note-number": 1, 
+      "label": "paragraph", 
+      "locator": 125, 
+      "position": 1, 
+      "id": "case-12", 
+      "near-note": true
+    }
+  ], 
+  "result": "<i>X v Netherlands</i>, above n 1, at [125]."
+}

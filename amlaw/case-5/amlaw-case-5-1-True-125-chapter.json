@@ -1,0 +1,31 @@
+{
+  "items": [
+    {
+      "title": "Mishra v. Grohman", 
+      "issued": {
+        "raw": "1990-12-05"
+      }, 
+      "jurisdiction": "us;federal;ma", 
+      "authority": "District Court", 
+      "page": "1", 
+      "container-title": "New York Law Journal", 
+      "original-date": {
+        "raw": "1990-12-04"
+      }, 
+      "type": "article-newspaper", 
+      "id": "case-5"
+    }
+  ], 
+  "stylename": "mlz-amlaw", 
+  "citationitems": [
+    {
+      "first-reference-note-number": 1, 
+      "label": "chapter", 
+      "locator": 125, 
+      "position": 1, 
+      "id": "case-5", 
+      "near-note": true
+    }
+  ], 
+  "result": "<i>Mishra v. Grohman</i>, <i>supra</i> note 1, ch. 125."
+}

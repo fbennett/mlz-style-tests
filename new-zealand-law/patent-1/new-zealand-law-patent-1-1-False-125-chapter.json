@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "author": [
+        {
+          "given": "Charles W.", 
+          "family": "Howlett"
+        }, 
+        {
+          "given": "Grant", 
+          "family": "Bullis"
+        }, 
+        {
+          "given": "Angel", 
+          "family": "Bernardo"
+        }
+      ], 
+      "type": "patent", 
+      "jurisdiction": "us", 
+      "number": "6,913,465", 
+      "submitted": {
+        "raw": "2003-01-13"
+      }, 
+      "issued": {
+        "raw": "2005-07-05"
+      }, 
+      "title": "Dental implant delivery system", 
+      "recipient": [
+        {
+          "isInstitution": "true", 
+          "family": "Nobel Biocare Services A.G."
+        }
+      ], 
+      "id": "patent-1"
+    }
+  ], 
+  "stylename": "mlz-new-zealand-law", 
+  "citationitems": [
+    {
+      "first-reference-note-number": 1, 
+      "label": "chapter", 
+      "locator": 125, 
+      "position": 1, 
+      "id": "patent-1", 
+      "near-note": false
+    }
+  ], 
+  "result": "Dental implant delivery system, US Patent No 6,913,465, above n 1, at ch 125."
+}

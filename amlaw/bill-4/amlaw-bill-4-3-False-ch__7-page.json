@@ -1,0 +1,30 @@
+{
+  "items": [
+    {
+      "number": "836", 
+      "issued": {
+        "raw": "1999"
+      }, 
+      "jurisdiction": "us;me", 
+      "chapter-number": "3", 
+      "authority": "Legislature|House of Representatives", 
+      "event": "Senate Joint Resolution", 
+      "collection-number": "118", 
+      "genre": "Special Session", 
+      "type": "bill", 
+      "id": "bill-4"
+    }
+  ], 
+  "stylename": "mlz-amlaw", 
+  "citationitems": [
+    {
+      "first-reference-note-number": 1, 
+      "label": "page", 
+      "locator": "ch. 7", 
+      "position": 3, 
+      "id": "bill-4", 
+      "near-note": false
+    }
+  ], 
+  "result": "<i>Id.</i>"
+}

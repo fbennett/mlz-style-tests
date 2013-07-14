@@ -1,0 +1,33 @@
+{
+  "items": [
+    {
+      "title": "Omojudi v. U.K.", 
+      "issued": {
+        "raw": "2009-11-24"
+      }, 
+      "jurisdiction": "coe.int;court.of.human.rights", 
+      "number": "1820/08", 
+      "authority": "European Court of Human Rights", 
+      "page": "10", 
+      "volume": "51", 
+      "publication-date": {
+        "raw": "2010"
+      }, 
+      "container-title": "European Human Rights Reports", 
+      "type": "legal_case", 
+      "id": "case-10"
+    }
+  ], 
+  "stylename": "mlz-new-zealand-law", 
+  "citationitems": [
+    {
+      "first-reference-note-number": 1, 
+      "label": "chapter", 
+      "locator": 125, 
+      "position": 1, 
+      "id": "case-10", 
+      "near-note": true
+    }
+  ], 
+  "result": "<i>Omojudi v UK</i>, above n 1, at ch 125."
+}
