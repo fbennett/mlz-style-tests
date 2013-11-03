@@ -1,68 +1,68 @@
 {
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "xtra0",
+      "label": null,
+      "locator": null,
+      "near-note": true,
+      "position": 1
+    },
+    {
+      "first-reference-note-number": 1,
+      "id": "treaty-3",
+      "label": null,
+      "locator": null,
+      "near-note": true,
+      "position": 1
+    }
+  ],
   "items": [
     {
       "author": [
         {
-          "isInstitution": "true", 
-          "family": "United States"
-        }, 
+          "family": "United States",
+          "isInstitution": "true"
+        },
         {
-          "isInstitution": "true", 
-          "family": "Japan"
+          "family": "Japan",
+          "isInstitution": "true"
         }
-      ], 
-      "section": "art. X", 
-      "title": "Treaty of Friendship, Commerce and Navigation", 
-      "page": "2063", 
-      "volume": "4", 
+      ],
+      "container-title": "U.S.T.",
       "event-date": {
         "raw": "1953-04-02"
-      }, 
-      "container-title": "U.S.T.", 
-      "type": "treaty", 
-      "id": "xtra0"
-    }, 
+      },
+      "id": "xtra0",
+      "page": "2063",
+      "section": "art. X",
+      "title": "Treaty of Friendship, Commerce and Navigation",
+      "type": "treaty",
+      "volume": "4"
+    },
     {
       "author": [
         {
-          "isInstitution": "true", 
-          "family": "United States"
-        }, 
+          "family": "United States",
+          "isInstitution": "true"
+        },
         {
-          "isInstitution": "true", 
-          "family": "Japan"
+          "family": "Japan",
+          "isInstitution": "true"
         }
-      ], 
-      "section": "art. X", 
-      "title": "Treaty of Friendship, Commerce and Navigation", 
-      "page": "135", 
-      "volume": "75", 
+      ],
+      "container-title": "U.N.T.S.",
       "event-date": {
         "raw": "1953-04-02"
-      }, 
-      "container-title": "U.N.T.S.", 
-      "type": "treaty", 
-      "id": "treaty-3"
+      },
+      "id": "treaty-3",
+      "page": "135",
+      "section": "art. X",
+      "title": "Treaty of Friendship, Commerce and Navigation",
+      "type": "treaty",
+      "volume": "75"
     }
-  ], 
-  "stylename": "mlz-amlaw", 
-  "citationitems": [
-    {
-      "first-reference-note-number": 1, 
-      "label": null, 
-      "locator": null, 
-      "position": 1, 
-      "id": "xtra0", 
-      "near-note": true
-    }, 
-    {
-      "first-reference-note-number": 1, 
-      "label": null, 
-      "locator": null, 
-      "position": 1, 
-      "id": "treaty-3", 
-      "near-note": true
-    }
-  ], 
-  "result": "Treaty of Friendship, Commerce and Navigation, art. X, <i>supra</i> note 1, 4 U.S.T. 2063, 75 U.N.T.S. 135."
+  ],
+  "result": "Treaty of Friendship, Commerce and Navigation, art. X, <i>supra</i> note 1, 4 U.S.T. 2063, 75 U.N.T.S. 135.",
+  "stylename": "mlz-amlaw"
 }

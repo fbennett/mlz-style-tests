@@ -1,1 +1,23 @@
-{"items": [{"publisher": "New Line Cinema", "title": "Snakes on a plane", "type": "motion_picture", "id": "film-2", "issued": {"raw": "2006"}}], "stylename": "mlz-cms-full", "citationitems": [{"position": 2, "first-reference-note-number": 1, "id": "film-2", "near-note": false}], "result": "Ibid."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "film-2",
+      "near-note": false,
+      "position": 2
+    }
+  ],
+  "items": [
+    {
+      "id": "film-2",
+      "issued": {
+        "raw": "2006"
+      },
+      "publisher": "New Line Cinema",
+      "title": "Snakes on a plane",
+      "type": "motion_picture"
+    }
+  ],
+  "result": "Ibid.",
+  "stylename": "mlz-cms-full"
+}

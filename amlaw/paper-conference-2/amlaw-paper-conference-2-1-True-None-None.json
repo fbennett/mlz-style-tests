@@ -1,36 +1,36 @@
 {
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "paper-conference-2",
+      "near-note": true,
+      "position": 1
+    }
+  ],
   "items": [
     {
       "author": [
         {
-          "given": "Michael J.", 
-          "family": "Trebilcock"
-        }, 
+          "family": "Trebilcock",
+          "given": "Michael J."
+        },
         {
-          "given": "Edward M.", 
-          "family": "Iacobucci"
+          "family": "Iacobucci",
+          "given": "Edward M."
         }
-      ], 
+      ],
+      "container-title": "Harvard Law Review",
+      "event": "Symposium: Public Values in an Era of Privatization",
+      "id": "paper-conference-2",
       "issued": {
         "raw": "2003"
-      }, 
-      "title": "Privatization and Accountability", 
-      "event": "Symposium: Public Values in an Era of Privatization", 
-      "volume": "116", 
-      "container-title": "Harvard Law Review", 
-      "type": "paper-conference", 
-      "id": "paper-conference-2", 
-      "page": "1422-1454"
+      },
+      "page": "1422-1454",
+      "title": "Privatization and Accountability",
+      "type": "paper-conference",
+      "volume": "116"
     }
-  ], 
-  "stylename": "mlz-amlaw", 
-  "citationitems": [
-    {
-      "position": 1, 
-      "first-reference-note-number": 1, 
-      "id": "paper-conference-2", 
-      "near-note": true
-    }
-  ], 
-  "result": "Trebilcock &#38; Iacobucci, <i>supra</i> note 1."
+  ],
+  "result": "Trebilcock &#38; Iacobucci, <i>supra</i> note 1.",
+  "stylename": "mlz-amlaw"
 }

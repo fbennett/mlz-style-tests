@@ -1,30 +1,30 @@
 {
-  "items": [
-    {
-      "issued": {
-        "raw": "1995"
-      }, 
-      "section": "sec. 2", 
-      "jurisdiction": "us;pa", 
-      "chapter-number": "1", 
-      "authority": "Legislature | House of Representatives", 
-      "number": "124", 
-      "collection-number": "179", 
-      "genre": "Special Session", 
-      "type": "bill", 
-      "id": "bill-3"
-    }
-  ], 
-  "stylename": "mlz-new-zealand-law", 
   "citationitems": [
     {
-      "first-reference-note-number": 1, 
-      "label": "page", 
-      "locator": ", sec. 25 & 143", 
-      "position": 1, 
-      "id": "bill-3", 
-      "near-note": false
+      "first-reference-note-number": 1,
+      "id": "bill-3",
+      "label": "page",
+      "locator": ", sec. 25 & 143",
+      "near-note": false,
+      "position": 1
     }
-  ], 
-  "result": "HR 124, 179th Leg, 1st Spec Sess (Pa 1995) ss 2, 25 &#38; 143."
+  ],
+  "items": [
+    {
+      "authority": "Legislature | House of Representatives",
+      "chapter-number": "1",
+      "collection-number": "179",
+      "genre": "Special Session",
+      "id": "bill-3",
+      "issued": {
+        "raw": "1995"
+      },
+      "jurisdiction": "us;pa",
+      "number": "124",
+      "section": "sec. 2",
+      "type": "bill"
+    }
+  ],
+  "result": "HR 124, 179th Leg, 1st Spec Sess (Pa 1995) ss 2, 25 &#38; 143.",
+  "stylename": "mlz-new-zealand-law"
 }

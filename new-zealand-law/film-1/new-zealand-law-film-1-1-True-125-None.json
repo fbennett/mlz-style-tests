@@ -1,25 +1,25 @@
 {
-  "items": [
-    {
-      "publisher": "Newmarket", 
-      "issued": {
-        "raw": "2000"
-      }, 
-      "type": "motion_picture", 
-      "id": "film-1", 
-      "title": "Memento"
-    }
-  ], 
-  "stylename": "mlz-new-zealand-law", 
   "citationitems": [
     {
-      "first-reference-note-number": 1, 
-      "label": null, 
-      "locator": 125, 
-      "position": 1, 
-      "id": "film-1", 
-      "near-note": true
+      "first-reference-note-number": 1,
+      "id": "film-1",
+      "label": null,
+      "locator": 125,
+      "near-note": true,
+      "position": 1
     }
-  ], 
-  "result": "<i>Memento</i>, above n 1, at 125."
+  ],
+  "items": [
+    {
+      "id": "film-1",
+      "issued": {
+        "raw": "2000"
+      },
+      "publisher": "Newmarket",
+      "title": "Memento",
+      "type": "motion_picture"
+    }
+  ],
+  "result": "<i>Memento</i>, above n 1, at 125.",
+  "stylename": "mlz-new-zealand-law"
 }

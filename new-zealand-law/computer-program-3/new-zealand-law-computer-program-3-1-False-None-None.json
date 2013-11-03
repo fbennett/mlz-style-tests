@@ -1,1 +1,26 @@
-{"items": [{"publisher": "Canonical Limited", "medium": "ARM", "publisher-place": "London", "title": "Ubuntu", "issued": {"raw": "April 28, 2011"}, "version": "Natty Narwal", "type": "book", "id": "computer-program-3"}], "stylename": "mlz-new-zealand-law", "citationitems": [{"position": 1, "first-reference-note-number": 1, "id": "computer-program-3", "near-note": false}], "result": "<i>Ubuntu</i>, above n 1."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "computer-program-3",
+      "near-note": false,
+      "position": 1
+    }
+  ],
+  "items": [
+    {
+      "id": "computer-program-3",
+      "issued": {
+        "raw": "April 28, 2011"
+      },
+      "medium": "ARM",
+      "publisher": "Canonical Limited",
+      "publisher-place": "London",
+      "title": "Ubuntu",
+      "type": "book",
+      "version": "Natty Narwal"
+    }
+  ],
+  "result": "<i>Ubuntu</i>, above n 1.",
+  "stylename": "mlz-new-zealand-law"
+}

@@ -1,1 +1,30 @@
-{"items": [{"title": "Hopp v. Lepp", "issued": {"raw": "1980-05-20"}, "jurisdiction": "ca", "authority": "Supreme Court", "id": "case-17", "volume": "2", "collection-number": "1980", "container-title": "Supreme Court Reports", "type": "legal_case", "page": "192"}], "stylename": "mlz-mcgill-en-v7", "citationitems": [{"first-reference-note-number": 1, "label": "paragraph", "locator": 125, "position": 1, "id": "case-17", "near-note": true}], "result": "<i>Hopp v Lepp</i>, <i>supra</i> note 1 at para 125."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "case-17",
+      "label": "paragraph",
+      "locator": 125,
+      "near-note": true,
+      "position": 1
+    }
+  ],
+  "items": [
+    {
+      "authority": "Supreme Court",
+      "collection-number": "1980",
+      "container-title": "Supreme Court Reports",
+      "id": "case-17",
+      "issued": {
+        "raw": "1980-05-20"
+      },
+      "jurisdiction": "ca",
+      "page": "192",
+      "title": "Hopp v. Lepp",
+      "type": "legal_case",
+      "volume": "2"
+    }
+  ],
+  "result": "<i>Hopp v Lepp</i>, <i>supra</i> note 1 at para 125.",
+  "stylename": "mlz-mcgill-en-v7"
+}

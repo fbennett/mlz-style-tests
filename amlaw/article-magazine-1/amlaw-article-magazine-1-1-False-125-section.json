@@ -1,1 +1,34 @@
-{"items": [{"type": "article-magazine", "title": "The Optimal Number of Friends in the Information Age", "issued": {"raw": "2005-07"}, "author": [{"given": "Haldun", "family": "Ozaktas"}], "id": "article-magazine-1", "volume": "49", "container-title": "Journal of Irreproducible Results", "issue": "4", "page": "32"}], "stylename": "mlz-amlaw", "citationitems": [{"first-reference-note-number": 1, "label": "section", "locator": 125, "position": 1, "id": "article-magazine-1", "near-note": false}], "result": "Ozaktas, <i>supra</i> note 1, sec. 125."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "article-magazine-1",
+      "label": "section",
+      "locator": 125,
+      "near-note": false,
+      "position": 1
+    }
+  ],
+  "items": [
+    {
+      "author": [
+        {
+          "family": "Ozaktas",
+          "given": "Haldun"
+        }
+      ],
+      "container-title": "Journal of Irreproducible Results",
+      "id": "article-magazine-1",
+      "issue": "4",
+      "issued": {
+        "raw": "2005-07"
+      },
+      "page": "32",
+      "title": "The Optimal Number of Friends in the Information Age",
+      "type": "article-magazine",
+      "volume": "49"
+    }
+  ],
+  "result": "Ozaktas, <i>supra</i> note 1, sec. 125.",
+  "stylename": "mlz-amlaw"
+}

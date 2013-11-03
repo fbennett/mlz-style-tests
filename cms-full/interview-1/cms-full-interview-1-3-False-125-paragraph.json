@@ -1,1 +1,35 @@
-{"items": [{"issued": {"raw": "2004-06-24"}, "interviewer": [{"given": "Carol", "family": "Coleman"}], "type": "interview", "id": "interview-1", "author": [{"given": "George W.", "family": "Bush"}]}], "stylename": "mlz-cms-full", "citationitems": [{"first-reference-note-number": 1, "label": "paragraph", "locator": 125, "position": 3, "id": "interview-1", "near-note": false}], "result": "Ibid., para. 125."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "interview-1",
+      "label": "paragraph",
+      "locator": 125,
+      "near-note": false,
+      "position": 3
+    }
+  ],
+  "items": [
+    {
+      "author": [
+        {
+          "family": "Bush",
+          "given": "George W."
+        }
+      ],
+      "id": "interview-1",
+      "interviewer": [
+        {
+          "family": "Coleman",
+          "given": "Carol"
+        }
+      ],
+      "issued": {
+        "raw": "2004-06-24"
+      },
+      "type": "interview"
+    }
+  ],
+  "result": "Ibid., para. 125.",
+  "stylename": "mlz-cms-full"
+}

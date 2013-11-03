@@ -1,31 +1,31 @@
 {
-  "items": [
-    {
-      "title": "Barrett v. Enfield L.B.C.", 
-      "issued": {
-        "raw": "1999-06-17"
-      }, 
-      "jurisdiction": "gb", 
-      "authority": "House of Lords", 
-      "page": "1", 
-      "volume": "49", 
-      "publication-date": "1999", 
-      "container-title": "Butterworths Medico-Legal Reports", 
-      "title-short": "Barrett", 
-      "type": "legal_case", 
-      "id": "case-1"
-    }
-  ], 
-  "stylename": "mlz-amlaw", 
   "citationitems": [
     {
-      "first-reference-note-number": 1, 
-      "label": "chapter", 
-      "locator": 125, 
-      "position": 1, 
-      "id": "case-1", 
-      "near-note": true
+      "first-reference-note-number": 1,
+      "id": "case-1",
+      "label": "chapter",
+      "locator": 125,
+      "near-note": true,
+      "position": 1
     }
-  ], 
-  "result": "<i>Barrett</i>, (1999) 49 B.M.L.R. ch. 125."
+  ],
+  "items": [
+    {
+      "authority": "House of Lords",
+      "container-title": "Butterworths Medico-Legal Reports",
+      "id": "case-1",
+      "issued": {
+        "raw": "1999-06-17"
+      },
+      "jurisdiction": "gb",
+      "page": "1",
+      "publication-date": "1999",
+      "title": "Barrett v. Enfield L.B.C.",
+      "title-short": "Barrett",
+      "type": "legal_case",
+      "volume": "49"
+    }
+  ],
+  "result": "<i>Barrett</i>, (1999) 49 B.M.L.R. ch. 125.",
+  "stylename": "mlz-amlaw"
 }

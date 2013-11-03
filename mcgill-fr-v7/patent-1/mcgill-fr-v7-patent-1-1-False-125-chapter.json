@@ -1,1 +1,49 @@
-{"items": [{"recipient": [{"isInstitution": "true", "family": "Nobel Biocare Services A.G."}], "author": [{"given": "Charles W.", "family": "Howlett"}, {"given": "Grant", "family": "Bullis"}, {"given": "Angel", "family": "Bernardo"}], "issued": {"raw": "2005-07-05"}, "jurisdiction": "us", "number": "6,913,465", "submitted": {"raw": "2003-01-13"}, "title": "Dental implant delivery system", "type": "patent", "id": "patent-1"}], "stylename": "mlz-mcgill-fr-v7", "citationitems": [{"first-reference-note-number": 1, "label": "chapter", "locator": 125, "position": 1, "id": "patent-1", "near-note": false}], "result": "Dental implant delivery system, US Patent No 6,913,465, <i>supra</i> note 1 chap\u00a0125."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "patent-1",
+      "label": "chapter",
+      "locator": 125,
+      "near-note": false,
+      "position": 1
+    }
+  ],
+  "items": [
+    {
+      "author": [
+        {
+          "family": "Howlett",
+          "given": "Charles W."
+        },
+        {
+          "family": "Bullis",
+          "given": "Grant"
+        },
+        {
+          "family": "Bernardo",
+          "given": "Angel"
+        }
+      ],
+      "id": "patent-1",
+      "issued": {
+        "raw": "2005-07-05"
+      },
+      "jurisdiction": "us",
+      "number": "6,913,465",
+      "recipient": [
+        {
+          "family": "Nobel Biocare Services A.G.",
+          "isInstitution": "true"
+        }
+      ],
+      "submitted": {
+        "raw": "2003-01-13"
+      },
+      "title": "Dental implant delivery system",
+      "type": "patent"
+    }
+  ],
+  "result": "Dental implant delivery system, US Patent No 6,913,465, <i>supra</i> note 1 chap\u00a0125.",
+  "stylename": "mlz-mcgill-fr-v7"
+}

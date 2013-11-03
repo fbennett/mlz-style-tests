@@ -1,1 +1,32 @@
-{"items": [{"publisher-place": "Toronto", "author": [{"given": "Tracey", "family": "Epps"}], "issued": {"raw": "Jan 2004"}, "title": "Merchants in the Temple? The Implications of the GATS for Canada's Health Care System", "id": "paper-conference-1", "type": "paper-conference", "event": "National Health Law Conference"}], "stylename": "mlz-mcgill-en-v7", "citationitems": [{"first-reference-note-number": 1, "label": null, "locator": 125, "position": 3, "id": "paper-conference-1", "near-note": false}], "result": "<i>Ibid</i>, at 125."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "paper-conference-1",
+      "label": null,
+      "locator": 125,
+      "near-note": false,
+      "position": 3
+    }
+  ],
+  "items": [
+    {
+      "author": [
+        {
+          "family": "Epps",
+          "given": "Tracey"
+        }
+      ],
+      "event": "National Health Law Conference",
+      "id": "paper-conference-1",
+      "issued": {
+        "raw": "Jan 2004"
+      },
+      "publisher-place": "Toronto",
+      "title": "Merchants in the Temple? The Implications of the GATS for Canada's Health Care System",
+      "type": "paper-conference"
+    }
+  ],
+  "result": "<i>Ibid</i>, at 125.",
+  "stylename": "mlz-mcgill-en-v7"
+}

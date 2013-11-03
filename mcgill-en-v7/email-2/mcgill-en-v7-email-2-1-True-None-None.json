@@ -1,1 +1,34 @@
-{"items": [{"author": [{"given": "Kostya", "family": "Lantsman"}], "issued": {"raw": "2011-08-22"}, "type": "personal_communication", "genre": "email", "recipient": [{"given": "Frank", "family": "Bennett"}], "id": "email-2"}], "stylename": "mlz-mcgill-en-v7", "citationitems": [{"position": 1, "first-reference-note-number": 1, "id": "email-2", "near-note": true}], "result": "Lantsman to Bennett, 22 August 2011, <i>supra</i> note 1."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "email-2",
+      "near-note": true,
+      "position": 1
+    }
+  ],
+  "items": [
+    {
+      "author": [
+        {
+          "family": "Lantsman",
+          "given": "Kostya"
+        }
+      ],
+      "genre": "email",
+      "id": "email-2",
+      "issued": {
+        "raw": "2011-08-22"
+      },
+      "recipient": [
+        {
+          "family": "Bennett",
+          "given": "Frank"
+        }
+      ],
+      "type": "personal_communication"
+    }
+  ],
+  "result": "Lantsman to Bennett, 22 August 2011, <i>supra</i> note 1.",
+  "stylename": "mlz-mcgill-en-v7"
+}

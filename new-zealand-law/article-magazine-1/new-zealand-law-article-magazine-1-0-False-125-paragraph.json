@@ -1,34 +1,34 @@
 {
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "article-magazine-1",
+      "label": "paragraph",
+      "locator": 125,
+      "near-note": false,
+      "position": 0
+    }
+  ],
   "items": [
     {
       "author": [
         {
-          "given": "Haldun", 
-          "family": "Ozaktas"
+          "family": "Ozaktas",
+          "given": "Haldun"
         }
-      ], 
-      "issue": "4", 
-      "title": "The Optimal Number of Friends in the Information Age", 
-      "page": "32", 
-      "volume": "49", 
+      ],
+      "container-title": "Journal of Irreproducible Results",
+      "id": "article-magazine-1",
+      "issue": "4",
       "issued": {
         "raw": "2005-07"
-      }, 
-      "container-title": "Journal of Irreproducible Results", 
-      "type": "article-magazine", 
-      "id": "article-magazine-1"
+      },
+      "page": "32",
+      "title": "The Optimal Number of Friends in the Information Age",
+      "type": "article-magazine",
+      "volume": "49"
     }
-  ], 
-  "stylename": "mlz-new-zealand-law", 
-  "citationitems": [
-    {
-      "first-reference-note-number": 1, 
-      "label": "paragraph", 
-      "locator": 125, 
-      "position": 0, 
-      "id": "article-magazine-1", 
-      "near-note": false
-    }
-  ], 
-  "result": "Haldun Ozaktas \u201cThe Optimal Number of Friends in the Information Age\u201d (2005) 49(4) J Irreproducible Results 32 at [125]."
+  ],
+  "result": "Haldun Ozaktas \u201cThe Optimal Number of Friends in the Information Age\u201d (2005) 49(4) J Irreproducible Results 32 at [125].",
+  "stylename": "mlz-new-zealand-law"
 }

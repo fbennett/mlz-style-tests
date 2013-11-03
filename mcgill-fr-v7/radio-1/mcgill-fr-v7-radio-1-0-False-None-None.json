@@ -1,1 +1,31 @@
-{"items": [{"publisher": "Columbia Broadcasting System", "title": "War of the Worlds", "issued": {"raw": "1938-10-30"}, "author": [{"given": "Orson", "family": "Welles"}], "container-title": "Mercury Theatre on the Air", "genre": "radio broadcast", "type": "broadcast", "id": "radio-1"}], "stylename": "mlz-mcgill-fr-v7", "citationitems": [{"position": 0, "first-reference-note-number": 1, "id": "radio-1", "near-note": false}], "result": "\u00ab\u00a0War of the Worlds\u00a0\u00bb, Orson Welles, dir, sur <i>Mercury Theatre on the Air</i>, CBS, 30 octobre 1938."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "radio-1",
+      "near-note": false,
+      "position": 0
+    }
+  ],
+  "items": [
+    {
+      "author": [
+        {
+          "family": "Welles",
+          "given": "Orson"
+        }
+      ],
+      "container-title": "Mercury Theatre on the Air",
+      "genre": "radio broadcast",
+      "id": "radio-1",
+      "issued": {
+        "raw": "1938-10-30"
+      },
+      "publisher": "Columbia Broadcasting System",
+      "title": "War of the Worlds",
+      "type": "broadcast"
+    }
+  ],
+  "result": "\u00ab\u00a0War of the Worlds\u00a0\u00bb, Orson Welles, dir, sur <i>Mercury Theatre on the Air</i>, CBS, 30 octobre 1938.",
+  "stylename": "mlz-mcgill-fr-v7"
+}

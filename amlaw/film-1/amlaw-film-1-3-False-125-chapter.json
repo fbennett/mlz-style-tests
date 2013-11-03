@@ -1,25 +1,25 @@
 {
-  "items": [
-    {
-      "publisher": "Newmarket", 
-      "issued": {
-        "raw": "2000"
-      }, 
-      "type": "motion_picture", 
-      "id": "film-1", 
-      "title": "Memento"
-    }
-  ], 
-  "stylename": "mlz-amlaw", 
   "citationitems": [
     {
-      "first-reference-note-number": 1, 
-      "label": "chapter", 
-      "locator": 125, 
-      "position": 3, 
-      "id": "film-1", 
-      "near-note": false
+      "first-reference-note-number": 1,
+      "id": "film-1",
+      "label": "chapter",
+      "locator": 125,
+      "near-note": false,
+      "position": 3
     }
-  ], 
-  "result": "<i>Id.</i> ch. 125."
+  ],
+  "items": [
+    {
+      "id": "film-1",
+      "issued": {
+        "raw": "2000"
+      },
+      "publisher": "Newmarket",
+      "title": "Memento",
+      "type": "motion_picture"
+    }
+  ],
+  "result": "<i>Id.</i> ch. 125.",
+  "stylename": "mlz-amlaw"
 }

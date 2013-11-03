@@ -1,1 +1,36 @@
-{"items": [{"publisher-place": "Chicago", "title": "20 Years of Abstract Markup: Any Progress?", "URL": "http://www.reid.org/~brian/markup98.ppt", "issued": {"raw": "1998-11-19"}, "author": [{"given": "Brian", "family": "Reid"}], "id": "presentation-1", "accessed": {"raw": "2012-05-15"}, "type": "speech", "event": "Markup Technologies \u201998"}], "stylename": "mlz-cms-full", "citationitems": [{"first-reference-note-number": 1, "label": "chapter", "locator": 125, "position": 0, "id": "presentation-1", "near-note": false}], "result": "Brian Reid, \u201c20 Years of Abstract Markup: Any Progress?\u201d (presented at Markup Technologies \u201998, Chicago, November 19, 1998), chap. 125, http://www.reid.org/~brian/markup98.ppt (accessed May 15, 2012)."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "presentation-1",
+      "label": "chapter",
+      "locator": 125,
+      "near-note": false,
+      "position": 0
+    }
+  ],
+  "items": [
+    {
+      "URL": "http://www.reid.org/~brian/markup98.ppt",
+      "accessed": {
+        "raw": "2012-05-15"
+      },
+      "author": [
+        {
+          "family": "Reid",
+          "given": "Brian"
+        }
+      ],
+      "event": "Markup Technologies \u201998",
+      "id": "presentation-1",
+      "issued": {
+        "raw": "1998-11-19"
+      },
+      "publisher-place": "Chicago",
+      "title": "20 Years of Abstract Markup: Any Progress?",
+      "type": "speech"
+    }
+  ],
+  "result": "Brian Reid, \u201c20 Years of Abstract Markup: Any Progress?\u201d (presented at Markup Technologies \u201998, Chicago, November 19, 1998), chap. 125, http://www.reid.org/~brian/markup98.ppt (accessed May 15, 2012).",
+  "stylename": "mlz-cms-full"
+}

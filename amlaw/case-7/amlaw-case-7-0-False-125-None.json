@@ -1,29 +1,29 @@
 {
-  "items": [
-    {
-      "title": "Re Bernard L. Madoff Investment Securities L.L.C.", 
-      "issued": {
-        "raw": "2009-02-27"
-      }, 
-      "jurisdiction": "gb;england.and.wales", 
-      "authority": "High Court | Chancery", 
-      "page": "442", 
-      "collection-number": "2009", 
-      "title-short": "Bernard Madoff Securities", 
-      "type": "legal_case", 
-      "id": "case-7"
-    }
-  ], 
-  "stylename": "mlz-amlaw", 
   "citationitems": [
     {
-      "first-reference-note-number": 1, 
-      "label": null, 
-      "locator": 125, 
-      "position": 0, 
-      "id": "case-7", 
-      "near-note": false
+      "first-reference-note-number": 1,
+      "id": "case-7",
+      "label": null,
+      "locator": 125,
+      "near-note": false,
+      "position": 0
     }
-  ], 
-  "result": "<i>Re</i> Bernard L. Madoff Investment Securities L.L.C., [2009] EWHC 442 (Ch) 125."
+  ],
+  "items": [
+    {
+      "authority": "High Court | Chancery",
+      "collection-number": "2009",
+      "id": "case-7",
+      "issued": {
+        "raw": "2009-02-27"
+      },
+      "jurisdiction": "gb;england.and.wales",
+      "page": "442",
+      "title": "Re Bernard L. Madoff Investment Securities L.L.C.",
+      "title-short": "Bernard Madoff Securities",
+      "type": "legal_case"
+    }
+  ],
+  "result": "<i>Re</i> Bernard L. Madoff Investment Securities L.L.C., [2009] EWHC 442 (Ch) 125.",
+  "stylename": "mlz-amlaw"
 }

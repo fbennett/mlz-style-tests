@@ -1,1 +1,27 @@
-{"items": [{"title": "Kitchens v. Grohman", "issued": {"raw": "1990-12-04"}, "jurisdiction": "us;federal;ma", "number": "90\\-345", "authority": "District Court", "type": "legal_case", "id": "case-4"}], "stylename": "mlz-mcgill-en-v7", "citationitems": [{"first-reference-note-number": 1, "label": "section", "locator": 125, "position": 0, "id": "case-4", "near-note": false}], "result": "<i>Kitchens v Grohman</i>, No 90-345, slip op sec 125 (D Mass 4 December 1990)."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "case-4",
+      "label": "section",
+      "locator": 125,
+      "near-note": false,
+      "position": 0
+    }
+  ],
+  "items": [
+    {
+      "authority": "District Court",
+      "id": "case-4",
+      "issued": {
+        "raw": "1990-12-04"
+      },
+      "jurisdiction": "us;federal;ma",
+      "number": "90\\-345",
+      "title": "Kitchens v. Grohman",
+      "type": "legal_case"
+    }
+  ],
+  "result": "<i>Kitchens v Grohman</i>, No 90-345, slip op sec 125 (D Mass 4 December 1990).",
+  "stylename": "mlz-mcgill-en-v7"
+}

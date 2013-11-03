@@ -1,1 +1,28 @@
-{"items": [{"publisher": "NBC", "medium": "DVD", "title": "Tabula Rasa", "issued": {"raw": "1999-04-20"}, "container-title": "Law & Order", "genre": "television broadcast", "type": "broadcast", "id": "video-3"}], "stylename": "mlz-mcgill-fr-v7", "citationitems": [{"first-reference-note-number": 1, "label": "chapter", "locator": 125, "position": 0, "id": "video-3", "near-note": false}], "result": "\u00ab\u00a0Tabula Rasa\u00a0\u00bb, sur <i>Law &#38; Order</i>, DVD, NBC, 20 avril 1999 chap\u00a0125."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "video-3",
+      "label": "chapter",
+      "locator": 125,
+      "near-note": false,
+      "position": 0
+    }
+  ],
+  "items": [
+    {
+      "container-title": "Law & Order",
+      "genre": "television broadcast",
+      "id": "video-3",
+      "issued": {
+        "raw": "1999-04-20"
+      },
+      "medium": "DVD",
+      "publisher": "NBC",
+      "title": "Tabula Rasa",
+      "type": "broadcast"
+    }
+  ],
+  "result": "\u00ab\u00a0Tabula Rasa\u00a0\u00bb, sur <i>Law &#38; Order</i>, DVD, NBC, 20 avril 1999 chap\u00a0125.",
+  "stylename": "mlz-mcgill-fr-v7"
+}

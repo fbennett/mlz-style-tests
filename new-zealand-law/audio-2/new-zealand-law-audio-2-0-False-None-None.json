@@ -1,41 +1,41 @@
 {
-  "items": [
-    {
-      "publisher": "EMI Angel", 
-      "medium": "CD", 
-      "author": [
-        {
-          "given": "Seiji", 
-          "family": "Ozawa"
-        }, 
-        {
-          "isInstitution": "true", 
-          "family": "Berlin Philharmonic"
-        }
-      ], 
-      "issued": {
-        "raw": "1990"
-      }, 
-      "title": "1812 Overture", 
-      "composer": [
-        {
-          "given": "Pyotr Il'yich", 
-          "family": "Tchaikovsky"
-        }
-      ], 
-      "container-title": "1812 Overture etc.", 
-      "type": "song", 
-      "id": "audio-2"
-    }
-  ], 
-  "stylename": "mlz-new-zealand-law", 
   "citationitems": [
     {
-      "position": 0, 
-      "first-reference-note-number": 1, 
-      "id": "audio-2", 
-      "near-note": false
+      "first-reference-note-number": 1,
+      "id": "audio-2",
+      "near-note": false,
+      "position": 0
     }
-  ], 
-  "result": "Seiji Ozawa, Berlin Philharmonic \u201c1812 Overture\u201d on <i>1812 Overture etc</i> (CD, EMI Angel, 1990)."
+  ],
+  "items": [
+    {
+      "author": [
+        {
+          "family": "Ozawa",
+          "given": "Seiji"
+        },
+        {
+          "family": "Berlin Philharmonic",
+          "isInstitution": "true"
+        }
+      ],
+      "composer": [
+        {
+          "family": "Tchaikovsky",
+          "given": "Pyotr Il'yich"
+        }
+      ],
+      "container-title": "1812 Overture etc.",
+      "id": "audio-2",
+      "issued": {
+        "raw": "1990"
+      },
+      "medium": "CD",
+      "publisher": "EMI Angel",
+      "title": "1812 Overture",
+      "type": "song"
+    }
+  ],
+  "result": "Seiji Ozawa, Berlin Philharmonic \u201c1812 Overture\u201d on <i>1812 Overture etc</i> (CD, EMI Angel, 1990).",
+  "stylename": "mlz-new-zealand-law"
 }

@@ -1,1 +1,28 @@
-{"items": [{"publisher": "Microsoft Corporation", "medium": "Windows XP, Service Pack 3", "publisher-place": "Redmond", "title": "Word 2003", "issued": {"raw": "2003"}, "version": "8313.8221", "type": "book", "id": "computer-program-1"}], "stylename": "mlz-oscola", "citationitems": [{"first-reference-note-number": 1, "label": "paragraph", "locator": 125, "position": 3, "id": "computer-program-1", "near-note": false}], "result": "ibid para 125"}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "computer-program-1",
+      "label": "paragraph",
+      "locator": 125,
+      "near-note": false,
+      "position": 3
+    }
+  ],
+  "items": [
+    {
+      "id": "computer-program-1",
+      "issued": {
+        "raw": "2003"
+      },
+      "medium": "Windows XP, Service Pack 3",
+      "publisher": "Microsoft Corporation",
+      "publisher-place": "Redmond",
+      "title": "Word 2003",
+      "type": "book",
+      "version": "8313.8221"
+    }
+  ],
+  "result": "ibid para 125",
+  "stylename": "mlz-oscola"
+}

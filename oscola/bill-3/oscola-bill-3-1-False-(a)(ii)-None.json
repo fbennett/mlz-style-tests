@@ -1,1 +1,30 @@
-{"items": [{"issued": {"raw": "1995"}, "section": "sec. 2", "jurisdiction": "us;pa", "chapter-number": "1", "authority": "Legislature | House of Representatives", "number": "124", "collection-number": "179", "genre": "Special Session", "type": "bill", "id": "bill-3"}], "stylename": "mlz-oscola", "citationitems": [{"first-reference-note-number": 1, "label": null, "locator": "(a)(ii)", "position": 1, "id": "bill-3", "near-note": false}], "result": "HR 124, 179th Leg, 1st Spec Sess (Pa 1995) s 2(a)(ii)"}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "bill-3",
+      "label": null,
+      "locator": "(a)(ii)",
+      "near-note": false,
+      "position": 1
+    }
+  ],
+  "items": [
+    {
+      "authority": "Legislature | House of Representatives",
+      "chapter-number": "1",
+      "collection-number": "179",
+      "genre": "Special Session",
+      "id": "bill-3",
+      "issued": {
+        "raw": "1995"
+      },
+      "jurisdiction": "us;pa",
+      "number": "124",
+      "section": "sec. 2",
+      "type": "bill"
+    }
+  ],
+  "result": "HR 124, 179th Leg, 1st Spec Sess (Pa 1995) s 2(a)(ii)",
+  "stylename": "mlz-oscola"
+}

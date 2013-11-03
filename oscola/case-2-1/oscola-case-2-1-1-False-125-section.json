@@ -1,1 +1,29 @@
-{"items": [{"volume": "3", "title": "Bunt v. Tilley", "authority": "High Court | Queen's Bench", "id": "ITEM-1", "note": "{:collection-number:2006}{:issued:2006}{:jurisdiction:gb;england.and.wales}", "container-title": "All England Reports", "original-date": {"raw": "2006-03-10"}, "type": "legal_case", "page": "336"}], "stylename": "mlz-oscola", "citationitems": [{"first-reference-note-number": 1, "label": "section", "locator": 125, "position": 1, "id": "ITEM-1", "near-note": false}], "result": "<i>Bunt v Tilley</i> (n 1) s 125"}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "ITEM-1",
+      "label": "section",
+      "locator": 125,
+      "near-note": false,
+      "position": 1
+    }
+  ],
+  "items": [
+    {
+      "authority": "High Court | Queen's Bench",
+      "container-title": "All England Reports",
+      "id": "ITEM-1",
+      "note": "{:collection-number:2006}{:issued:2006}{:jurisdiction:gb;england.and.wales}",
+      "original-date": {
+        "raw": "2006-03-10"
+      },
+      "page": "336",
+      "title": "Bunt v. Tilley",
+      "type": "legal_case",
+      "volume": "3"
+    }
+  ],
+  "result": "<i>Bunt v Tilley</i> (n 1) s 125",
+  "stylename": "mlz-oscola"
+}

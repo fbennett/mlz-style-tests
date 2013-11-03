@@ -1,1 +1,28 @@
-{"items": [{"title": "In re Looney", "issued": {"raw": "1988-09-09"}, "jurisdiction": "us;federal;va.western", "authority": "Bankruptcy Court", "id": "case-21", "collection-number": "1987-1989", "genre": "Transfer Binder", "container-title": "Bankruptcy Law Reports (CCH)", "type": "legal_case", "page": "para. 72,447"}], "stylename": "mlz-mcgill-en-v7", "citationitems": [{"position": 2, "first-reference-note-number": 1, "id": "case-21", "near-note": false}], "result": "<i>Ibid</i>."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "case-21",
+      "near-note": false,
+      "position": 2
+    }
+  ],
+  "items": [
+    {
+      "authority": "Bankruptcy Court",
+      "collection-number": "1987-1989",
+      "container-title": "Bankruptcy Law Reports (CCH)",
+      "genre": "Transfer Binder",
+      "id": "case-21",
+      "issued": {
+        "raw": "1988-09-09"
+      },
+      "jurisdiction": "us;federal;va.western",
+      "page": "para. 72,447",
+      "title": "In re Looney",
+      "type": "legal_case"
+    }
+  ],
+  "result": "<i>Ibid</i>.",
+  "stylename": "mlz-mcgill-en-v7"
+}

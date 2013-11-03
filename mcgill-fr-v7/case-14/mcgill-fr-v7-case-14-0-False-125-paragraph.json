@@ -1,1 +1,33 @@
-{"items": [{"title": "Council of Civil Service Unions v. U.K.", "issued": {"raw": "1987"}, "jurisdiction": "coe.int", "number": "11603/85", "authority": "European Commission of Human Rights", "id": "case-14", "volume": "10", "publication-date": {"raw": "1987"}, "container-title": "European Human Rights Reports", "type": "legal_case", "page": "269"}], "stylename": "mlz-mcgill-fr-v7", "citationitems": [{"first-reference-note-number": 1, "label": "paragraph", "locator": 125, "position": 0, "id": "case-14", "near-note": false}], "result": "<i>Council of Civil Service Unions v UK</i>, (1987) 10 EHRR 269 au para\u00a0125."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "case-14",
+      "label": "paragraph",
+      "locator": 125,
+      "near-note": false,
+      "position": 0
+    }
+  ],
+  "items": [
+    {
+      "authority": "European Commission of Human Rights",
+      "container-title": "European Human Rights Reports",
+      "id": "case-14",
+      "issued": {
+        "raw": "1987"
+      },
+      "jurisdiction": "coe.int",
+      "number": "11603/85",
+      "page": "269",
+      "publication-date": {
+        "raw": "1987"
+      },
+      "title": "Council of Civil Service Unions v. U.K.",
+      "type": "legal_case",
+      "volume": "10"
+    }
+  ],
+  "result": "<i>Council of Civil Service Unions v UK</i>, (1987) 10 EHRR 269 au para\u00a0125.",
+  "stylename": "mlz-mcgill-fr-v7"
+}

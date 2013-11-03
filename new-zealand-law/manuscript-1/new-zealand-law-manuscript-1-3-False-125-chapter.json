@@ -1,33 +1,33 @@
 {
-  "items": [
-    {
-      "publisher-place": "New York", 
-      "author": [
-        {
-          "given": "Alvin", 
-          "family": "Johnson"
-        }
-      ], 
-      "issued": {
-        "raw": "1937"
-      }, 
-      "archive_location": "file 36", 
-      "archive": "Horace Kallen Papers, YIVO Institute for Jewish Research", 
-      "genre": "memorandum", 
-      "type": "manuscript", 
-      "id": "manuscript-1"
-    }
-  ], 
-  "stylename": "mlz-new-zealand-law", 
   "citationitems": [
     {
-      "first-reference-note-number": 1, 
-      "label": "chapter", 
-      "locator": 125, 
-      "position": 3, 
-      "id": "manuscript-1", 
-      "near-note": false
+      "first-reference-note-number": 1,
+      "id": "manuscript-1",
+      "label": "chapter",
+      "locator": 125,
+      "near-note": false,
+      "position": 3
     }
-  ], 
-  "result": "At ch 125."
+  ],
+  "items": [
+    {
+      "archive": "Horace Kallen Papers, YIVO Institute for Jewish Research",
+      "archive_location": "file 36",
+      "author": [
+        {
+          "family": "Johnson",
+          "given": "Alvin"
+        }
+      ],
+      "genre": "memorandum",
+      "id": "manuscript-1",
+      "issued": {
+        "raw": "1937"
+      },
+      "publisher-place": "New York",
+      "type": "manuscript"
+    }
+  ],
+  "result": "At ch 125.",
+  "stylename": "mlz-new-zealand-law"
 }

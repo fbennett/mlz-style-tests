@@ -1,31 +1,31 @@
 {
-  "items": [
-    {
-      "publisher": "West", 
-      "title": "Parking Authority Law", 
-      "issued": {
-        "raw": "2010"
-      }, 
-      "section": "sec. 342", 
-      "jurisdiction": "us;pa", 
-      "number": "tit. 53", 
-      "volume": "53", 
-      "publication-date": {
-        "raw": "2010"
-      }, 
-      "container-title": "Pennsylvania Statutes Annotated", 
-      "type": "legislation", 
-      "id": "statute-7"
-    }
-  ], 
-  "stylename": "mlz-new-zealand-law", 
   "citationitems": [
     {
-      "position": 1, 
-      "first-reference-note-number": 1, 
-      "id": "statute-7", 
-      "near-note": true
+      "first-reference-note-number": 1,
+      "id": "statute-7",
+      "near-note": true,
+      "position": 1
     }
-  ], 
-  "result": "Parking Authority Law, s 342."
+  ],
+  "items": [
+    {
+      "container-title": "Pennsylvania Statutes Annotated",
+      "id": "statute-7",
+      "issued": {
+        "raw": "2010"
+      },
+      "jurisdiction": "us;pa",
+      "number": "tit. 53",
+      "publication-date": {
+        "raw": "2010"
+      },
+      "publisher": "West",
+      "section": "sec. 342",
+      "title": "Parking Authority Law",
+      "type": "legislation",
+      "volume": "53"
+    }
+  ],
+  "result": "Parking Authority Law, s 342.",
+  "stylename": "mlz-new-zealand-law"
 }

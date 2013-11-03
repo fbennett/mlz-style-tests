@@ -1,36 +1,36 @@
 {
-  "items": [
-    {
-      "author": [
-        {
-          "given": "", 
-          "family": "billmon"
-        }
-      ], 
-      "URL": "http://web.archive.org/web/20050707022657/http://billmon.org/archives/001974.html", 
-      "issued": {
-        "raw": "July 4, 2005"
-      }, 
-      "title": "Goodbye Columbus", 
-      "container-title": "Whiskey Bar", 
-      "genre": "Weblog", 
-      "accessed": {
-        "raw": "2011-01-31"
-      }, 
-      "type": "post-weblog", 
-      "id": "post-weblog-1"
-    }
-  ], 
-  "stylename": "mlz-new-zealand-law", 
   "citationitems": [
     {
-      "first-reference-note-number": 1, 
-      "label": "paragraph", 
-      "locator": 125, 
-      "position": 1, 
-      "id": "post-weblog-1", 
-      "near-note": false
+      "first-reference-note-number": 1,
+      "id": "post-weblog-1",
+      "label": "paragraph",
+      "locator": 125,
+      "near-note": false,
+      "position": 1
     }
-  ], 
-  "result": "billmon, above n 1, at [125]."
+  ],
+  "items": [
+    {
+      "URL": "http://web.archive.org/web/20050707022657/http://billmon.org/archives/001974.html",
+      "accessed": {
+        "raw": "2011-01-31"
+      },
+      "author": [
+        {
+          "family": "billmon",
+          "given": ""
+        }
+      ],
+      "container-title": "Whiskey Bar",
+      "genre": "Weblog",
+      "id": "post-weblog-1",
+      "issued": {
+        "raw": "July 4, 2005"
+      },
+      "title": "Goodbye Columbus",
+      "type": "post-weblog"
+    }
+  ],
+  "result": "billmon, above n 1, at [125].",
+  "stylename": "mlz-new-zealand-law"
 }

@@ -1,1 +1,48 @@
-{"items": [{"title": "National Environmental Policy Act of 1969", "issued": {"raw": "1969"}, "section": "sec. 102", "jurisdiction": "us", "publication-date": {"raw": "2006"}, "type": "legislation", "id": "xtra0"}, {"title": "National Environmental Policy Act of 1969", "issued": {"raw": "1969"}, "section": "sec. 4332", "jurisdiction": "us", "volume": "42", "publication-date": {"raw": "2006"}, "container-title": "US Code", "type": "legislation", "id": "statute-6"}], "stylename": "mlz-cms-full", "citationitems": [{"position": 1, "first-reference-note-number": 1, "id": "xtra0", "near-note": true}, {"position": 1, "first-reference-note-number": 1, "id": "statute-6", "near-note": true}], "result": "National Environmental Policy Act of 1969, \u00a7 102, 42 <span style=\"font-variant:small-caps;\">U.S.C.</span> \u00a7 4332."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "xtra0",
+      "near-note": true,
+      "position": 1
+    },
+    {
+      "first-reference-note-number": 1,
+      "id": "statute-6",
+      "near-note": true,
+      "position": 1
+    }
+  ],
+  "items": [
+    {
+      "id": "xtra0",
+      "issued": {
+        "raw": "1969"
+      },
+      "jurisdiction": "us",
+      "publication-date": {
+        "raw": "2006"
+      },
+      "section": "sec. 102",
+      "title": "National Environmental Policy Act of 1969",
+      "type": "legislation"
+    },
+    {
+      "container-title": "US Code",
+      "id": "statute-6",
+      "issued": {
+        "raw": "1969"
+      },
+      "jurisdiction": "us",
+      "publication-date": {
+        "raw": "2006"
+      },
+      "section": "sec. 4332",
+      "title": "National Environmental Policy Act of 1969",
+      "type": "legislation",
+      "volume": "42"
+    }
+  ],
+  "result": "National Environmental Policy Act of 1969, \u00a7 102, 42 <span style=\"font-variant:small-caps;\">U.S.C.</span> \u00a7 4332.",
+  "stylename": "mlz-cms-full"
+}

@@ -1,1 +1,36 @@
-{"items": [{"author": [{"given": "Randy", "family": "Barnett"}], "URL": "http://volokh.com/2012/05/03/swing-state-voters-want-the-affordable-care-act-held-unconstitutional-or-repealed/#comment-517672779", "issued": {"raw": "2012-05-03"}, "title": "Swing State Voters Want the Affordable Care Act Held Unconstitutional or Repealed", "container-title": "Volokh Conspiracy", "genre": "Comment by user loki_13", "accessed": {"raw": "2012-05-03"}, "type": "post", "id": "forum-post-1"}], "stylename": "mlz-mcgill-en-v7", "citationitems": [{"first-reference-note-number": 1, "label": null, "locator": 125, "position": 0, "id": "forum-post-1", "near-note": false}], "result": "Randy Barnett, \u201cSwing State Voters Want the Affordable Care Act Held Unconstitutional or Repealed\u201d Comment by user loki_13 (3 May 2012) at 125, online Volokh Conspiracy &#60;http://volokh.com/2012/05/03/swing-state-voters-want-the-affordable-care-act-held-unconstitutional-or-repealed/#comment-517672779&#62;."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "forum-post-1",
+      "label": null,
+      "locator": 125,
+      "near-note": false,
+      "position": 0
+    }
+  ],
+  "items": [
+    {
+      "URL": "http://volokh.com/2012/05/03/swing-state-voters-want-the-affordable-care-act-held-unconstitutional-or-repealed/#comment-517672779",
+      "accessed": {
+        "raw": "2012-05-03"
+      },
+      "author": [
+        {
+          "family": "Barnett",
+          "given": "Randy"
+        }
+      ],
+      "container-title": "Volokh Conspiracy",
+      "genre": "Comment by user loki_13",
+      "id": "forum-post-1",
+      "issued": {
+        "raw": "2012-05-03"
+      },
+      "title": "Swing State Voters Want the Affordable Care Act Held Unconstitutional or Repealed",
+      "type": "post"
+    }
+  ],
+  "result": "Randy Barnett, \u201cSwing State Voters Want the Affordable Care Act Held Unconstitutional or Repealed\u201d Comment by user loki_13 (3 May 2012) at 125, online Volokh Conspiracy &#60;http://volokh.com/2012/05/03/swing-state-voters-want-the-affordable-care-act-held-unconstitutional-or-repealed/#comment-517672779&#62;.",
+  "stylename": "mlz-mcgill-en-v7"
+}

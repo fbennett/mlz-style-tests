@@ -1,1 +1,27 @@
-{"items": [{"title": "Powick v. Malvern Wells Water Co.", "issued": {"raw": "1993-09-28"}, "authority": "High Court|Queen's Bench", "note": "{:jurisdiction:gb;england.and.wales}", "container-title": "The Times", "type": "article-newspaper", "id": "ITEM-1"}], "stylename": "mlz-oscola", "citationitems": [{"first-reference-note-number": 1, "label": "section", "locator": 125, "position": 1, "id": "ITEM-1", "near-note": false}], "result": "<i>Powick v Malvern Wells Water Co</i> (n 1) s 125"}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "ITEM-1",
+      "label": "section",
+      "locator": 125,
+      "near-note": false,
+      "position": 1
+    }
+  ],
+  "items": [
+    {
+      "authority": "High Court|Queen's Bench",
+      "container-title": "The Times",
+      "id": "ITEM-1",
+      "issued": {
+        "raw": "1993-09-28"
+      },
+      "note": "{:jurisdiction:gb;england.and.wales}",
+      "title": "Powick v. Malvern Wells Water Co.",
+      "type": "article-newspaper"
+    }
+  ],
+  "result": "<i>Powick v Malvern Wells Water Co</i> (n 1) s 125",
+  "stylename": "mlz-oscola"
+}

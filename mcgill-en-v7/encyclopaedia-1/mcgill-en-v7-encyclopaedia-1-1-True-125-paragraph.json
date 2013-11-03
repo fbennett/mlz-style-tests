@@ -1,1 +1,26 @@
-{"items": [{"title": "Encyclop\u00e6dia Britannica", "URL": "http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica", "issued": {"raw": "2012-05-02"}, "container-title": "Wikipedia", "type": "entry-encyclopedia", "id": "encyclopaedia-1"}], "stylename": "mlz-mcgill-en-v7", "citationitems": [{"first-reference-note-number": 1, "label": "paragraph", "locator": 125, "position": 1, "id": "encyclopaedia-1", "near-note": true}], "result": "\u201cEncyclop\u00e6dia Britannica\u201d, <i>supra</i> note 1 at para 125."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "encyclopaedia-1",
+      "label": "paragraph",
+      "locator": 125,
+      "near-note": true,
+      "position": 1
+    }
+  ],
+  "items": [
+    {
+      "URL": "http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica",
+      "container-title": "Wikipedia",
+      "id": "encyclopaedia-1",
+      "issued": {
+        "raw": "2012-05-02"
+      },
+      "title": "Encyclop\u00e6dia Britannica",
+      "type": "entry-encyclopedia"
+    }
+  ],
+  "result": "\u201cEncyclop\u00e6dia Britannica\u201d, <i>supra</i> note 1 at para 125.",
+  "stylename": "mlz-mcgill-en-v7"
+}

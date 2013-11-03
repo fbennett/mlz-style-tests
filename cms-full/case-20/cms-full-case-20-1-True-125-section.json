@@ -1,1 +1,28 @@
-{"items": [{"publisher-place": "Nanaimo", "title": "Stephenson v. Stephenson", "issued": {"raw": "1984-12-06"}, "jurisdiction": "ca;bc", "number": "5920/004143", "authority": "Supreme Court", "type": "legal_case", "id": "case-20"}], "stylename": "mlz-cms-full", "citationitems": [{"first-reference-note-number": 1, "label": "section", "locator": 125, "position": 1, "id": "case-20", "near-note": true}], "result": "<i>Stephenson v. Stephenson</i>, Nanaimo 5920/004143, sec. 125."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "case-20",
+      "label": "section",
+      "locator": 125,
+      "near-note": true,
+      "position": 1
+    }
+  ],
+  "items": [
+    {
+      "authority": "Supreme Court",
+      "id": "case-20",
+      "issued": {
+        "raw": "1984-12-06"
+      },
+      "jurisdiction": "ca;bc",
+      "number": "5920/004143",
+      "publisher-place": "Nanaimo",
+      "title": "Stephenson v. Stephenson",
+      "type": "legal_case"
+    }
+  ],
+  "result": "<i>Stephenson v. Stephenson</i>, Nanaimo 5920/004143, sec. 125.",
+  "stylename": "mlz-cms-full"
+}

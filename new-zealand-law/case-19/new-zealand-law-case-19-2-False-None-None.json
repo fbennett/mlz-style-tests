@@ -1,28 +1,28 @@
 {
-  "items": [
-    {
-      "title": "Swiss Bank Corp. v. Air Canada", 
-      "issued": {
-        "raw": "1987"
-      }, 
-      "jurisdiction": "ca", 
-      "authority": "Court of Appeal", 
-      "page": "71", 
-      "volume": "1", 
-      "collection-number": "1988", 
-      "container-title": "Federal Court Reports", 
-      "type": "legal_case", 
-      "id": "case-19"
-    }
-  ], 
-  "stylename": "mlz-new-zealand-law", 
   "citationitems": [
     {
-      "position": 2, 
-      "first-reference-note-number": 1, 
-      "id": "case-19", 
-      "near-note": false
+      "first-reference-note-number": 1,
+      "id": "case-19",
+      "near-note": false,
+      "position": 2
     }
-  ], 
-  "result": "<i>Swiss Bank Corp v Air Canada</i>, above n 1."
+  ],
+  "items": [
+    {
+      "authority": "Court of Appeal",
+      "collection-number": "1988",
+      "container-title": "Federal Court Reports",
+      "id": "case-19",
+      "issued": {
+        "raw": "1987"
+      },
+      "jurisdiction": "ca",
+      "page": "71",
+      "title": "Swiss Bank Corp. v. Air Canada",
+      "type": "legal_case",
+      "volume": "1"
+    }
+  ],
+  "result": "<i>Swiss Bank Corp v Air Canada</i>, above n 1.",
+  "stylename": "mlz-new-zealand-law"
 }

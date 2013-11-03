@@ -1,1 +1,31 @@
-{"items": [{"publisher": "Federal Judicial Center", "medium": "Videotape", "title": "Orientation Seminar for Federal Judicial Law Clerks", "URL": "http://www.youtube.com/watch?v=LI3Id1FMaqs", "issued": {"raw": "1998"}, "volume": "Part 1", "accessed": {"raw": "2012-05-02"}, "type": "video", "id": "video-1"}], "stylename": "mlz-oscola", "citationitems": [{"first-reference-note-number": 1, "label": "paragraph", "locator": 125, "position": 0, "id": "video-1", "near-note": false}], "result": "\u2018Orientation Seminar for Federal Judicial Law Clerks\u2019, Part 1 (Videotape, Federal Judicial Center 1998) para 125 &#60;http://www.youtube.com/watch?v=LI3Id1FMaqs&#62; accessed 2 May 2012"}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "video-1",
+      "label": "paragraph",
+      "locator": 125,
+      "near-note": false,
+      "position": 0
+    }
+  ],
+  "items": [
+    {
+      "URL": "http://www.youtube.com/watch?v=LI3Id1FMaqs",
+      "accessed": {
+        "raw": "2012-05-02"
+      },
+      "id": "video-1",
+      "issued": {
+        "raw": "1998"
+      },
+      "medium": "Videotape",
+      "publisher": "Federal Judicial Center",
+      "title": "Orientation Seminar for Federal Judicial Law Clerks",
+      "type": "video",
+      "volume": "Part 1"
+    }
+  ],
+  "result": "\u2018Orientation Seminar for Federal Judicial Law Clerks\u2019, Part 1 (Videotape, Federal Judicial Center 1998) para 125 &#60;http://www.youtube.com/watch?v=LI3Id1FMaqs&#62; accessed 2 May 2012",
+  "stylename": "mlz-oscola"
+}

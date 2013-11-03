@@ -1,23 +1,23 @@
 {
-  "items": [
-    {
-      "publisher": "New Line Cinema", 
-      "issued": {
-        "raw": "2006"
-      }, 
-      "type": "motion_picture", 
-      "id": "ITEM-1", 
-      "title": "Snakes on a Plane"
-    }
-  ], 
-  "stylename": "mlz-new-zealand-law", 
   "citationitems": [
     {
-      "position": 2, 
-      "first-reference-note-number": 1, 
-      "id": "ITEM-1", 
-      "near-note": false
+      "first-reference-note-number": 1,
+      "id": "ITEM-1",
+      "near-note": false,
+      "position": 2
     }
-  ], 
-  "result": "<i>Snakes on a Plane</i>, above n 1."
+  ],
+  "items": [
+    {
+      "id": "ITEM-1",
+      "issued": {
+        "raw": "2006"
+      },
+      "publisher": "New Line Cinema",
+      "title": "Snakes on a Plane",
+      "type": "motion_picture"
+    }
+  ],
+  "result": "<i>Snakes on a Plane</i>, above n 1.",
+  "stylename": "mlz-new-zealand-law"
 }

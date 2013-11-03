@@ -1,44 +1,44 @@
 {
-  "items": [
-    {
-      "title": "Department of Transportation Act", 
-      "issued": {
-        "raw": "1966"
-      }, 
-      "section": "9", 
-      "jurisdiction": "us", 
-      "number": "89\\-670", 
-      "type": "gazette", 
-      "id": "xtra0"
-    }, 
-    {
-      "title": "Department of Transportation Act", 
-      "issued": {
-        "raw": "1966"
-      }, 
-      "section": "p. 931", 
-      "jurisdiction": "us", 
-      "page": "931", 
-      "volume": "80", 
-      "container-title": "Statutes at Large", 
-      "type": "gazette", 
-      "id": "statute-5"
-    }
-  ], 
-  "stylename": "mlz-amlaw", 
   "citationitems": [
     {
-      "position": 1, 
-      "first-reference-note-number": 1, 
-      "id": "xtra0", 
-      "near-note": false
-    }, 
+      "first-reference-note-number": 1,
+      "id": "xtra0",
+      "near-note": false,
+      "position": 1
+    },
     {
-      "position": 1, 
-      "first-reference-note-number": 1, 
-      "id": "statute-5", 
-      "near-note": false
+      "first-reference-note-number": 1,
+      "id": "statute-5",
+      "near-note": false,
+      "position": 1
     }
-  ], 
-  "result": "Department of Transportation Act, Pub. L. No. 89-670, \u00a7 9, 80 Stat. 931, 931 (1966)."
+  ],
+  "items": [
+    {
+      "id": "xtra0",
+      "issued": {
+        "raw": "1966"
+      },
+      "jurisdiction": "us",
+      "number": "89\\-670",
+      "section": "9",
+      "title": "Department of Transportation Act",
+      "type": "gazette"
+    },
+    {
+      "container-title": "Statutes at Large",
+      "id": "statute-5",
+      "issued": {
+        "raw": "1966"
+      },
+      "jurisdiction": "us",
+      "page": "931",
+      "section": "p. 931",
+      "title": "Department of Transportation Act",
+      "type": "gazette",
+      "volume": "80"
+    }
+  ],
+  "result": "Department of Transportation Act, Pub. L. No. 89-670, \u00a7 9, 80 Stat. 931, 931 (1966).",
+  "stylename": "mlz-amlaw"
 }

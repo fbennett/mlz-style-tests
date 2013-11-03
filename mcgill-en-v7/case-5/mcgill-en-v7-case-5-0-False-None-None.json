@@ -1,1 +1,29 @@
-{"items": [{"title": "Mishra v. Grohman", "issued": {"raw": "1990-12-05"}, "jurisdiction": "us;federal;ma", "authority": "District Court", "id": "case-5", "container-title": "New York Law Journal", "original-date": {"raw": "1990-12-04"}, "type": "article-newspaper", "page": "1"}], "stylename": "mlz-mcgill-en-v7", "citationitems": [{"position": 0, "first-reference-note-number": 1, "id": "case-5", "near-note": false}], "result": "\u201cMishra v Grohman\u201d, <i>New York Law Journal</i>, 5 December 1990."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "case-5",
+      "near-note": false,
+      "position": 0
+    }
+  ],
+  "items": [
+    {
+      "authority": "District Court",
+      "container-title": "New York Law Journal",
+      "id": "case-5",
+      "issued": {
+        "raw": "1990-12-05"
+      },
+      "jurisdiction": "us;federal;ma",
+      "original-date": {
+        "raw": "1990-12-04"
+      },
+      "page": "1",
+      "title": "Mishra v. Grohman",
+      "type": "article-newspaper"
+    }
+  ],
+  "result": "\u201cMishra v Grohman\u201d, <i>New York Law Journal</i>, 5 December 1990.",
+  "stylename": "mlz-mcgill-en-v7"
+}

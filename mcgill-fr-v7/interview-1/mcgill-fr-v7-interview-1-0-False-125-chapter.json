@@ -1,1 +1,35 @@
-{"items": [{"issued": {"raw": "2004-06-24"}, "interviewer": [{"given": "Carol", "family": "Coleman"}], "type": "interview", "id": "interview-1", "author": [{"given": "George W.", "family": "Bush"}]}], "stylename": "mlz-mcgill-fr-v7", "citationitems": [{"first-reference-note-number": 1, "label": "chapter", "locator": 125, "position": 0, "id": "interview-1", "near-note": false}], "result": "George W Bush, entretien r\u00e9alis\u00e9 par Carol Coleman (24 juin 2004) chap\u00a0125."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "interview-1",
+      "label": "chapter",
+      "locator": 125,
+      "near-note": false,
+      "position": 0
+    }
+  ],
+  "items": [
+    {
+      "author": [
+        {
+          "family": "Bush",
+          "given": "George W."
+        }
+      ],
+      "id": "interview-1",
+      "interviewer": [
+        {
+          "family": "Coleman",
+          "given": "Carol"
+        }
+      ],
+      "issued": {
+        "raw": "2004-06-24"
+      },
+      "type": "interview"
+    }
+  ],
+  "result": "George W Bush, entretien r\u00e9alis\u00e9 par Carol Coleman (24 juin 2004) chap\u00a0125.",
+  "stylename": "mlz-mcgill-fr-v7"
+}

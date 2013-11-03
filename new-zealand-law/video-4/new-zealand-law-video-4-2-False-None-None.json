@@ -1,30 +1,30 @@
 {
-  "items": [
-    {
-      "author": [
-        {
-          "given": "Frank", 
-          "family": "Bennett"
-        }
-      ], 
-      "URL": "http://www.youtube.com/watch?v=NK0hNDhqbSM", 
-      "issued": {
-        "raw": "2012-04-28"
-      }, 
-      "title": "Multilingual Zotero variant (MLZ) with OpenCongress.org", 
-      "container-title": "YouTube", 
-      "type": "video", 
-      "id": "video-4"
-    }
-  ], 
-  "stylename": "mlz-new-zealand-law", 
   "citationitems": [
     {
-      "position": 2, 
-      "first-reference-note-number": 1, 
-      "id": "video-4", 
-      "near-note": false
+      "first-reference-note-number": 1,
+      "id": "video-4",
+      "near-note": false,
+      "position": 2
     }
-  ], 
-  "result": "Bennett, above n 1."
+  ],
+  "items": [
+    {
+      "URL": "http://www.youtube.com/watch?v=NK0hNDhqbSM",
+      "author": [
+        {
+          "family": "Bennett",
+          "given": "Frank"
+        }
+      ],
+      "container-title": "YouTube",
+      "id": "video-4",
+      "issued": {
+        "raw": "2012-04-28"
+      },
+      "title": "Multilingual Zotero variant (MLZ) with OpenCongress.org",
+      "type": "video"
+    }
+  ],
+  "result": "Bennett, above n 1.",
+  "stylename": "mlz-new-zealand-law"
 }

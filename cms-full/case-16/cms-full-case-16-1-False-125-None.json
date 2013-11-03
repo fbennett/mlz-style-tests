@@ -1,1 +1,29 @@
-{"items": [{"title": "MiningWatch Canada v. Canada (Fisheries and Oceans)", "issued": {"raw": "2010-01-21"}, "jurisdiction": "ca", "number": "32797", "authority": "Supreme Court", "id": "case-16", "collection-number": "2010", "type": "legal_case", "page": "2"}], "stylename": "mlz-cms-full", "citationitems": [{"first-reference-note-number": 1, "label": null, "locator": 125, "position": 1, "id": "case-16", "near-note": false}], "result": "MiningWatch Canada v. Canada (Fisheries and Oceans), 2010 SCC 2, 125 (Can.)."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "case-16",
+      "label": null,
+      "locator": 125,
+      "near-note": false,
+      "position": 1
+    }
+  ],
+  "items": [
+    {
+      "authority": "Supreme Court",
+      "collection-number": "2010",
+      "id": "case-16",
+      "issued": {
+        "raw": "2010-01-21"
+      },
+      "jurisdiction": "ca",
+      "number": "32797",
+      "page": "2",
+      "title": "MiningWatch Canada v. Canada (Fisheries and Oceans)",
+      "type": "legal_case"
+    }
+  ],
+  "result": "MiningWatch Canada v. Canada (Fisheries and Oceans), 2010 SCC 2, 125 (Can.).",
+  "stylename": "mlz-cms-full"
+}

@@ -1,1 +1,46 @@
-{"items": [{"title": "Labor-Management Relations Act", "issued": {"raw": "1947"}, "section": "sec. 8(a)(3)", "jurisdiction": "us", "number": "ch. 120, sec. 101", "type": "gazette", "id": "xtra0"}, {"title": "Labor-Management Relations Act", "issued": {"raw": "1947"}, "section": "p. 140-141", "jurisdiction": "us", "page": "136", "volume": "61", "container-title": "Statutes at Large", "type": "gazette", "id": "statute-10"}], "stylename": "mlz-mcgill-en-v7", "citationitems": [{"position": 3, "first-reference-note-number": 1, "id": "xtra0", "near-note": false}, {"first-reference-note-number": 1, "label": null, "locator": ", p. 777", "position": 3, "id": "statute-10", "near-note": false}], "result": "<i>Ibid</i>, 61 Stat 140\u2013141, 777."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "xtra0",
+      "near-note": false,
+      "position": 3
+    },
+    {
+      "first-reference-note-number": 1,
+      "id": "statute-10",
+      "label": null,
+      "locator": ", p. 777",
+      "near-note": false,
+      "position": 3
+    }
+  ],
+  "items": [
+    {
+      "id": "xtra0",
+      "issued": {
+        "raw": "1947"
+      },
+      "jurisdiction": "us",
+      "number": "ch. 120, sec. 101",
+      "section": "sec. 8(a)(3)",
+      "title": "Labor-Management Relations Act",
+      "type": "gazette"
+    },
+    {
+      "container-title": "Statutes at Large",
+      "id": "statute-10",
+      "issued": {
+        "raw": "1947"
+      },
+      "jurisdiction": "us",
+      "page": "136",
+      "section": "p. 140-141",
+      "title": "Labor-Management Relations Act",
+      "type": "gazette",
+      "volume": "61"
+    }
+  ],
+  "result": "<i>Ibid</i>, 61 Stat 140\u2013141, 777.",
+  "stylename": "mlz-mcgill-en-v7"
+}

@@ -1,1 +1,28 @@
-{"items": [{"title": "Yee v. Kitchens", "issued": {"raw": "1990-12-04"}, "jurisdiction": "us;federal;ma", "archive_location": "20837", "number": "90\\-345", "authority": "District Court", "id": "case-6", "publication-date": "1990-12-05", "type": "legal_case", "archive": "1990 U.S. Dist. LEXIS"}], "stylename": "mlz-amlaw", "citationitems": [{"position": 1, "first-reference-note-number": 1, "id": "case-6", "near-note": true}], "result": "<i>Yee v. Kitchens</i>, 1990 U.S. Dist. LEXIS 20837."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "case-6",
+      "near-note": true,
+      "position": 1
+    }
+  ],
+  "items": [
+    {
+      "archive": "1990 U.S. Dist. LEXIS",
+      "archive_location": "20837",
+      "authority": "District Court",
+      "id": "case-6",
+      "issued": {
+        "raw": "1990-12-04"
+      },
+      "jurisdiction": "us;federal;ma",
+      "number": "90\\-345",
+      "publication-date": "1990-12-05",
+      "title": "Yee v. Kitchens",
+      "type": "legal_case"
+    }
+  ],
+  "result": "<i>Yee v. Kitchens</i>, 1990 U.S. Dist. LEXIS 20837.",
+  "stylename": "mlz-amlaw"
+}

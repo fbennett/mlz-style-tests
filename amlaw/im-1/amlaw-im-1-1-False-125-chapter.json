@@ -1,1 +1,36 @@
-{"items": [{"author": [{"given": "Jasvinder", "family": "Singh"}], "issued": {"raw": "2012-01-12"}, "type": "personal_communication", "genre": "instant message", "recipient": [{"given": "Richard", "family": "Davies"}], "id": "im-1"}], "stylename": "mlz-amlaw", "citationitems": [{"first-reference-note-number": 1, "label": "chapter", "locator": 125, "position": 1, "id": "im-1", "near-note": false}], "result": "Singh, <i>supra</i> note 1, ch. 125."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "im-1",
+      "label": "chapter",
+      "locator": 125,
+      "near-note": false,
+      "position": 1
+    }
+  ],
+  "items": [
+    {
+      "author": [
+        {
+          "family": "Singh",
+          "given": "Jasvinder"
+        }
+      ],
+      "genre": "instant message",
+      "id": "im-1",
+      "issued": {
+        "raw": "2012-01-12"
+      },
+      "recipient": [
+        {
+          "family": "Davies",
+          "given": "Richard"
+        }
+      ],
+      "type": "personal_communication"
+    }
+  ],
+  "result": "Instant message from Singh to Davies, <i>supra</i> note 1, ch. 125.",
+  "stylename": "mlz-amlaw"
+}

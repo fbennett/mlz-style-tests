@@ -1,1 +1,36 @@
-{"items": [{"title": "Swing State Voters Want the Affordable Care Act Held Unconstitutional or Repealed", "URL": "http://volokh.com/2012/05/03/swing-state-voters-want-the-affordable-care-act-held-unconstitutional-or-repealed/#comment-517672779", "issued": {"raw": "2012-05-03"}, "author": [{"given": "Randy", "family": "Barnett"}], "container-title": "Volokh Conspiracy", "genre": "Comment by user loki_13", "accessed": {"raw": "2012-05-03"}, "type": "post", "id": "forum-post-1"}], "stylename": "mlz-new-zealand-law", "citationitems": [{"first-reference-note-number": 1, "label": null, "locator": 125, "position": 3, "id": "forum-post-1", "near-note": false}], "result": "At 125."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "forum-post-1",
+      "label": null,
+      "locator": 125,
+      "near-note": false,
+      "position": 3
+    }
+  ],
+  "items": [
+    {
+      "URL": "http://volokh.com/2012/05/03/swing-state-voters-want-the-affordable-care-act-held-unconstitutional-or-repealed/#comment-517672779",
+      "accessed": {
+        "raw": "2012-05-03"
+      },
+      "author": [
+        {
+          "family": "Barnett",
+          "given": "Randy"
+        }
+      ],
+      "container-title": "Volokh Conspiracy",
+      "genre": "Comment by user loki_13",
+      "id": "forum-post-1",
+      "issued": {
+        "raw": "2012-05-03"
+      },
+      "title": "Swing State Voters Want the Affordable Care Act Held Unconstitutional or Repealed",
+      "type": "post"
+    }
+  ],
+  "result": "At 125.",
+  "stylename": "mlz-new-zealand-law"
+}

@@ -1,33 +1,33 @@
 {
-  "items": [
-    {
-      "title": "Simpson v. U.K.", 
-      "issued": {
-        "raw": "1989"
-      }, 
-      "jurisdiction": "coe.int", 
-      "number": "14688/89", 
-      "authority": "European Commission of Human Rights", 
-      "page": "188", 
-      "volume": "64", 
-      "publication-date": {
-        "raw": "1989"
-      }, 
-      "container-title": "Decisions and Reports", 
-      "type": "legal_case", 
-      "id": "case-13"
-    }
-  ], 
-  "stylename": "mlz-new-zealand-law", 
   "citationitems": [
     {
-      "first-reference-note-number": 1, 
-      "label": "section", 
-      "locator": 125, 
-      "position": 1, 
-      "id": "case-13", 
-      "near-note": true
+      "first-reference-note-number": 1,
+      "id": "case-13",
+      "label": "section",
+      "locator": 125,
+      "near-note": true,
+      "position": 1
     }
-  ], 
-  "result": "<i>Simpson v UK</i>, above n 1, at s 125."
+  ],
+  "items": [
+    {
+      "authority": "European Commission of Human Rights",
+      "container-title": "Decisions and Reports",
+      "id": "case-13",
+      "issued": {
+        "raw": "1989"
+      },
+      "jurisdiction": "coe.int",
+      "number": "14688/89",
+      "page": "188",
+      "publication-date": {
+        "raw": "1989"
+      },
+      "title": "Simpson v. U.K.",
+      "type": "legal_case",
+      "volume": "64"
+    }
+  ],
+  "result": "<i>Simpson v UK</i>, above n 1, at s 125.",
+  "stylename": "mlz-new-zealand-law"
 }

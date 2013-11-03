@@ -1,1 +1,31 @@
-{"items": [{"title": "Chuck Wagon Catering Inc. v. Raduege", "issued": {"raw": "1979-05-01"}, "jurisdiction": "us;wi", "authority": "Supreme Court", "id": "case-3", "volume": "277", "publication-date": "1979", "container-title": "Northwest Reporter Second", "title-short": "Chuck Wagon Catering", "type": "legal_case", "page": "797"}], "stylename": "mlz-mcgill-fr-v7", "citationitems": [{"first-reference-note-number": 1, "label": "paragraph", "locator": 125, "position": 1, "id": "case-3", "near-note": false}], "result": "<i>Chuck Wagon Catering</i>, <i>supra</i> note 1 au para\u00a0125."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "case-3",
+      "label": "paragraph",
+      "locator": 125,
+      "near-note": false,
+      "position": 1
+    }
+  ],
+  "items": [
+    {
+      "authority": "Supreme Court",
+      "container-title": "Northwest Reporter Second",
+      "id": "case-3",
+      "issued": {
+        "raw": "1979-05-01"
+      },
+      "jurisdiction": "us;wi",
+      "page": "797",
+      "publication-date": "1979",
+      "title": "Chuck Wagon Catering Inc. v. Raduege",
+      "title-short": "Chuck Wagon Catering",
+      "type": "legal_case",
+      "volume": "277"
+    }
+  ],
+  "result": "<i>Chuck Wagon Catering</i>, <i>supra</i> note 1 au para\u00a0125.",
+  "stylename": "mlz-mcgill-fr-v7"
+}

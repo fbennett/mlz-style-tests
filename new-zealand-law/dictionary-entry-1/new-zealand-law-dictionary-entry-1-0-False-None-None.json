@@ -1,1 +1,32 @@
-{"items": [{"publisher": "Dover Publications", "publisher-place": "New York", "title": "Positive", "issued": {"raw": "1993"}, "author": [{"given": "Ambrose", "family": "Bierce"}], "id": "dictionary-entry-1", "container-title": "Devil's Dictionary", "type": "entry-dictionary", "page": "96"}], "stylename": "mlz-new-zealand-law", "citationitems": [{"position": 0, "first-reference-note-number": 1, "id": "dictionary-entry-1", "near-note": false}], "result": "Ambrose Bierce <i>Devil\u2019s Dictionary</i> (Dover Publications, 1993) Positive."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "dictionary-entry-1",
+      "near-note": false,
+      "position": 0
+    }
+  ],
+  "items": [
+    {
+      "author": [
+        {
+          "family": "Bierce",
+          "given": "Ambrose"
+        }
+      ],
+      "container-title": "Devil's Dictionary",
+      "id": "dictionary-entry-1",
+      "issued": {
+        "raw": "1993"
+      },
+      "page": "96",
+      "publisher": "Dover Publications",
+      "publisher-place": "New York",
+      "title": "Positive",
+      "type": "entry-dictionary"
+    }
+  ],
+  "result": "Ambrose Bierce <i>Devil\u2019s Dictionary</i> (Dover Publications, 1993) Positive.",
+  "stylename": "mlz-new-zealand-law"
+}

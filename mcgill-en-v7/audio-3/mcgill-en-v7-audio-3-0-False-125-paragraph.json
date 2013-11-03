@@ -1,1 +1,36 @@
-{"items": [{"publisher": "P. Jurgenson", "publisher-place": "Moscow", "title": "The Year 1812", "issued": {"raw": "1882"}, "section": "op. 49", "composer": [{"given": "Pyotr Il'yich", "family": "Tchaikovsky"}], "original-date": {"raw": "1880"}, "type": "song", "id": "audio-3"}], "stylename": "mlz-mcgill-en-v7", "citationitems": [{"first-reference-note-number": 1, "label": "paragraph", "locator": 125, "position": 0, "id": "audio-3", "near-note": false}], "result": "Pyotr Il\u2019yich Tchaikovsky, <i>The Year 1812</i> (Moscow: P Jurgenson, 1882) at para 125."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "audio-3",
+      "label": "paragraph",
+      "locator": 125,
+      "near-note": false,
+      "position": 0
+    }
+  ],
+  "items": [
+    {
+      "composer": [
+        {
+          "family": "Tchaikovsky",
+          "given": "Pyotr Il'yich"
+        }
+      ],
+      "id": "audio-3",
+      "issued": {
+        "raw": "1882"
+      },
+      "original-date": {
+        "raw": "1880"
+      },
+      "publisher": "P. Jurgenson",
+      "publisher-place": "Moscow",
+      "section": "op. 49",
+      "title": "The Year 1812",
+      "type": "song"
+    }
+  ],
+  "result": "Pyotr Il\u2019yich Tchaikovsky, <i>The Year 1812</i> (Moscow: P Jurgenson, 1882) at para 125.",
+  "stylename": "mlz-mcgill-en-v7"
+}

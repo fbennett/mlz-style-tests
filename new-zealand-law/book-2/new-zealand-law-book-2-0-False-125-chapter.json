@@ -1,1 +1,42 @@
-{"items": [{"publisher": "Deno\u00ebl", "publisher-place": "Paris", "title": "Fahrenheit 451", "issued": {"raw": "1955"}, "author": [{"given": "Ray", "family": "Bradbury"}], "translator": [{"given": "Jacques", "family": "Chambon"}, {"given": "Henri", "family": "Robillot"}], "type": "book", "id": "book-2"}], "stylename": "mlz-new-zealand-law", "citationitems": [{"first-reference-note-number": 1, "label": "chapter", "locator": 125, "position": 0, "id": "book-2", "near-note": false}], "result": "Jacques Chambon and Henri Robillot (translators) Ray Bradbury <i>Fahrenheit 451</i> (Deno\u00ebl, Paris, 1955) at ch 125."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "book-2",
+      "label": "chapter",
+      "locator": 125,
+      "near-note": false,
+      "position": 0
+    }
+  ],
+  "items": [
+    {
+      "author": [
+        {
+          "family": "Bradbury",
+          "given": "Ray"
+        }
+      ],
+      "id": "book-2",
+      "issued": {
+        "raw": "1955"
+      },
+      "publisher": "Deno\u00ebl",
+      "publisher-place": "Paris",
+      "title": "Fahrenheit 451",
+      "translator": [
+        {
+          "family": "Chambon",
+          "given": "Jacques"
+        },
+        {
+          "family": "Robillot",
+          "given": "Henri"
+        }
+      ],
+      "type": "book"
+    }
+  ],
+  "result": "Jacques Chambon and Henri Robillot (translators) Ray Bradbury <i>Fahrenheit 451</i> (Deno\u00ebl, Paris, 1955) at ch 125.",
+  "stylename": "mlz-new-zealand-law"
+}

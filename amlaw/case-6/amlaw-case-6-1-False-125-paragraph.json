@@ -1,1 +1,30 @@
-{"items": [{"title": "Yee v. Kitchens", "issued": {"raw": "1990-12-04"}, "jurisdiction": "us;federal;ma", "archive_location": "20837", "number": "90\\-345", "authority": "District Court", "id": "case-6", "publication-date": "1990-12-05", "type": "legal_case", "archive": "1990 U.S. Dist. LEXIS"}], "stylename": "mlz-amlaw", "citationitems": [{"first-reference-note-number": 1, "label": "paragraph", "locator": 125, "position": 1, "id": "case-6", "near-note": false}], "result": "Yee v. Kitchens, No. 90-345, 1990 U.S. Dist. LEXIS 20837, \u00b6 125 (D. Mass. Dec. 4, 1990)."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "case-6",
+      "label": "paragraph",
+      "locator": 125,
+      "near-note": false,
+      "position": 1
+    }
+  ],
+  "items": [
+    {
+      "archive": "1990 U.S. Dist. LEXIS",
+      "archive_location": "20837",
+      "authority": "District Court",
+      "id": "case-6",
+      "issued": {
+        "raw": "1990-12-04"
+      },
+      "jurisdiction": "us;federal;ma",
+      "number": "90\\-345",
+      "publication-date": "1990-12-05",
+      "title": "Yee v. Kitchens",
+      "type": "legal_case"
+    }
+  ],
+  "result": "Yee v. Kitchens, No. 90-345, 1990 U.S. Dist. LEXIS 20837, \u00b6 125 (D. Mass. Dec. 4, 1990).",
+  "stylename": "mlz-amlaw"
+}

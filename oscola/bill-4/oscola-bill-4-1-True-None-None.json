@@ -1,1 +1,28 @@
-{"items": [{"issued": {"raw": "1999"}, "id": "bill-4", "jurisdiction": "us;me", "number": "836", "authority": "Legislature|House of Representatives", "chapter-number": "3", "collection-number": "118", "genre": "Special Session", "type": "bill", "event": "Senate Joint Resolution"}], "stylename": "mlz-oscola", "citationitems": [{"position": 1, "first-reference-note-number": 1, "id": "bill-4", "near-note": true}], "result": "SJ Res 836 (Me 1999)"}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "bill-4",
+      "near-note": true,
+      "position": 1
+    }
+  ],
+  "items": [
+    {
+      "authority": "Legislature|House of Representatives",
+      "chapter-number": "3",
+      "collection-number": "118",
+      "event": "Senate Joint Resolution",
+      "genre": "Special Session",
+      "id": "bill-4",
+      "issued": {
+        "raw": "1999"
+      },
+      "jurisdiction": "us;me",
+      "number": "836",
+      "type": "bill"
+    }
+  ],
+  "result": "SJ Res 836 (Me 1999)",
+  "stylename": "mlz-oscola"
+}

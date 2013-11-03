@@ -1,1 +1,20 @@
-{"items": [{"publisher": "Sweet & Maxwell", "type": "book", "id": "looseleaf-1", "title": "Cross on Local Government Law"}], "stylename": "mlz-mcgill-en-v7", "citationitems": [{"position": 2, "first-reference-note-number": 1, "id": "looseleaf-1", "near-note": false}], "result": "<i>Ibid</i>."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "looseleaf-1",
+      "near-note": false,
+      "position": 2
+    }
+  ],
+  "items": [
+    {
+      "id": "looseleaf-1",
+      "publisher": "Sweet & Maxwell",
+      "title": "Cross on Local Government Law",
+      "type": "book"
+    }
+  ],
+  "result": "<i>Ibid</i>.",
+  "stylename": "mlz-mcgill-en-v7"
+}

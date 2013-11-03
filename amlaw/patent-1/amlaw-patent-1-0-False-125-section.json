@@ -1,49 +1,49 @@
 {
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "patent-1",
+      "label": "section",
+      "locator": 125,
+      "near-note": false,
+      "position": 0
+    }
+  ],
   "items": [
     {
       "author": [
         {
-          "given": "Charles W.", 
-          "family": "Howlett"
-        }, 
+          "family": "Howlett",
+          "given": "Charles W."
+        },
         {
-          "given": "Grant", 
-          "family": "Bullis"
-        }, 
+          "family": "Bullis",
+          "given": "Grant"
+        },
         {
-          "given": "Angel", 
-          "family": "Bernardo"
+          "family": "Bernardo",
+          "given": "Angel"
         }
-      ], 
-      "type": "patent", 
-      "jurisdiction": "us", 
-      "number": "6,913,465", 
-      "submitted": {
-        "raw": "2003-01-13"
-      }, 
+      ],
+      "id": "patent-1",
       "issued": {
         "raw": "2005-07-05"
-      }, 
-      "title": "Dental implant delivery system", 
+      },
+      "jurisdiction": "us",
+      "number": "6,913,465",
       "recipient": [
         {
-          "isInstitution": "true", 
-          "family": "Nobel Biocare Services A.G."
+          "family": "Nobel Biocare Services A.G.",
+          "isInstitution": "true"
         }
-      ], 
-      "id": "patent-1"
+      ],
+      "submitted": {
+        "raw": "2003-01-13"
+      },
+      "title": "Dental implant delivery system",
+      "type": "patent"
     }
-  ], 
-  "stylename": "mlz-amlaw", 
-  "citationitems": [
-    {
-      "first-reference-note-number": 1, 
-      "label": "section", 
-      "locator": 125, 
-      "position": 0, 
-      "id": "patent-1", 
-      "near-note": false
-    }
-  ], 
-  "result": "Charles W. Howlett et al. (inventors); Nobel Biocare Services A.G. (assignee), Dental implant delivery system, U.S. Patent No. 6,913,465, (filed Jan. 13, 2003, issued Jul. 5, 2005) sec. 125."
+  ],
+  "result": "Charles W. Howlett et al. (inventors); Nobel Biocare Services A.G. (assignee), Dental implant delivery system, U.S. Patent No. 6,913,465, (filed Jan. 13, 2003, issued Jul. 5, 2005) sec. 125.",
+  "stylename": "mlz-amlaw"
 }

@@ -1,1 +1,36 @@
-{"items": [{"author": [{"given": "Gordon", "family": "Brown"}], "issued": {"raw": "2009-11-20"}, "type": "personal_communication", "genre": "Letter", "recipient": [{"given": "Lady", "family": "Ashton"}], "id": "letter-1"}], "stylename": "mlz-mcgill-fr-v7", "citationitems": [{"first-reference-note-number": 1, "label": "chapter", "locator": 125, "position": 0, "id": "letter-1", "near-note": false}], "result": "Gordon Brown \u00e0 Lady Ashton, (20 novembre 2009) chap\u00a0125."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "letter-1",
+      "label": "chapter",
+      "locator": 125,
+      "near-note": false,
+      "position": 0
+    }
+  ],
+  "items": [
+    {
+      "author": [
+        {
+          "family": "Brown",
+          "given": "Gordon"
+        }
+      ],
+      "genre": "Letter",
+      "id": "letter-1",
+      "issued": {
+        "raw": "2009-11-20"
+      },
+      "recipient": [
+        {
+          "family": "Ashton",
+          "given": "Lady"
+        }
+      ],
+      "type": "personal_communication"
+    }
+  ],
+  "result": "Gordon Brown \u00e0 Lady Ashton, (20 novembre 2009) chap\u00a0125.",
+  "stylename": "mlz-mcgill-fr-v7"
+}

@@ -1,1 +1,42 @@
-{"items": [{"publisher-place": "London", "author": [{"given": "Patrick", "family": "Wintour"}, {"given": "Nick", "family": "Davies"}], "URL": "http://www.guardian.co.uk/media/2010/sep/05/mps-seek-phone-hacking-investigation", "issued": {"raw": "2010-09-05"}, "section": "Media", "title": "MPs seek fresh investigation into News of the World phone hacking", "edition": "Online Edition", "container-title": "The Guardian", "accessed": {"raw": "2012-05-05"}, "type": "article-newspaper", "id": "article-newspaper-1"}], "stylename": "mlz-mcgill-fr-v7", "citationitems": [{"first-reference-note-number": 1, "label": "paragraph", "locator": 125, "position": 0, "id": "article-newspaper-1", "near-note": false}], "result": "Patrick Wintour et Nick Davies, \u00ab\u00a0MPs seek fresh investigation into News of the World phone hacking\u00a0\u00bb, <i>The Guardian</i>, London, 5 septembre 2010, au para\u00a0125, en ligne\u00a0: &#60;http://www.guardian.co.uk/media/2010/sep/05/mps-seek-phone-hacking-investigation&#62;."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "article-newspaper-1",
+      "label": "paragraph",
+      "locator": 125,
+      "near-note": false,
+      "position": 0
+    }
+  ],
+  "items": [
+    {
+      "URL": "http://www.guardian.co.uk/media/2010/sep/05/mps-seek-phone-hacking-investigation",
+      "accessed": {
+        "raw": "2012-05-05"
+      },
+      "author": [
+        {
+          "family": "Wintour",
+          "given": "Patrick"
+        },
+        {
+          "family": "Davies",
+          "given": "Nick"
+        }
+      ],
+      "container-title": "The Guardian",
+      "edition": "Online Edition",
+      "id": "article-newspaper-1",
+      "issued": {
+        "raw": "2010-09-05"
+      },
+      "publisher-place": "London",
+      "section": "Media",
+      "title": "MPs seek fresh investigation into News of the World phone hacking",
+      "type": "article-newspaper"
+    }
+  ],
+  "result": "Patrick Wintour et Nick Davies, \u00ab\u00a0MPs seek fresh investigation into News of the World phone hacking\u00a0\u00bb, <i>The Guardian</i>, London, 5 septembre 2010, au para\u00a0125, en ligne\u00a0: &#60;http://www.guardian.co.uk/media/2010/sep/05/mps-seek-phone-hacking-investigation&#62;.",
+  "stylename": "mlz-mcgill-fr-v7"
+}

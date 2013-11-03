@@ -1,31 +1,31 @@
 {
-  "items": [
-    {
-      "publisher": "Bizarre Records", 
-      "medium": "Vinyl LP", 
-      "author": [
-        {
-          "given": "Frank", 
-          "family": "Zappa"
-        }
-      ], 
-      "issued": {
-        "raw": "1969"
-      }, 
-      "title": "Little Umbrellas", 
-      "container-title": "Hot Rats", 
-      "type": "song", 
-      "id": "audio-1"
-    }
-  ], 
-  "stylename": "mlz-amlaw", 
   "citationitems": [
     {
-      "position": 1, 
-      "first-reference-note-number": 1, 
-      "id": "audio-1", 
-      "near-note": true
+      "first-reference-note-number": 1,
+      "id": "audio-1",
+      "near-note": true,
+      "position": 1
     }
-  ], 
-  "result": "<span style=\"font-variant:small-caps;\">Zappa</span>, <i>supra</i> note 1."
+  ],
+  "items": [
+    {
+      "author": [
+        {
+          "family": "Zappa",
+          "given": "Frank"
+        }
+      ],
+      "container-title": "Hot Rats",
+      "id": "audio-1",
+      "issued": {
+        "raw": "1969"
+      },
+      "medium": "Vinyl LP",
+      "publisher": "Bizarre Records",
+      "title": "Little Umbrellas",
+      "type": "song"
+    }
+  ],
+  "result": "<span style=\"font-variant:small-caps;\">Zappa</span>, <i>supra</i> note 1.",
+  "stylename": "mlz-amlaw"
 }

@@ -1,1 +1,68 @@
-{"items": [{"title": "Treaty of Friendship, Commerce and Navigation", "section": "art. X", "author": [{"isInstitution": "true", "family": "United States"}, {"isInstitution": "true", "family": "Japan"}], "id": "xtra0", "volume": "4", "event-date": {"raw": "1953-04-02"}, "container-title": "U.S.T.", "type": "treaty", "page": "2063"}, {"title": "Treaty of Friendship, Commerce and Navigation", "section": "art. X", "author": [{"isInstitution": "true", "family": "United States"}, {"isInstitution": "true", "family": "Japan"}], "id": "treaty-3", "volume": "75", "event-date": {"raw": "1953-04-02"}, "container-title": "U.N.T.S.", "type": "treaty", "page": "135"}], "stylename": "mlz-mcgill-en-v7", "citationitems": [{"first-reference-note-number": 1, "label": "page", "locator": "para. 888 & 999", "position": 3, "id": "xtra0", "near-note": false}, {"first-reference-note-number": 1, "label": "page", "locator": "para. 888 & 999", "position": 3, "id": "treaty-3", "near-note": false}], "result": "<i>Ibid</i>, at art X para 888 &#38; 999."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "xtra0",
+      "label": "page",
+      "locator": "para. 888 & 999",
+      "near-note": false,
+      "position": 3
+    },
+    {
+      "first-reference-note-number": 1,
+      "id": "treaty-3",
+      "label": "page",
+      "locator": "para. 888 & 999",
+      "near-note": false,
+      "position": 3
+    }
+  ],
+  "items": [
+    {
+      "author": [
+        {
+          "family": "United States",
+          "isInstitution": "true"
+        },
+        {
+          "family": "Japan",
+          "isInstitution": "true"
+        }
+      ],
+      "container-title": "U.S.T.",
+      "event-date": {
+        "raw": "1953-04-02"
+      },
+      "id": "xtra0",
+      "page": "2063",
+      "section": "art. X",
+      "title": "Treaty of Friendship, Commerce and Navigation",
+      "type": "treaty",
+      "volume": "4"
+    },
+    {
+      "author": [
+        {
+          "family": "United States",
+          "isInstitution": "true"
+        },
+        {
+          "family": "Japan",
+          "isInstitution": "true"
+        }
+      ],
+      "container-title": "U.N.T.S.",
+      "event-date": {
+        "raw": "1953-04-02"
+      },
+      "id": "treaty-3",
+      "page": "135",
+      "section": "art. X",
+      "title": "Treaty of Friendship, Commerce and Navigation",
+      "type": "treaty",
+      "volume": "75"
+    }
+  ],
+  "result": "<i>Ibid</i>, at art X para 888 &#38; 999.",
+  "stylename": "mlz-mcgill-en-v7"
+}

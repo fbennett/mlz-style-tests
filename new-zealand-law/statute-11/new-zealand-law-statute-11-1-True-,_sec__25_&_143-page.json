@@ -1,26 +1,26 @@
 {
-  "items": [
-    {
-      "title": "Counter Terrorism Act", 
-      "issued": {
-        "raw": "2008"
-      }, 
-      "section": "sec. 1", 
-      "jurisdiction": "gb", 
-      "type": "legislation", 
-      "id": "statute-11"
-    }
-  ], 
-  "stylename": "mlz-new-zealand-law", 
   "citationitems": [
     {
-      "first-reference-note-number": 1, 
-      "label": "page", 
-      "locator": ", sec. 25 & 143", 
-      "position": 1, 
-      "id": "statute-11", 
-      "near-note": true
+      "first-reference-note-number": 1,
+      "id": "statute-11",
+      "label": "page",
+      "locator": ", sec. 25 & 143",
+      "near-note": true,
+      "position": 1
     }
-  ], 
-  "result": "Counter Terrorism Act, ss 1, 25 &#38; 143."
+  ],
+  "items": [
+    {
+      "id": "statute-11",
+      "issued": {
+        "raw": "2008"
+      },
+      "jurisdiction": "gb",
+      "section": "sec. 1",
+      "title": "Counter Terrorism Act",
+      "type": "legislation"
+    }
+  ],
+  "result": "Counter Terrorism Act, ss 1, 25 &#38; 143.",
+  "stylename": "mlz-new-zealand-law"
 }

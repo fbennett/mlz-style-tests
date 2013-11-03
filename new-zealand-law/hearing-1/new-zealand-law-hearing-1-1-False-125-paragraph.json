@@ -1,1 +1,27 @@
-{"items": [{"title": "Transforming the Federal Government to Protect America from Terrorism", "issued": {"raw": "2002"}, "jurisdiction": "us", "authority": "Congress|House Committee on Homeland Security", "collection-number": "107", "type": "hearing", "id": "hearing-1"}], "stylename": "mlz-new-zealand-law", "citationitems": [{"first-reference-note-number": 1, "label": "paragraph", "locator": 125, "position": 1, "id": "hearing-1", "near-note": false}], "result": "\u201cTransforming the Federal Government to Protect America from Terrorism\u201d, above n 1, at [125]."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "hearing-1",
+      "label": "paragraph",
+      "locator": 125,
+      "near-note": false,
+      "position": 1
+    }
+  ],
+  "items": [
+    {
+      "authority": "Congress|House Committee on Homeland Security",
+      "collection-number": "107",
+      "id": "hearing-1",
+      "issued": {
+        "raw": "2002"
+      },
+      "jurisdiction": "us",
+      "title": "Transforming the Federal Government to Protect America from Terrorism",
+      "type": "hearing"
+    }
+  ],
+  "result": "\u201cTransforming the Federal Government to Protect America from Terrorism\u201d, above n 1, at [125].",
+  "stylename": "mlz-new-zealand-law"
+}

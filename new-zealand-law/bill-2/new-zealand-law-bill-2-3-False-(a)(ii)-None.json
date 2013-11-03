@@ -1,28 +1,28 @@
 {
-  "items": [
-    {
-      "issued": {
-        "raw": "1999"
-      }, 
-      "jurisdiction": "us", 
-      "number": "79", 
-      "authority": "U.S. Congress|House of Representatives", 
-      "event": "House of Representatives Joint Resolution", 
-      "collection-number": "106", 
-      "type": "bill", 
-      "id": "bill-2"
-    }
-  ], 
-  "stylename": "mlz-new-zealand-law", 
   "citationitems": [
     {
-      "first-reference-note-number": 1, 
-      "label": null, 
-      "locator": "(a)(ii)", 
-      "position": 3, 
-      "id": "bill-2", 
-      "near-note": false
+      "first-reference-note-number": 1,
+      "id": "bill-2",
+      "label": null,
+      "locator": "(a)(ii)",
+      "near-note": false,
+      "position": 3
     }
-  ], 
-  "result": "HRJ Res 79 (1999)."
+  ],
+  "items": [
+    {
+      "authority": "U.S. Congress|House of Representatives",
+      "collection-number": "106",
+      "event": "House of Representatives Joint Resolution",
+      "id": "bill-2",
+      "issued": {
+        "raw": "1999"
+      },
+      "jurisdiction": "us",
+      "number": "79",
+      "type": "bill"
+    }
+  ],
+  "result": "HRJ Res 79 (1999).",
+  "stylename": "mlz-new-zealand-law"
 }

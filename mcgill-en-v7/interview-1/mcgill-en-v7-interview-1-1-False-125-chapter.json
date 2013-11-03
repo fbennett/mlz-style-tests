@@ -1,1 +1,35 @@
-{"items": [{"issued": {"raw": "2004-06-24"}, "interviewer": [{"given": "Carol", "family": "Coleman"}], "type": "interview", "id": "interview-1", "author": [{"given": "George W.", "family": "Bush"}]}], "stylename": "mlz-mcgill-en-v7", "citationitems": [{"first-reference-note-number": 1, "label": "chapter", "locator": 125, "position": 1, "id": "interview-1", "near-note": false}], "result": "Bush, interview, <i>supra</i> note 1 at chap 125."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "interview-1",
+      "label": "chapter",
+      "locator": 125,
+      "near-note": false,
+      "position": 1
+    }
+  ],
+  "items": [
+    {
+      "author": [
+        {
+          "family": "Bush",
+          "given": "George W."
+        }
+      ],
+      "id": "interview-1",
+      "interviewer": [
+        {
+          "family": "Coleman",
+          "given": "Carol"
+        }
+      ],
+      "issued": {
+        "raw": "2004-06-24"
+      },
+      "type": "interview"
+    }
+  ],
+  "result": "Bush, interview, <i>supra</i> note 1 at chap 125.",
+  "stylename": "mlz-mcgill-en-v7"
+}

@@ -1,1 +1,26 @@
-{"items": [{"publisher": "CBS", "title": "Don't Count Your Tomatoes Before They're Picked", "issued": {"raw": "1967-10-18"}, "number": "69", "container-title": "Green Acres", "genre": "television broadcast", "type": "broadcast", "id": "tv-1"}], "stylename": "mlz-mcgill-fr-v7", "citationitems": [{"position": 1, "first-reference-note-number": 1, "id": "tv-1", "near-note": false}], "result": "\u00ab\u00a0Don\u2019t Count Your Tomatoes Before They're Picked\u00a0\u00bb, <i>supra</i> note 1."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "tv-1",
+      "near-note": false,
+      "position": 1
+    }
+  ],
+  "items": [
+    {
+      "container-title": "Green Acres",
+      "genre": "television broadcast",
+      "id": "tv-1",
+      "issued": {
+        "raw": "1967-10-18"
+      },
+      "number": "69",
+      "publisher": "CBS",
+      "title": "Don't Count Your Tomatoes Before They're Picked",
+      "type": "broadcast"
+    }
+  ],
+  "result": "\u00ab\u00a0Don\u2019t Count Your Tomatoes Before They're Picked\u00a0\u00bb, <i>supra</i> note 1.",
+  "stylename": "mlz-mcgill-fr-v7"
+}

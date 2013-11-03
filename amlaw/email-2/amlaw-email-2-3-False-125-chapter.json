@@ -1,36 +1,36 @@
 {
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "email-2",
+      "label": "chapter",
+      "locator": 125,
+      "near-note": false,
+      "position": 3
+    }
+  ],
   "items": [
     {
       "author": [
         {
-          "given": "Kostya", 
-          "family": "Lantsman"
+          "family": "Lantsman",
+          "given": "Kostya"
         }
-      ], 
+      ],
+      "genre": "email",
+      "id": "email-2",
       "issued": {
         "raw": "2011-08-22"
-      }, 
-      "type": "personal_communication", 
-      "genre": "email", 
+      },
       "recipient": [
         {
-          "given": "Frank", 
-          "family": "Bennett"
+          "family": "Bennett",
+          "given": "Frank"
         }
-      ], 
-      "id": "email-2"
+      ],
+      "type": "personal_communication"
     }
-  ], 
-  "stylename": "mlz-amlaw", 
-  "citationitems": [
-    {
-      "first-reference-note-number": 1, 
-      "label": "chapter", 
-      "locator": 125, 
-      "position": 3, 
-      "id": "email-2", 
-      "near-note": false
-    }
-  ], 
-  "result": "<i>Id.</i> ch. 125."
+  ],
+  "result": "<i>Id.</i> ch. 125.",
+  "stylename": "mlz-amlaw"
 }

@@ -1,29 +1,29 @@
 {
-  "items": [
-    {
-      "publisher": "Federal Judicial Center", 
-      "medium": "Videotape", 
-      "title": "Orientation Seminar for Federal Judicial Law Clerks", 
-      "URL": "http://www.youtube.com/watch?v=LI3Id1FMaqs", 
-      "issued": {
-        "raw": "1998"
-      }, 
-      "volume": "Part 1", 
-      "accessed": {
-        "raw": "2012-05-02"
-      }, 
-      "type": "video", 
-      "id": "video-1"
-    }
-  ], 
-  "stylename": "mlz-amlaw", 
   "citationitems": [
     {
-      "position": 1, 
-      "first-reference-note-number": 1, 
-      "id": "video-1", 
-      "near-note": false
+      "first-reference-note-number": 1,
+      "id": "video-1",
+      "near-note": false,
+      "position": 1
     }
-  ], 
-  "result": "Orientation Seminar for Federal Judicial Law Clerks, <i>supra</i> note 1."
+  ],
+  "items": [
+    {
+      "URL": "http://www.youtube.com/watch?v=LI3Id1FMaqs",
+      "accessed": {
+        "raw": "2012-05-02"
+      },
+      "id": "video-1",
+      "issued": {
+        "raw": "1998"
+      },
+      "medium": "Videotape",
+      "publisher": "Federal Judicial Center",
+      "title": "Orientation Seminar for Federal Judicial Law Clerks",
+      "type": "video",
+      "volume": "Part 1"
+    }
+  ],
+  "result": "Orientation Seminar for Federal Judicial Law Clerks, <i>supra</i> note 1.",
+  "stylename": "mlz-amlaw"
 }

@@ -1,31 +1,31 @@
 {
-  "items": [
-    {
-      "medium": "Oil on poplar", 
-      "dimensions": "77 cm \u00d7 53 cm", 
-      "author": [
-        {
-          "given": "", 
-          "family": "Leonardo da Vinci"
-        }
-      ], 
-      "issued": {
-        "raw": "1503-1519"
-      }, 
-      "title": "Mona Lisa", 
-      "archive": "Mus\u00e9e du Louvre", 
-      "type": "graphic", 
-      "id": "artwork-2"
-    }
-  ], 
-  "stylename": "mlz-new-zealand-law", 
   "citationitems": [
     {
-      "position": 0, 
-      "first-reference-note-number": 1, 
-      "id": "artwork-2", 
-      "near-note": false
+      "first-reference-note-number": 1,
+      "id": "artwork-2",
+      "near-note": false,
+      "position": 0
     }
-  ], 
-  "result": "Leonardo da Vinci <i>Mona Lisa</i> (1503\u20131519) Mus\u00e9e du Louvre."
+  ],
+  "items": [
+    {
+      "archive": "Mus\u00e9e du Louvre",
+      "author": [
+        {
+          "family": "Leonardo da Vinci",
+          "given": ""
+        }
+      ],
+      "dimensions": "77 cm \u00d7 53 cm",
+      "id": "artwork-2",
+      "issued": {
+        "raw": "1503-1519"
+      },
+      "medium": "Oil on poplar",
+      "title": "Mona Lisa",
+      "type": "graphic"
+    }
+  ],
+  "result": "Leonardo da Vinci <i>Mona Lisa</i> (1503\u20131519) Mus\u00e9e du Louvre.",
+  "stylename": "mlz-new-zealand-law"
 }

@@ -1,1 +1,34 @@
-{"items": [{"type": "article-journal", "title": "Organized crime: A social network approach", "issued": {"raw": "1999"}, "author": [{"given": "Jeffrey Scott", "family": "McIllwain"}], "id": "article-journal-1", "volume": "32", "container-title": "Crime, Law and Social Change", "issue": "4", "page": "301-323"}], "stylename": "mlz-mcgill-en-v7", "citationitems": [{"first-reference-note-number": 1, "label": "paragraph", "locator": 125, "position": 1, "id": "article-journal-1", "near-note": true}], "result": "McIllwain, \u201cOrganized Crime: A Social Network Approach\u201d, <i>supra</i> note 1 at para 125."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "article-journal-1",
+      "label": "paragraph",
+      "locator": 125,
+      "near-note": true,
+      "position": 1
+    }
+  ],
+  "items": [
+    {
+      "author": [
+        {
+          "family": "McIllwain",
+          "given": "Jeffrey Scott"
+        }
+      ],
+      "container-title": "Crime, Law and Social Change",
+      "id": "article-journal-1",
+      "issue": "4",
+      "issued": {
+        "raw": "1999"
+      },
+      "page": "301-323",
+      "title": "Organized crime: A social network approach",
+      "type": "article-journal",
+      "volume": "32"
+    }
+  ],
+  "result": "McIllwain, \u201cOrganized Crime: A Social Network Approach\u201d, <i>supra</i> note 1 at para 125.",
+  "stylename": "mlz-mcgill-en-v7"
+}

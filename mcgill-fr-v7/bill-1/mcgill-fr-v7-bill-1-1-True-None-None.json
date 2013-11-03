@@ -1,1 +1,35 @@
-{"items": [{"author": [{"given": "Darrel", "family": "Issa"}], "URL": "http://www.gpo.gov/fdsys/pkg/BILLS-112hr3699ih/pdf/BILLS-112hr3699ih.pdf", "issued": {"raw": "Dec. 16, 2011"}, "section": "sec. 2", "jurisdiction": "us", "chapter-number": "1", "authority": "U.S. Congress|House of Representatives", "number": "3699", "collection-number": "112", "title": "Research Works Act", "type": "bill", "id": "bill-1"}], "stylename": "mlz-mcgill-fr-v7", "citationitems": [{"position": 1, "first-reference-note-number": 1, "id": "bill-1", "near-note": true}], "result": "<i>Research Works Act</i>, <i>supra</i> note 1 sect\u00a02."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "bill-1",
+      "near-note": true,
+      "position": 1
+    }
+  ],
+  "items": [
+    {
+      "URL": "http://www.gpo.gov/fdsys/pkg/BILLS-112hr3699ih/pdf/BILLS-112hr3699ih.pdf",
+      "author": [
+        {
+          "family": "Issa",
+          "given": "Darrel"
+        }
+      ],
+      "authority": "U.S. Congress|House of Representatives",
+      "chapter-number": "1",
+      "collection-number": "112",
+      "id": "bill-1",
+      "issued": {
+        "raw": "Dec. 16, 2011"
+      },
+      "jurisdiction": "us",
+      "number": "3699",
+      "section": "sec. 2",
+      "title": "Research Works Act",
+      "type": "bill"
+    }
+  ],
+  "result": "<i>Research Works Act</i>, <i>supra</i> note 1 sect\u00a02.",
+  "stylename": "mlz-mcgill-fr-v7"
+}

@@ -1,1 +1,25 @@
-{"items": [{"title": "P v. U.K.", "issued": {"raw": "1988-07-11"}, "jurisdiction": "coe.int", "number": "13473/87", "authority": "European Commission of Human Rights", "type": "legal_case", "id": "case-15"}], "stylename": "mlz-cms-full", "citationitems": [{"position": 1, "first-reference-note-number": 1, "id": "case-15", "near-note": true}], "result": "<i>P v. U.K.</i>"}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "case-15",
+      "near-note": true,
+      "position": 1
+    }
+  ],
+  "items": [
+    {
+      "authority": "European Commission of Human Rights",
+      "id": "case-15",
+      "issued": {
+        "raw": "1988-07-11"
+      },
+      "jurisdiction": "coe.int",
+      "number": "13473/87",
+      "title": "P v. U.K.",
+      "type": "legal_case"
+    }
+  ],
+  "result": "<i>P v. U.K.</i>",
+  "stylename": "mlz-cms-full"
+}

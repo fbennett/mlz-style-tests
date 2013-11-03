@@ -1,30 +1,30 @@
 {
-  "items": [
-    {
-      "number": "836", 
-      "issued": {
-        "raw": "1999"
-      }, 
-      "jurisdiction": "us;me", 
-      "chapter-number": "3", 
-      "authority": "Legislature|House of Representatives", 
-      "event": "Senate Joint Resolution", 
-      "collection-number": "118", 
-      "genre": "Special Session", 
-      "type": "bill", 
-      "id": "bill-4"
-    }
-  ], 
-  "stylename": "mlz-amlaw", 
   "citationitems": [
     {
-      "first-reference-note-number": 1, 
-      "label": "page", 
-      "locator": "para. 5", 
-      "position": 3, 
-      "id": "bill-4", 
-      "near-note": false
+      "first-reference-note-number": 1,
+      "id": "bill-4",
+      "label": "page",
+      "locator": "para. 5",
+      "near-note": false,
+      "position": 3
     }
-  ], 
-  "result": "<i>Id.</i>"
+  ],
+  "items": [
+    {
+      "authority": "Legislature|House of Representatives",
+      "chapter-number": "3",
+      "collection-number": "118",
+      "event": "Senate Joint Resolution",
+      "genre": "Special Session",
+      "id": "bill-4",
+      "issued": {
+        "raw": "1999"
+      },
+      "jurisdiction": "us;me",
+      "number": "836",
+      "type": "bill"
+    }
+  ],
+  "result": "<i>Id.</i>",
+  "stylename": "mlz-amlaw"
 }

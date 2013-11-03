@@ -1,1 +1,25 @@
-{"items": [{"title": "Transforming the Federal Government to Protect America from Terrorism", "issued": {"raw": "2002"}, "jurisdiction": "us", "authority": "Congress|House Committee on Homeland Security", "collection-number": "107", "type": "hearing", "id": "hearing-1"}], "stylename": "mlz-mcgill-en-v7", "citationitems": [{"position": 2, "first-reference-note-number": 1, "id": "hearing-1", "near-note": false}], "result": "<i>Ibid</i>."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "hearing-1",
+      "near-note": false,
+      "position": 2
+    }
+  ],
+  "items": [
+    {
+      "authority": "Congress|House Committee on Homeland Security",
+      "collection-number": "107",
+      "id": "hearing-1",
+      "issued": {
+        "raw": "2002"
+      },
+      "jurisdiction": "us",
+      "title": "Transforming the Federal Government to Protect America from Terrorism",
+      "type": "hearing"
+    }
+  ],
+  "result": "<i>Ibid</i>.",
+  "stylename": "mlz-mcgill-en-v7"
+}

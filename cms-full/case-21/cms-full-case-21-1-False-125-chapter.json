@@ -1,1 +1,30 @@
-{"items": [{"title": "In re Looney", "issued": {"raw": "1988-09-09"}, "jurisdiction": "us;federal;va.western", "authority": "Bankruptcy Court", "id": "case-21", "collection-number": "1987-1989", "genre": "Transfer Binder", "container-title": "Bankruptcy Law Reports (CCH)", "type": "legal_case", "page": "para. 72,447"}], "stylename": "mlz-cms-full", "citationitems": [{"first-reference-note-number": 1, "label": "chapter", "locator": 125, "position": 1, "id": "case-21", "near-note": false}], "result": "In re Looney, [1987\u20131989 Transfer Binder] Bankruptcy Law Reports (CCH) \u00b6 72,447, chap. 125 (Bankr. W.D. Va. September 9, 1988)."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "case-21",
+      "label": "chapter",
+      "locator": 125,
+      "near-note": false,
+      "position": 1
+    }
+  ],
+  "items": [
+    {
+      "authority": "Bankruptcy Court",
+      "collection-number": "1987-1989",
+      "container-title": "Bankruptcy Law Reports (CCH)",
+      "genre": "Transfer Binder",
+      "id": "case-21",
+      "issued": {
+        "raw": "1988-09-09"
+      },
+      "jurisdiction": "us;federal;va.western",
+      "page": "para. 72,447",
+      "title": "In re Looney",
+      "type": "legal_case"
+    }
+  ],
+  "result": "In re Looney, [1987\u20131989 Transfer Binder] Bankruptcy Law Reports (CCH) \u00b6 72,447, chap. 125 (Bankr. W.D. Va. September 9, 1988).",
+  "stylename": "mlz-cms-full"
+}

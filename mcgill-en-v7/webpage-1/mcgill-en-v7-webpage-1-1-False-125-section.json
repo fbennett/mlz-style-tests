@@ -1,1 +1,35 @@
-{"items": [{"title": "More on Section 7 of the Torture Convention", "URL": "http://www.volokh.com/posts/1233241458.shtml", "issued": {"raw": "2009-01-29"}, "author": [{"given": "Eric", "family": "Posner"}], "container-title": "Volokh Conspiracy", "accessed": {"raw": "2012-04-30"}, "type": "webpage", "id": "webpage-1"}], "stylename": "mlz-mcgill-en-v7", "citationitems": [{"first-reference-note-number": 1, "label": "section", "locator": 125, "position": 1, "id": "webpage-1", "near-note": false}], "result": "Posner, \u201cMore on Section 7 of the Torture Convention\u201d, <i>supra</i> note 1 at sec 125."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "webpage-1",
+      "label": "section",
+      "locator": 125,
+      "near-note": false,
+      "position": 1
+    }
+  ],
+  "items": [
+    {
+      "URL": "http://www.volokh.com/posts/1233241458.shtml",
+      "accessed": {
+        "raw": "2012-04-30"
+      },
+      "author": [
+        {
+          "family": "Posner",
+          "given": "Eric"
+        }
+      ],
+      "container-title": "Volokh Conspiracy",
+      "id": "webpage-1",
+      "issued": {
+        "raw": "2009-01-29"
+      },
+      "title": "More on Section 7 of the Torture Convention",
+      "type": "webpage"
+    }
+  ],
+  "result": "Posner, \u201cMore on Section 7 of the Torture Convention\u201d, <i>supra</i> note 1 at sec 125.",
+  "stylename": "mlz-mcgill-en-v7"
+}

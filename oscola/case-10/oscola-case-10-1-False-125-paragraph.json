@@ -1,1 +1,33 @@
-{"items": [{"title": "Omojudi v. U.K.", "issued": {"raw": "2009-11-24"}, "jurisdiction": "coe.int;court.of.human.rights", "number": "1820/08", "authority": "European Court of Human Rights", "id": "case-10", "volume": "51", "publication-date": {"raw": "2010"}, "container-title": "European Human Rights Reports", "type": "legal_case", "page": "10"}], "stylename": "mlz-oscola", "citationitems": [{"first-reference-note-number": 1, "label": "paragraph", "locator": 125, "position": 1, "id": "case-10", "near-note": false}], "result": "<i>Omojudi v UK</i> (n 1) [125]"}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "case-10",
+      "label": "paragraph",
+      "locator": 125,
+      "near-note": false,
+      "position": 1
+    }
+  ],
+  "items": [
+    {
+      "authority": "European Court of Human Rights",
+      "container-title": "European Human Rights Reports",
+      "id": "case-10",
+      "issued": {
+        "raw": "2009-11-24"
+      },
+      "jurisdiction": "coe.int;court.of.human.rights",
+      "number": "1820/08",
+      "page": "10",
+      "publication-date": {
+        "raw": "2010"
+      },
+      "title": "Omojudi v. U.K.",
+      "type": "legal_case",
+      "volume": "51"
+    }
+  ],
+  "result": "<i>Omojudi v UK</i> (n 1) [125]",
+  "stylename": "mlz-oscola"
+}

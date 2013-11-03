@@ -1,1 +1,28 @@
-{"items": [{"issued": {"raw": "1995"}, "section": "sec. 2", "jurisdiction": "us;pa", "chapter-number": "1", "authority": "Legislature | House of Representatives", "number": "124", "collection-number": "179", "genre": "Special Session", "type": "bill", "id": "bill-3"}], "stylename": "mlz-mcgill-fr-v7", "citationitems": [{"position": 1, "first-reference-note-number": 1, "id": "bill-3", "near-note": false}], "result": "HR 124 (Pa 1995), <i>supra</i> note 1 sect\u00a02."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "bill-3",
+      "near-note": false,
+      "position": 1
+    }
+  ],
+  "items": [
+    {
+      "authority": "Legislature | House of Representatives",
+      "chapter-number": "1",
+      "collection-number": "179",
+      "genre": "Special Session",
+      "id": "bill-3",
+      "issued": {
+        "raw": "1995"
+      },
+      "jurisdiction": "us;pa",
+      "number": "124",
+      "section": "sec. 2",
+      "type": "bill"
+    }
+  ],
+  "result": "HR 124 (Pa 1995), <i>supra</i> note 1 sect\u00a02.",
+  "stylename": "mlz-mcgill-fr-v7"
+}

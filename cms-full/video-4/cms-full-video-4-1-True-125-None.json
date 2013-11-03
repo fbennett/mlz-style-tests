@@ -1,1 +1,32 @@
-{"items": [{"title": "Multilingual Zotero variant (MLZ) with OpenCongress.org", "URL": "http://www.youtube.com/watch?v=NK0hNDhqbSM", "issued": {"raw": "2012-04-28"}, "author": [{"given": "Frank", "family": "Bennett"}], "container-title": "YouTube", "type": "video", "id": "video-4"}], "stylename": "mlz-cms-full", "citationitems": [{"first-reference-note-number": 1, "label": null, "locator": 125, "position": 1, "id": "video-4", "near-note": true}], "result": "Bennett, \u201cMultilingual Zotero Variant (MLZ) with OpenCongress.org,\u201d 125."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "video-4",
+      "label": null,
+      "locator": 125,
+      "near-note": true,
+      "position": 1
+    }
+  ],
+  "items": [
+    {
+      "URL": "http://www.youtube.com/watch?v=NK0hNDhqbSM",
+      "author": [
+        {
+          "family": "Bennett",
+          "given": "Frank"
+        }
+      ],
+      "container-title": "YouTube",
+      "id": "video-4",
+      "issued": {
+        "raw": "2012-04-28"
+      },
+      "title": "Multilingual Zotero variant (MLZ) with OpenCongress.org",
+      "type": "video"
+    }
+  ],
+  "result": "Bennett, \u201cMultilingual Zotero Variant (MLZ) with OpenCongress.org,\u201d 125.",
+  "stylename": "mlz-cms-full"
+}

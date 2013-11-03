@@ -1,1 +1,28 @@
-{"items": [{"publisher": "Microsoft Corporation", "medium": "Windows XP, Service Pack 3", "publisher-place": "Redmond", "title": "Word 2003", "issued": {"raw": "2003"}, "version": "8313.8221", "type": "book", "id": "computer-program-1"}], "stylename": "mlz-mcgill-en-v7", "citationitems": [{"first-reference-note-number": 1, "label": "chapter", "locator": 125, "position": 1, "id": "computer-program-1", "near-note": false}], "result": "<i>Word 2003</i>, <i>supra</i> note 1 at chap 125."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "computer-program-1",
+      "label": "chapter",
+      "locator": 125,
+      "near-note": false,
+      "position": 1
+    }
+  ],
+  "items": [
+    {
+      "id": "computer-program-1",
+      "issued": {
+        "raw": "2003"
+      },
+      "medium": "Windows XP, Service Pack 3",
+      "publisher": "Microsoft Corporation",
+      "publisher-place": "Redmond",
+      "title": "Word 2003",
+      "type": "book",
+      "version": "8313.8221"
+    }
+  ],
+  "result": "<i>Word 2003</i>, <i>supra</i> note 1 at chap 125.",
+  "stylename": "mlz-mcgill-en-v7"
+}

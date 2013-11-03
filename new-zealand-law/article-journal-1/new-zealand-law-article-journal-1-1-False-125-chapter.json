@@ -1,34 +1,34 @@
 {
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "article-journal-1",
+      "label": "chapter",
+      "locator": 125,
+      "near-note": false,
+      "position": 1
+    }
+  ],
   "items": [
     {
       "author": [
         {
-          "given": "Jeffrey Scott", 
-          "family": "McIllwain"
+          "family": "McIllwain",
+          "given": "Jeffrey Scott"
         }
-      ], 
-      "issue": "4", 
-      "title": "Organized crime: A social network approach", 
-      "page": "301-323", 
-      "volume": "32", 
+      ],
+      "container-title": "Crime, Law and Social Change",
+      "id": "article-journal-1",
+      "issue": "4",
       "issued": {
         "raw": "1999"
-      }, 
-      "container-title": "Crime, Law and Social Change", 
-      "type": "article-journal", 
-      "id": "article-journal-1"
+      },
+      "page": "301-323",
+      "title": "Organized crime: A social network approach",
+      "type": "article-journal",
+      "volume": "32"
     }
-  ], 
-  "stylename": "mlz-new-zealand-law", 
-  "citationitems": [
-    {
-      "first-reference-note-number": 1, 
-      "label": "chapter", 
-      "locator": 125, 
-      "position": 1, 
-      "id": "article-journal-1", 
-      "near-note": false
-    }
-  ], 
-  "result": "McIllwain, above n 1, at ch 125."
+  ],
+  "result": "McIllwain, above n 1, at ch 125.",
+  "stylename": "mlz-new-zealand-law"
 }

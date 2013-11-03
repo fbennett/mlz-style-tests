@@ -1,1 +1,33 @@
-{"items": [{"title": "X v. Netherlands", "issued": {"raw": "1971-07-20"}, "jurisdiction": "coe.int", "number": "4130/69", "authority": "European Commission of Human Rights", "id": "case-12", "volume": "38", "publication-date": {"raw": "1971"}, "container-title": "Collection of Decisions", "type": "legal_case", "page": "9"}], "stylename": "mlz-cms-full", "citationitems": [{"first-reference-note-number": 1, "label": null, "locator": 125, "position": 1, "id": "case-12", "near-note": false}], "result": "X v. Netherlands, App. No. 4130/69, 38 Eur. Comm\u2019n H.R. Col. Dec. 9, 125 (1971)."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "case-12",
+      "label": null,
+      "locator": 125,
+      "near-note": false,
+      "position": 1
+    }
+  ],
+  "items": [
+    {
+      "authority": "European Commission of Human Rights",
+      "container-title": "Collection of Decisions",
+      "id": "case-12",
+      "issued": {
+        "raw": "1971-07-20"
+      },
+      "jurisdiction": "coe.int",
+      "number": "4130/69",
+      "page": "9",
+      "publication-date": {
+        "raw": "1971"
+      },
+      "title": "X v. Netherlands",
+      "type": "legal_case",
+      "volume": "38"
+    }
+  ],
+  "result": "X v. Netherlands, App. No. 4130/69, 38 Eur. Comm\u2019n H.R. Col. Dec. 9, 125 (1971).",
+  "stylename": "mlz-cms-full"
+}

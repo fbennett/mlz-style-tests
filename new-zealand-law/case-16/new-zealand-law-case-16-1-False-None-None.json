@@ -1,27 +1,27 @@
 {
-  "items": [
-    {
-      "title": "MiningWatch Canada v. Canada (Fisheries and Oceans)", 
-      "issued": {
-        "raw": "2010-01-21"
-      }, 
-      "jurisdiction": "ca", 
-      "number": "32797", 
-      "authority": "Supreme Court", 
-      "page": "2", 
-      "collection-number": "2010", 
-      "type": "legal_case", 
-      "id": "case-16"
-    }
-  ], 
-  "stylename": "mlz-new-zealand-law", 
   "citationitems": [
     {
-      "position": 1, 
-      "first-reference-note-number": 1, 
-      "id": "case-16", 
-      "near-note": false
+      "first-reference-note-number": 1,
+      "id": "case-16",
+      "near-note": false,
+      "position": 1
     }
-  ], 
-  "result": "<i>MiningWatch Canada v Canada (Fisheries and Oceans)</i>, above n 1."
+  ],
+  "items": [
+    {
+      "authority": "Supreme Court",
+      "collection-number": "2010",
+      "id": "case-16",
+      "issued": {
+        "raw": "2010-01-21"
+      },
+      "jurisdiction": "ca",
+      "number": "32797",
+      "page": "2",
+      "title": "MiningWatch Canada v. Canada (Fisheries and Oceans)",
+      "type": "legal_case"
+    }
+  ],
+  "result": "<i>MiningWatch Canada v Canada (Fisheries and Oceans)</i>, above n 1.",
+  "stylename": "mlz-new-zealand-law"
 }

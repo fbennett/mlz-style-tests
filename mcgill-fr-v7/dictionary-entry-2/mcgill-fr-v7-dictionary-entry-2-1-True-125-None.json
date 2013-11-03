@@ -1,1 +1,40 @@
-{"items": [{"publisher": "MJF", "title": "vexatious litigation", "URL": "http://dictionary.law.com/", "issued": {"raw": "2002"}, "author": [{"given": "Gerald", "family": "Hill"}, {"given": "Kathleen", "family": "Hill"}], "container-title": "The People's Law Dictionary", "accessed": {"raw": "Feb 25, 2012"}, "type": "entry-dictionary", "id": "dictionary-entry-2"}], "stylename": "mlz-mcgill-fr-v7", "citationitems": [{"first-reference-note-number": 1, "label": null, "locator": 125, "position": 1, "id": "dictionary-entry-2", "near-note": true}], "result": "Hill et Hill, \u00ab\u00a0vexatious litigation\u00a0\u00bb, <i>supra</i> note 1 \u00e0 la p\u00a0125."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "dictionary-entry-2",
+      "label": null,
+      "locator": 125,
+      "near-note": true,
+      "position": 1
+    }
+  ],
+  "items": [
+    {
+      "URL": "http://dictionary.law.com/",
+      "accessed": {
+        "raw": "Feb 25, 2012"
+      },
+      "author": [
+        {
+          "family": "Hill",
+          "given": "Gerald"
+        },
+        {
+          "family": "Hill",
+          "given": "Kathleen"
+        }
+      ],
+      "container-title": "The People's Law Dictionary",
+      "id": "dictionary-entry-2",
+      "issued": {
+        "raw": "2002"
+      },
+      "publisher": "MJF",
+      "title": "vexatious litigation",
+      "type": "entry-dictionary"
+    }
+  ],
+  "result": "Hill et Hill, \u00ab\u00a0vexatious litigation\u00a0\u00bb, <i>supra</i> note 1 \u00e0 la p\u00a0125.",
+  "stylename": "mlz-mcgill-fr-v7"
+}

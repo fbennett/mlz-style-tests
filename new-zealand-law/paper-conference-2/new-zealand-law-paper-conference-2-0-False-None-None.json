@@ -1,36 +1,36 @@
 {
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "paper-conference-2",
+      "near-note": false,
+      "position": 0
+    }
+  ],
   "items": [
     {
       "author": [
         {
-          "given": "Michael J.", 
-          "family": "Trebilcock"
-        }, 
+          "family": "Trebilcock",
+          "given": "Michael J."
+        },
         {
-          "given": "Edward M.", 
-          "family": "Iacobucci"
+          "family": "Iacobucci",
+          "given": "Edward M."
         }
-      ], 
+      ],
+      "container-title": "Harvard Law Review",
+      "event": "Symposium: Public Values in an Era of Privatization",
+      "id": "paper-conference-2",
       "issued": {
         "raw": "2003"
-      }, 
-      "title": "Privatization and Accountability", 
-      "event": "Symposium: Public Values in an Era of Privatization", 
-      "volume": "116", 
-      "container-title": "Harvard Law Review", 
-      "type": "paper-conference", 
-      "id": "paper-conference-2", 
-      "page": "1422-1454"
+      },
+      "page": "1422-1454",
+      "title": "Privatization and Accountability",
+      "type": "paper-conference",
+      "volume": "116"
     }
-  ], 
-  "stylename": "mlz-new-zealand-law", 
-  "citationitems": [
-    {
-      "position": 0, 
-      "first-reference-note-number": 1, 
-      "id": "paper-conference-2", 
-      "near-note": false
-    }
-  ], 
-  "result": "Michael J Trebilcock and Edward M Iacobucci \u201cPrivatization and Accountability\u201d (2003) 116 Harvard Law Review 1422."
+  ],
+  "result": "Michael J Trebilcock and Edward M Iacobucci \u201cPrivatization and Accountability\u201d (2003) 116 Harvard Law Review 1422.",
+  "stylename": "mlz-new-zealand-law"
 }

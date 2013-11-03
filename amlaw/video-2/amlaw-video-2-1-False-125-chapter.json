@@ -1,25 +1,25 @@
 {
-  "items": [
-    {
-      "publisher": "New Line Cinema", 
-      "issued": {
-        "raw": "2006"
-      }, 
-      "type": "motion_picture", 
-      "id": "ITEM-1", 
-      "title": "Snakes on a Plane"
-    }
-  ], 
-  "stylename": "mlz-amlaw", 
   "citationitems": [
     {
-      "first-reference-note-number": 1, 
-      "label": "chapter", 
-      "locator": 125, 
-      "position": 1, 
-      "id": "ITEM-1", 
-      "near-note": false
+      "first-reference-note-number": 1,
+      "id": "ITEM-1",
+      "label": "chapter",
+      "locator": 125,
+      "near-note": false,
+      "position": 1
     }
-  ], 
-  "result": "<span style=\"font-variant:small-caps;\">Snakes on a Plane</span>, <i>supra</i> note 1, ch. 125."
+  ],
+  "items": [
+    {
+      "id": "ITEM-1",
+      "issued": {
+        "raw": "2006"
+      },
+      "publisher": "New Line Cinema",
+      "title": "Snakes on a Plane",
+      "type": "motion_picture"
+    }
+  ],
+  "result": "<span style=\"font-variant:small-caps;\">Snakes on a Plane</span>, <i>supra</i> note 1, ch. 125.",
+  "stylename": "mlz-amlaw"
 }

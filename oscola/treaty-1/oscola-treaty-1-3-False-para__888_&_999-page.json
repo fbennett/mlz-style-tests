@@ -1,1 +1,38 @@
-{"items": [{"title": "Treaty of Friendship, Commerce and Navigation", "section": "art. X", "author": [{"isInstitution": "true", "family": "United States"}, {"isInstitution": "true", "family": "Japan"}], "id": "treaty-1", "volume": "75", "event-date": {"raw": "1953-04-02"}, "container-title": "U.N.T.S.", "type": "treaty", "page": "135"}], "stylename": "mlz-oscola", "citationitems": [{"first-reference-note-number": 1, "label": "page", "locator": "para. 888 & 999", "position": 3, "id": "treaty-1", "near-note": false}], "result": "ibid art X paras 888 &#38; 999"}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "treaty-1",
+      "label": "page",
+      "locator": "para. 888 & 999",
+      "near-note": false,
+      "position": 3
+    }
+  ],
+  "items": [
+    {
+      "author": [
+        {
+          "family": "United States",
+          "isInstitution": "true"
+        },
+        {
+          "family": "Japan",
+          "isInstitution": "true"
+        }
+      ],
+      "container-title": "U.N.T.S.",
+      "event-date": {
+        "raw": "1953-04-02"
+      },
+      "id": "treaty-1",
+      "page": "135",
+      "section": "art. X",
+      "title": "Treaty of Friendship, Commerce and Navigation",
+      "type": "treaty",
+      "volume": "75"
+    }
+  ],
+  "result": "ibid art X paras 888 &#38; 999",
+  "stylename": "mlz-oscola"
+}

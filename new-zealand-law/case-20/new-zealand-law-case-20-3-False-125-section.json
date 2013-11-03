@@ -1,28 +1,28 @@
 {
-  "items": [
-    {
-      "publisher-place": "Nanaimo", 
-      "title": "Stephenson v. Stephenson", 
-      "issued": {
-        "raw": "1984-12-06"
-      }, 
-      "jurisdiction": "ca;bc", 
-      "number": "5920/004143", 
-      "authority": "Supreme Court", 
-      "type": "legal_case", 
-      "id": "case-20"
-    }
-  ], 
-  "stylename": "mlz-new-zealand-law", 
   "citationitems": [
     {
-      "first-reference-note-number": 1, 
-      "label": "section", 
-      "locator": 125, 
-      "position": 3, 
-      "id": "case-20", 
-      "near-note": false
+      "first-reference-note-number": 1,
+      "id": "case-20",
+      "label": "section",
+      "locator": 125,
+      "near-note": false,
+      "position": 3
     }
-  ], 
-  "result": "At s 125."
+  ],
+  "items": [
+    {
+      "authority": "Supreme Court",
+      "id": "case-20",
+      "issued": {
+        "raw": "1984-12-06"
+      },
+      "jurisdiction": "ca;bc",
+      "number": "5920/004143",
+      "publisher-place": "Nanaimo",
+      "title": "Stephenson v. Stephenson",
+      "type": "legal_case"
+    }
+  ],
+  "result": "At s 125.",
+  "stylename": "mlz-new-zealand-law"
 }

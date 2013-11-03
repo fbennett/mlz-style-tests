@@ -1,1 +1,33 @@
-{"items": [{"issue": "112", "title": "Johnston v. Ireland", "issued": {"raw": "1986-12-18"}, "jurisdiction": "coe.int;court.of.human.rights", "number": "9697/82", "authority": "European Court of Human Rights", "publication-date": {"raw": "1986"}, "collection-number": "1986", "container-title": "Reports of Judgments and Decisions (Series A)", "type": "legal_case", "id": "case-8"}], "stylename": "mlz-cms-full", "citationitems": [{"first-reference-note-number": 1, "label": "section", "locator": 125, "position": 1, "id": "case-8", "near-note": true}], "result": "<i>Johnston v. Ireland</i>, Eur. Ct. H.R. (ser. A) sec. 125."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "case-8",
+      "label": "section",
+      "locator": 125,
+      "near-note": true,
+      "position": 1
+    }
+  ],
+  "items": [
+    {
+      "authority": "European Court of Human Rights",
+      "collection-number": "1986",
+      "container-title": "Reports of Judgments and Decisions (Series A)",
+      "id": "case-8",
+      "issue": "112",
+      "issued": {
+        "raw": "1986-12-18"
+      },
+      "jurisdiction": "coe.int;court.of.human.rights",
+      "number": "9697/82",
+      "publication-date": {
+        "raw": "1986"
+      },
+      "title": "Johnston v. Ireland",
+      "type": "legal_case"
+    }
+  ],
+  "result": "<i>Johnston v. Ireland</i>, Eur. Ct. H.R. (ser. A) sec. 125.",
+  "stylename": "mlz-cms-full"
+}

@@ -1,1 +1,36 @@
-{"items": [{"medium": "WEB", "title": "TeX", "URL": "http://www.tex.ac.uk/ctan/systems/knuth/dist/tex/tex.web", "issued": {"raw": "February 2008"}, "author": [{"given": "Donald", "family": "Knuth"}], "version": "3.1415926", "accessed": {"raw": "2012-02-04"}, "type": "book", "id": "computer-program-2"}], "stylename": "mlz-mcgill-fr-v7", "citationitems": [{"first-reference-note-number": 1, "label": null, "locator": 125, "position": 0, "id": "computer-program-2", "near-note": false}], "result": "Donald Knuth, <i>TeX</i>, 2008, \u00e0 la p\u00a0125."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "computer-program-2",
+      "label": null,
+      "locator": 125,
+      "near-note": false,
+      "position": 0
+    }
+  ],
+  "items": [
+    {
+      "URL": "http://www.tex.ac.uk/ctan/systems/knuth/dist/tex/tex.web",
+      "accessed": {
+        "raw": "2012-02-04"
+      },
+      "author": [
+        {
+          "family": "Knuth",
+          "given": "Donald"
+        }
+      ],
+      "id": "computer-program-2",
+      "issued": {
+        "raw": "February 2008"
+      },
+      "medium": "WEB",
+      "title": "TeX",
+      "type": "book",
+      "version": "3.1415926"
+    }
+  ],
+  "result": "Donald Knuth, <i>TeX</i>, 2008, \u00e0 la p\u00a0125.",
+  "stylename": "mlz-mcgill-fr-v7"
+}

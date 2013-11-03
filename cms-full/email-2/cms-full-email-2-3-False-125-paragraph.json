@@ -1,1 +1,36 @@
-{"items": [{"author": [{"given": "Kostya", "family": "Lantsman"}], "issued": {"raw": "2011-08-22"}, "type": "personal_communication", "genre": "email", "recipient": [{"given": "Frank", "family": "Bennett"}], "id": "email-2"}], "stylename": "mlz-cms-full", "citationitems": [{"first-reference-note-number": 1, "label": "paragraph", "locator": 125, "position": 3, "id": "email-2", "near-note": false}], "result": "Ibid., para. 125."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "email-2",
+      "label": "paragraph",
+      "locator": 125,
+      "near-note": false,
+      "position": 3
+    }
+  ],
+  "items": [
+    {
+      "author": [
+        {
+          "family": "Lantsman",
+          "given": "Kostya"
+        }
+      ],
+      "genre": "email",
+      "id": "email-2",
+      "issued": {
+        "raw": "2011-08-22"
+      },
+      "recipient": [
+        {
+          "family": "Bennett",
+          "given": "Frank"
+        }
+      ],
+      "type": "personal_communication"
+    }
+  ],
+  "result": "Ibid., para. 125.",
+  "stylename": "mlz-cms-full"
+}

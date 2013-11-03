@@ -1,28 +1,28 @@
 {
-  "items": [
-    {
-      "issued": {
-        "raw": "1999"
-      }, 
-      "jurisdiction": "us", 
-      "number": "79", 
-      "authority": "U.S. Congress|House of Representatives", 
-      "event": "House of Representatives Joint Resolution", 
-      "collection-number": "106", 
-      "type": "bill", 
-      "id": "bill-2"
-    }
-  ], 
-  "stylename": "mlz-amlaw", 
   "citationitems": [
     {
-      "first-reference-note-number": 1, 
-      "label": "page", 
-      "locator": ", sec. 25 & 143", 
-      "position": 3, 
-      "id": "bill-2", 
-      "near-note": false
+      "first-reference-note-number": 1,
+      "id": "bill-2",
+      "label": "page",
+      "locator": ", sec. 25 & 143",
+      "near-note": false,
+      "position": 3
     }
-  ], 
-  "result": "<i>Id.</i>"
+  ],
+  "items": [
+    {
+      "authority": "U.S. Congress|House of Representatives",
+      "collection-number": "106",
+      "event": "House of Representatives Joint Resolution",
+      "id": "bill-2",
+      "issued": {
+        "raw": "1999"
+      },
+      "jurisdiction": "us",
+      "number": "79",
+      "type": "bill"
+    }
+  ],
+  "result": "<i>Id.</i>",
+  "stylename": "mlz-amlaw"
 }

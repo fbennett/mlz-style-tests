@@ -1,1 +1,30 @@
-{"items": [{"title": "Swiss Bank Corp. v. Air Canada", "issued": {"raw": "1987"}, "jurisdiction": "ca", "authority": "Court of Appeal", "id": "case-19", "volume": "1", "collection-number": "1988", "container-title": "Federal Court Reports", "type": "legal_case", "page": "71"}], "stylename": "mlz-cms-full", "citationitems": [{"first-reference-note-number": 1, "label": null, "locator": 125, "position": 3, "id": "case-19", "near-note": false}], "result": "Ibid., 125."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "case-19",
+      "label": null,
+      "locator": 125,
+      "near-note": false,
+      "position": 3
+    }
+  ],
+  "items": [
+    {
+      "authority": "Court of Appeal",
+      "collection-number": "1988",
+      "container-title": "Federal Court Reports",
+      "id": "case-19",
+      "issued": {
+        "raw": "1987"
+      },
+      "jurisdiction": "ca",
+      "page": "71",
+      "title": "Swiss Bank Corp. v. Air Canada",
+      "type": "legal_case",
+      "volume": "1"
+    }
+  ],
+  "result": "Ibid., 125.",
+  "stylename": "mlz-cms-full"
+}

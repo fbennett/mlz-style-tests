@@ -1,1 +1,28 @@
-{"items": [{"publisher": "Canonical Limited", "medium": "ARM", "publisher-place": "London", "title": "Ubuntu", "issued": {"raw": "April 28, 2011"}, "version": "Natty Narwal", "type": "book", "id": "computer-program-3"}], "stylename": "mlz-mcgill-en-v7", "citationitems": [{"first-reference-note-number": 1, "label": "paragraph", "locator": 125, "position": 3, "id": "computer-program-3", "near-note": false}], "result": "<i>Ibid</i>, at para 125."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "computer-program-3",
+      "label": "paragraph",
+      "locator": 125,
+      "near-note": false,
+      "position": 3
+    }
+  ],
+  "items": [
+    {
+      "id": "computer-program-3",
+      "issued": {
+        "raw": "April 28, 2011"
+      },
+      "medium": "ARM",
+      "publisher": "Canonical Limited",
+      "publisher-place": "London",
+      "title": "Ubuntu",
+      "type": "book",
+      "version": "Natty Narwal"
+    }
+  ],
+  "result": "<i>Ibid</i>, at para 125.",
+  "stylename": "mlz-mcgill-en-v7"
+}

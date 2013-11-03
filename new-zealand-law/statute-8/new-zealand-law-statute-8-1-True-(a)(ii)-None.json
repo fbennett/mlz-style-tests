@@ -1,29 +1,29 @@
 {
-  "items": [
-    {
-      "title": "Crown Debts Act", 
-      "issued": {
-        "raw": "1801"
-      }, 
-      "section": "sec. 1", 
-      "jurisdiction": "gb", 
-      "number": "ch. 90", 
-      "collection-number": "41", 
-      "genre": "George III", 
-      "type": "legislation", 
-      "id": "statute-8"
-    }
-  ], 
-  "stylename": "mlz-new-zealand-law", 
   "citationitems": [
     {
-      "first-reference-note-number": 1, 
-      "label": null, 
-      "locator": "(a)(ii)", 
-      "position": 1, 
-      "id": "statute-8", 
-      "near-note": true
+      "first-reference-note-number": 1,
+      "id": "statute-8",
+      "label": null,
+      "locator": "(a)(ii)",
+      "near-note": true,
+      "position": 1
     }
-  ], 
-  "result": "Crown Debts Act, s 1(a)(ii)."
+  ],
+  "items": [
+    {
+      "collection-number": "41",
+      "genre": "George III",
+      "id": "statute-8",
+      "issued": {
+        "raw": "1801"
+      },
+      "jurisdiction": "gb",
+      "number": "ch. 90",
+      "section": "sec. 1",
+      "title": "Crown Debts Act",
+      "type": "legislation"
+    }
+  ],
+  "result": "Crown Debts Act, s 1(a)(ii).",
+  "stylename": "mlz-new-zealand-law"
 }

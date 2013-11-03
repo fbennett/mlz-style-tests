@@ -1,1 +1,20 @@
-{"items": [{"publisher": "Sweet & Maxwell", "type": "book", "id": "looseleaf-1", "title": "Cross on Local Government Law"}], "stylename": "mlz-oscola", "citationitems": [{"position": 1, "first-reference-note-number": 1, "id": "looseleaf-1", "near-note": false}], "result": "<i>Cross on Local Government Law</i> (n 1)"}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "looseleaf-1",
+      "near-note": false,
+      "position": 1
+    }
+  ],
+  "items": [
+    {
+      "id": "looseleaf-1",
+      "publisher": "Sweet & Maxwell",
+      "title": "Cross on Local Government Law",
+      "type": "book"
+    }
+  ],
+  "result": "<i>Cross on Local Government Law</i> (n 1)",
+  "stylename": "mlz-oscola"
+}

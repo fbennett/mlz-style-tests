@@ -1,1 +1,31 @@
-{"items": [{"title": "Chuck Wagon Catering Inc. v. Raduege", "issued": {"raw": "1979-05-01"}, "jurisdiction": "us;wi", "authority": "Supreme Court", "id": "case-2", "volume": "88", "publication-date": "1979", "container-title": "Wisconsin Reporter Second", "title-short": "Chuck Wagon Catering", "type": "legal_case", "page": "740"}], "stylename": "mlz-oscola", "citationitems": [{"first-reference-note-number": 1, "label": "chapter", "locator": 125, "position": 1, "id": "case-2", "near-note": true}], "result": "<i>Chuck Wagon Catering</i> (n 1) ch 125"}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "case-2",
+      "label": "chapter",
+      "locator": 125,
+      "near-note": true,
+      "position": 1
+    }
+  ],
+  "items": [
+    {
+      "authority": "Supreme Court",
+      "container-title": "Wisconsin Reporter Second",
+      "id": "case-2",
+      "issued": {
+        "raw": "1979-05-01"
+      },
+      "jurisdiction": "us;wi",
+      "page": "740",
+      "publication-date": "1979",
+      "title": "Chuck Wagon Catering Inc. v. Raduege",
+      "title-short": "Chuck Wagon Catering",
+      "type": "legal_case",
+      "volume": "88"
+    }
+  ],
+  "result": "<i>Chuck Wagon Catering</i> (n 1) ch 125",
+  "stylename": "mlz-oscola"
+}

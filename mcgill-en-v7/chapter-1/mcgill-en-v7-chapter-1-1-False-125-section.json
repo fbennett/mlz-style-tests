@@ -1,1 +1,47 @@
-{"items": [{"publisher": "West", "container-author": [{"isInstitution": "true", "family": "National Lawyers Guild"}], "publisher-place": "Chicago", "title": "Continuing Seizure: Fourth Amendment Seizure in Section 1983 Malicious Prosecution Cases", "issued": {"raw": "1999"}, "author": [{"given": "Andrew G.", "family": "Ferguson"}], "id": "chapter-1", "volume": "15", "editor": [{"given": "Steven", "family": "Saltzman"}], "container-title": "Civil Rights Litigation and Attorney Fees Annual Handbook", "type": "chapter", "page": "54\\-1"}], "stylename": "mlz-mcgill-en-v7", "citationitems": [{"first-reference-note-number": 1, "label": "section", "locator": 125, "position": 1, "id": "chapter-1", "near-note": false}], "result": "Ferguson, \u201cContinuing Seizure: Fourth Amendment Seizure in Section 1983 Malicious Prosecution Cases\u201d, <i>supra</i> note 1 at sec 125."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "chapter-1",
+      "label": "section",
+      "locator": 125,
+      "near-note": false,
+      "position": 1
+    }
+  ],
+  "items": [
+    {
+      "author": [
+        {
+          "family": "Ferguson",
+          "given": "Andrew G."
+        }
+      ],
+      "container-author": [
+        {
+          "family": "National Lawyers Guild",
+          "isInstitution": "true"
+        }
+      ],
+      "container-title": "Civil Rights Litigation and Attorney Fees Annual Handbook",
+      "editor": [
+        {
+          "family": "Saltzman",
+          "given": "Steven"
+        }
+      ],
+      "id": "chapter-1",
+      "issued": {
+        "raw": "1999"
+      },
+      "page": "54\\-1",
+      "publisher": "West",
+      "publisher-place": "Chicago",
+      "title": "Continuing Seizure: Fourth Amendment Seizure in Section 1983 Malicious Prosecution Cases",
+      "type": "chapter",
+      "volume": "15"
+    }
+  ],
+  "result": "Ferguson, \u201cContinuing Seizure: Fourth Amendment Seizure in Section 1983 Malicious Prosecution Cases\u201d, <i>supra</i> note 1 at sec 125.",
+  "stylename": "mlz-mcgill-en-v7"
+}

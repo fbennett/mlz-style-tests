@@ -1,1 +1,36 @@
-{"items": [{"title": "Goodbye Columbus", "URL": "http://web.archive.org/web/20050707022657/http://billmon.org/archives/001974.html", "issued": {"raw": "July 4, 2005"}, "author": [{"given": "", "family": "billmon"}], "container-title": "Whiskey Bar", "genre": "Weblog", "accessed": {"raw": "2011-01-31"}, "type": "post-weblog", "id": "post-weblog-1"}], "stylename": "mlz-cms-full", "citationitems": [{"first-reference-note-number": 1, "label": "paragraph", "locator": 125, "position": 3, "id": "post-weblog-1", "near-note": false}], "result": "Ibid., para. 125."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "post-weblog-1",
+      "label": "paragraph",
+      "locator": 125,
+      "near-note": false,
+      "position": 3
+    }
+  ],
+  "items": [
+    {
+      "URL": "http://web.archive.org/web/20050707022657/http://billmon.org/archives/001974.html",
+      "accessed": {
+        "raw": "2011-01-31"
+      },
+      "author": [
+        {
+          "family": "billmon",
+          "given": ""
+        }
+      ],
+      "container-title": "Whiskey Bar",
+      "genre": "Weblog",
+      "id": "post-weblog-1",
+      "issued": {
+        "raw": "July 4, 2005"
+      },
+      "title": "Goodbye Columbus",
+      "type": "post-weblog"
+    }
+  ],
+  "result": "Ibid., para. 125.",
+  "stylename": "mlz-cms-full"
+}

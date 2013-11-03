@@ -1,1 +1,27 @@
-{"items": [{"title": "Balogh v. Hungary", "issued": {"raw": "2004-07-20"}, "jurisdiction": "coe.int;court.of.human.rights", "number": "47940/99", "authority": "European Court of Human Rights|Second Section", "type": "legal_case", "id": "case-11"}], "stylename": "mlz-oscola", "citationitems": [{"first-reference-note-number": 1, "label": "section", "locator": 125, "position": 1, "id": "case-11", "near-note": false}], "result": "<i>Balogh v Hungary</i> (n 1) s 125"}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "case-11",
+      "label": "section",
+      "locator": 125,
+      "near-note": false,
+      "position": 1
+    }
+  ],
+  "items": [
+    {
+      "authority": "European Court of Human Rights|Second Section",
+      "id": "case-11",
+      "issued": {
+        "raw": "2004-07-20"
+      },
+      "jurisdiction": "coe.int;court.of.human.rights",
+      "number": "47940/99",
+      "title": "Balogh v. Hungary",
+      "type": "legal_case"
+    }
+  ],
+  "result": "<i>Balogh v Hungary</i> (n 1) s 125",
+  "stylename": "mlz-oscola"
+}

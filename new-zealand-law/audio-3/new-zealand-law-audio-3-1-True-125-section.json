@@ -1,1 +1,36 @@
-{"items": [{"publisher": "P. Jurgenson", "publisher-place": "Moscow", "title": "The Year 1812", "issued": {"raw": "1882"}, "section": "op. 49", "composer": [{"given": "Pyotr Il'yich", "family": "Tchaikovsky"}], "original-date": {"raw": "1880"}, "type": "song", "id": "audio-3"}], "stylename": "mlz-new-zealand-law", "citationitems": [{"first-reference-note-number": 1, "label": "section", "locator": 125, "position": 1, "id": "audio-3", "near-note": true}], "result": "Tchaikovsky, above n 1, at s 125."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "audio-3",
+      "label": "section",
+      "locator": 125,
+      "near-note": true,
+      "position": 1
+    }
+  ],
+  "items": [
+    {
+      "composer": [
+        {
+          "family": "Tchaikovsky",
+          "given": "Pyotr Il'yich"
+        }
+      ],
+      "id": "audio-3",
+      "issued": {
+        "raw": "1882"
+      },
+      "original-date": {
+        "raw": "1880"
+      },
+      "publisher": "P. Jurgenson",
+      "publisher-place": "Moscow",
+      "section": "op. 49",
+      "title": "The Year 1812",
+      "type": "song"
+    }
+  ],
+  "result": "Tchaikovsky, above n 1, at s 125.",
+  "stylename": "mlz-new-zealand-law"
+}

@@ -1,1 +1,26 @@
-{"items": [{"volume": "2", "title": "Commentaries", "type": "classic", "id": "classic-1", "author": [{"given": "William", "family": "Blackstone"}]}], "stylename": "mlz-cms-full", "citationitems": [{"position": 2, "first-reference-note-number": 1, "id": "classic-1", "near-note": false}], "result": "Ibid."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "classic-1",
+      "near-note": false,
+      "position": 2
+    }
+  ],
+  "items": [
+    {
+      "author": [
+        {
+          "family": "Blackstone",
+          "given": "William"
+        }
+      ],
+      "id": "classic-1",
+      "title": "Commentaries",
+      "type": "classic",
+      "volume": "2"
+    }
+  ],
+  "result": "Ibid.",
+  "stylename": "mlz-cms-full"
+}

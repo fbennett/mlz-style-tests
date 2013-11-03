@@ -1,1 +1,24 @@
-{"items": [{"title": "Encyclop\u00e6dia Britannica", "URL": "http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica", "issued": {"raw": "2012-05-02"}, "container-title": "Wikipedia", "type": "entry-encyclopedia", "id": "encyclopaedia-1"}], "stylename": "mlz-cms-full", "citationitems": [{"position": 0, "first-reference-note-number": 1, "id": "encyclopaedia-1", "near-note": false}], "result": "\u201cEncyclop\u00e6dia Britannica,\u201d <i>Wikipedia</i>, May 2, 2012, http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "encyclopaedia-1",
+      "near-note": false,
+      "position": 0
+    }
+  ],
+  "items": [
+    {
+      "URL": "http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica",
+      "container-title": "Wikipedia",
+      "id": "encyclopaedia-1",
+      "issued": {
+        "raw": "2012-05-02"
+      },
+      "title": "Encyclop\u00e6dia Britannica",
+      "type": "entry-encyclopedia"
+    }
+  ],
+  "result": "\u201cEncyclop\u00e6dia Britannica,\u201d <i>Wikipedia</i>, May 2, 2012, http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica.",
+  "stylename": "mlz-cms-full"
+}

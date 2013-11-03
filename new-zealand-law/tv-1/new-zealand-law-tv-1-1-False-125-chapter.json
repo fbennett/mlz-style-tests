@@ -1,28 +1,28 @@
 {
-  "items": [
-    {
-      "publisher": "CBS", 
-      "title": "Don't Count Your Tomatoes Before They're Picked", 
-      "issued": {
-        "raw": "1967-10-18"
-      }, 
-      "number": "69", 
-      "container-title": "Green Acres", 
-      "genre": "television broadcast", 
-      "type": "broadcast", 
-      "id": "tv-1"
-    }
-  ], 
-  "stylename": "mlz-new-zealand-law", 
   "citationitems": [
     {
-      "first-reference-note-number": 1, 
-      "label": "chapter", 
-      "locator": 125, 
-      "position": 1, 
-      "id": "tv-1", 
-      "near-note": false
+      "first-reference-note-number": 1,
+      "id": "tv-1",
+      "label": "chapter",
+      "locator": 125,
+      "near-note": false,
+      "position": 1
     }
-  ], 
-  "result": "\u201cDon\u2019t Count Your Tomatoes Before They're Picked\u201d, above n 1, at ch 125."
+  ],
+  "items": [
+    {
+      "container-title": "Green Acres",
+      "genre": "television broadcast",
+      "id": "tv-1",
+      "issued": {
+        "raw": "1967-10-18"
+      },
+      "number": "69",
+      "publisher": "CBS",
+      "title": "Don't Count Your Tomatoes Before They're Picked",
+      "type": "broadcast"
+    }
+  ],
+  "result": "\u201cDon\u2019t Count Your Tomatoes Before They're Picked\u201d, above n 1, at ch 125.",
+  "stylename": "mlz-new-zealand-law"
 }

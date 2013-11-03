@@ -1,30 +1,30 @@
 {
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "chapter-2",
+      "near-note": true,
+      "position": 1
+    }
+  ],
   "items": [
     {
       "container-author": [
         {
-          "given": "Oliver Wendell", 
-          "family": "Holmes"
+          "family": "Holmes",
+          "given": "Oliver Wendell"
         }
-      ], 
-      "title": "Law in Science and Science in Law", 
+      ],
+      "container-title": "Collected Legal Papers",
+      "id": "chapter-2",
       "issued": {
         "raw": "1920"
-      }, 
-      "page": "210", 
-      "container-title": "Collected Legal Papers", 
-      "type": "chapter", 
-      "id": "chapter-2"
+      },
+      "page": "210",
+      "title": "Law in Science and Science in Law",
+      "type": "chapter"
     }
-  ], 
-  "stylename": "mlz-amlaw", 
-  "citationitems": [
-    {
-      "position": 1, 
-      "first-reference-note-number": 1, 
-      "id": "chapter-2", 
-      "near-note": true
-    }
-  ], 
-  "result": "Holmes, <i>supra</i> note 1."
+  ],
+  "result": "<span style=\"font-variant:small-caps;\">Holmes</span>, <i>supra</i> note 1.",
+  "stylename": "mlz-amlaw"
 }

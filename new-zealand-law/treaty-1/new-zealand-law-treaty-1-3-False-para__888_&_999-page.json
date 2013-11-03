@@ -1,38 +1,38 @@
 {
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "treaty-1",
+      "label": "page",
+      "locator": "para. 888 & 999",
+      "near-note": false,
+      "position": 3
+    }
+  ],
   "items": [
     {
       "author": [
         {
-          "isInstitution": "true", 
-          "family": "United States"
-        }, 
+          "family": "United States",
+          "isInstitution": "true"
+        },
         {
-          "isInstitution": "true", 
-          "family": "Japan"
+          "family": "Japan",
+          "isInstitution": "true"
         }
-      ], 
-      "section": "art. X", 
-      "title": "Treaty of Friendship, Commerce and Navigation", 
-      "page": "135", 
-      "volume": "75", 
+      ],
+      "container-title": "U.N.T.S.",
       "event-date": {
         "raw": "1953-04-02"
-      }, 
-      "container-title": "U.N.T.S.", 
-      "type": "treaty", 
-      "id": "treaty-1"
+      },
+      "id": "treaty-1",
+      "page": "135",
+      "section": "art. X",
+      "title": "Treaty of Friendship, Commerce and Navigation",
+      "type": "treaty",
+      "volume": "75"
     }
-  ], 
-  "stylename": "mlz-new-zealand-law", 
-  "citationitems": [
-    {
-      "first-reference-note-number": 1, 
-      "label": "page", 
-      "locator": "para. 888 & 999", 
-      "position": 3, 
-      "id": "treaty-1", 
-      "near-note": false
-    }
-  ], 
-  "result": "Treaty of Friendship, Commerce and Navigation, art X paras 888 &#38; 999."
+  ],
+  "result": "Treaty of Friendship, Commerce and Navigation, art X paras 888 &#38; 999.",
+  "stylename": "mlz-new-zealand-law"
 }

@@ -1,33 +1,33 @@
 {
-  "items": [
-    {
-      "publisher": "Columbia Broadcasting System", 
-      "author": [
-        {
-          "given": "Orson", 
-          "family": "Welles"
-        }
-      ], 
-      "issued": {
-        "raw": "1938-10-30"
-      }, 
-      "title": "War of the Worlds", 
-      "container-title": "Mercury Theatre on the Air", 
-      "genre": "radio broadcast", 
-      "type": "broadcast", 
-      "id": "radio-1"
-    }
-  ], 
-  "stylename": "mlz-amlaw", 
   "citationitems": [
     {
-      "first-reference-note-number": 1, 
-      "label": "section", 
-      "locator": 125, 
-      "position": 3, 
-      "id": "radio-1", 
-      "near-note": false
+      "first-reference-note-number": 1,
+      "id": "radio-1",
+      "label": "section",
+      "locator": 125,
+      "near-note": false,
+      "position": 3
     }
-  ], 
-  "result": "<i>Id.</i> sec. 125."
+  ],
+  "items": [
+    {
+      "author": [
+        {
+          "family": "Welles",
+          "given": "Orson"
+        }
+      ],
+      "container-title": "Mercury Theatre on the Air",
+      "genre": "radio broadcast",
+      "id": "radio-1",
+      "issued": {
+        "raw": "1938-10-30"
+      },
+      "publisher": "Columbia Broadcasting System",
+      "title": "War of the Worlds",
+      "type": "broadcast"
+    }
+  ],
+  "result": "<i>Id.</i> sec. 125.",
+  "stylename": "mlz-amlaw"
 }

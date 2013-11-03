@@ -1,22 +1,22 @@
 {
-  "items": [
-    {
-      "publisher": "Sweet & Maxwell", 
-      "type": "book", 
-      "id": "looseleaf-1", 
-      "title": "Cross on Local Government Law"
-    }
-  ], 
-  "stylename": "mlz-new-zealand-law", 
   "citationitems": [
     {
-      "first-reference-note-number": 1, 
-      "label": "chapter", 
-      "locator": 125, 
-      "position": 3, 
-      "id": "looseleaf-1", 
-      "near-note": false
+      "first-reference-note-number": 1,
+      "id": "looseleaf-1",
+      "label": "chapter",
+      "locator": 125,
+      "near-note": false,
+      "position": 3
     }
-  ], 
-  "result": "At ch 125."
+  ],
+  "items": [
+    {
+      "id": "looseleaf-1",
+      "publisher": "Sweet & Maxwell",
+      "title": "Cross on Local Government Law",
+      "type": "book"
+    }
+  ],
+  "result": "At ch 125.",
+  "stylename": "mlz-new-zealand-law"
 }

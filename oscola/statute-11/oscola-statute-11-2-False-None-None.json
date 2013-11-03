@@ -1,1 +1,24 @@
-{"items": [{"title": "Counter Terrorism Act", "issued": {"raw": "2008"}, "section": "sec. 1", "jurisdiction": "gb", "type": "legislation", "id": "statute-11"}], "stylename": "mlz-oscola", "citationitems": [{"position": 2, "first-reference-note-number": 1, "id": "statute-11", "near-note": false}], "result": "Counter Terrorism Act, s 1"}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "statute-11",
+      "near-note": false,
+      "position": 2
+    }
+  ],
+  "items": [
+    {
+      "id": "statute-11",
+      "issued": {
+        "raw": "2008"
+      },
+      "jurisdiction": "gb",
+      "section": "sec. 1",
+      "title": "Counter Terrorism Act",
+      "type": "legislation"
+    }
+  ],
+  "result": "Counter Terrorism Act, s 1",
+  "stylename": "mlz-oscola"
+}

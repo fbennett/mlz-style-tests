@@ -1,1 +1,30 @@
-{"items": [{"title": "Hopp v. Lepp", "issued": {"raw": "1980-05-20"}, "jurisdiction": "ca", "authority": "Supreme Court", "id": "case-17", "volume": "2", "collection-number": "1980", "container-title": "Supreme Court Reports", "type": "legal_case", "page": "192"}], "stylename": "mlz-cms-full", "citationitems": [{"first-reference-note-number": 1, "label": null, "locator": 125, "position": 1, "id": "case-17", "near-note": false}], "result": "Hopp v. Lepp, [1980] 2 S.C.R. 192, 125 (Can.)."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "case-17",
+      "label": null,
+      "locator": 125,
+      "near-note": false,
+      "position": 1
+    }
+  ],
+  "items": [
+    {
+      "authority": "Supreme Court",
+      "collection-number": "1980",
+      "container-title": "Supreme Court Reports",
+      "id": "case-17",
+      "issued": {
+        "raw": "1980-05-20"
+      },
+      "jurisdiction": "ca",
+      "page": "192",
+      "title": "Hopp v. Lepp",
+      "type": "legal_case",
+      "volume": "2"
+    }
+  ],
+  "result": "Hopp v. Lepp, [1980] 2 S.C.R. 192, 125 (Can.).",
+  "stylename": "mlz-cms-full"
+}

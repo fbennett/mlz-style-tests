@@ -1,1 +1,33 @@
-{"items": [{"type": "legal_case", "title": "Osman v. U.K.", "issued": {"raw": "1998-10-28"}, "jurisdiction": "coe.int;court.of.human.rights", "number": "23452/94", "authority": "European Court of Human Rights | Section I", "id": "case-9", "volume": "VIII", "publication-date": "1998", "collection-number": "1998", "container-title": "Reports of Judgments and Decisions", "issue": "95", "page": "3124"}], "stylename": "mlz-oscola", "citationitems": [{"first-reference-note-number": 1, "label": "paragraph", "locator": 125, "position": 0, "id": "case-9", "near-note": false}], "result": "<i>Osman v UK</i> ECHR 1998\u2013VIII 3124 [125]"}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "case-9",
+      "label": "paragraph",
+      "locator": 125,
+      "near-note": false,
+      "position": 0
+    }
+  ],
+  "items": [
+    {
+      "authority": "European Court of Human Rights | Section I",
+      "collection-number": "1998",
+      "container-title": "Reports of Judgments and Decisions",
+      "id": "case-9",
+      "issue": "95",
+      "issued": {
+        "raw": "1998-10-28"
+      },
+      "jurisdiction": "coe.int;court.of.human.rights",
+      "number": "23452/94",
+      "page": "3124",
+      "publication-date": "1998",
+      "title": "Osman v. U.K.",
+      "type": "legal_case",
+      "volume": "VIII"
+    }
+  ],
+  "result": "<i>Osman v UK</i> ECHR 1998\u2013VIII 3124 [125]",
+  "stylename": "mlz-oscola"
+}

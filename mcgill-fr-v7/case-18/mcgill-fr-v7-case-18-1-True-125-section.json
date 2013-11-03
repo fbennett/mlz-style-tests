@@ -1,1 +1,29 @@
-{"items": [{"title": "Fucella v. Ricker", "issued": {"raw": "1982"}, "jurisdiction": "ca;on", "authority": "High Court of Justice", "id": "case-18", "volume": "35", "container-title": "Ontario Reports Second", "type": "legal_case", "page": "423"}], "stylename": "mlz-mcgill-fr-v7", "citationitems": [{"first-reference-note-number": 1, "label": "section", "locator": 125, "position": 1, "id": "case-18", "near-note": true}], "result": "<i>Fucella v Ricker</i>, <i>supra</i> note 1 sect\u00a0125."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "case-18",
+      "label": "section",
+      "locator": 125,
+      "near-note": true,
+      "position": 1
+    }
+  ],
+  "items": [
+    {
+      "authority": "High Court of Justice",
+      "container-title": "Ontario Reports Second",
+      "id": "case-18",
+      "issued": {
+        "raw": "1982"
+      },
+      "jurisdiction": "ca;on",
+      "page": "423",
+      "title": "Fucella v. Ricker",
+      "type": "legal_case",
+      "volume": "35"
+    }
+  ],
+  "result": "<i>Fucella v Ricker</i>, <i>supra</i> note 1 sect\u00a0125.",
+  "stylename": "mlz-mcgill-fr-v7"
+}

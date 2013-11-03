@@ -1,1 +1,28 @@
-{"items": [{"publisher-place": "Napier", "title": "Regina v. Tuhou", "issued": {"raw": "2008-09-11"}, "jurisdiction": "nz", "number": "CRI\\-2007\\-020\\-2820", "authority": "High Court", "type": "legal_case", "id": "case-22"}], "stylename": "mlz-new-zealand-law", "citationitems": [{"first-reference-note-number": 1, "label": null, "locator": 125, "position": 1, "id": "case-22", "near-note": false}], "result": "<i>Regina v Tuhou</i>, above n 1, at 125."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "case-22",
+      "label": null,
+      "locator": 125,
+      "near-note": false,
+      "position": 1
+    }
+  ],
+  "items": [
+    {
+      "authority": "High Court",
+      "id": "case-22",
+      "issued": {
+        "raw": "2008-09-11"
+      },
+      "jurisdiction": "nz",
+      "number": "CRI\\-2007\\-020\\-2820",
+      "publisher-place": "Napier",
+      "title": "Regina v. Tuhou",
+      "type": "legal_case"
+    }
+  ],
+  "result": "<i>Regina v Tuhou</i>, above n 1, at 125.",
+  "stylename": "mlz-new-zealand-law"
+}

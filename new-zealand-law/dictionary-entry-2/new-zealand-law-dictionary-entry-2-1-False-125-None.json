@@ -1,40 +1,40 @@
 {
-  "items": [
-    {
-      "publisher": "MJF", 
-      "author": [
-        {
-          "given": "Gerald", 
-          "family": "Hill"
-        }, 
-        {
-          "given": "Kathleen", 
-          "family": "Hill"
-        }
-      ], 
-      "URL": "http://dictionary.law.com/", 
-      "issued": {
-        "raw": "2002"
-      }, 
-      "title": "vexatious litigation", 
-      "container-title": "The People's Law Dictionary", 
-      "accessed": {
-        "raw": "Feb 25, 2012"
-      }, 
-      "type": "entry-dictionary", 
-      "id": "dictionary-entry-2"
-    }
-  ], 
-  "stylename": "mlz-new-zealand-law", 
   "citationitems": [
     {
-      "first-reference-note-number": 1, 
-      "label": null, 
-      "locator": 125, 
-      "position": 1, 
-      "id": "dictionary-entry-2", 
-      "near-note": false
+      "first-reference-note-number": 1,
+      "id": "dictionary-entry-2",
+      "label": null,
+      "locator": 125,
+      "near-note": false,
+      "position": 1
     }
-  ], 
-  "result": "Hill and Hill, above n 1, at 125."
+  ],
+  "items": [
+    {
+      "URL": "http://dictionary.law.com/",
+      "accessed": {
+        "raw": "Feb 25, 2012"
+      },
+      "author": [
+        {
+          "family": "Hill",
+          "given": "Gerald"
+        },
+        {
+          "family": "Hill",
+          "given": "Kathleen"
+        }
+      ],
+      "container-title": "The People's Law Dictionary",
+      "id": "dictionary-entry-2",
+      "issued": {
+        "raw": "2002"
+      },
+      "publisher": "MJF",
+      "title": "vexatious litigation",
+      "type": "entry-dictionary"
+    }
+  ],
+  "result": "Hill and Hill, above n 1, at 125.",
+  "stylename": "mlz-new-zealand-law"
 }

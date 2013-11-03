@@ -1,1 +1,36 @@
-{"items": [{"publisher": "Clute Institute", "publisher-place": "Littleton, Colorado", "title": "Student Editorial Board Members: In the Zone of Proximal Development of Language Learning", "URL": "http://www.cluteinstitute.com/proceedings/2010_Dublin_ETLC_Articles/Article%20270.pdf", "issued": {"raw": "2010"}, "author": [{"given": "John W.", "family": "Schwieter"}], "id": "paper-conference-3", "container-title": "2010 EABR & ETLC Conference Proceedings", "accessed": {"raw": "2012-02-25"}, "type": "paper-conference", "page": "142"}], "stylename": "mlz-amlaw", "citationitems": [{"position": 0, "first-reference-note-number": 1, "id": "paper-conference-3", "near-note": false}], "result": "John W. Schwieter, <i>Student Editorial Board Members: In the Zone of Proximal Development of Language Learning</i>, <span style=\"font-variant:small-caps;\">2010 EABR &#38; ETLC Conference Proceedings</span> 142 (Littleton, Colorado, Clute Institute 2010)."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "paper-conference-3",
+      "near-note": false,
+      "position": 0
+    }
+  ],
+  "items": [
+    {
+      "URL": "http://www.cluteinstitute.com/proceedings/2010_Dublin_ETLC_Articles/Article%20270.pdf",
+      "accessed": {
+        "raw": "2012-02-25"
+      },
+      "author": [
+        {
+          "family": "Schwieter",
+          "given": "John W."
+        }
+      ],
+      "container-title": "2010 EABR & ETLC Conference Proceedings",
+      "id": "paper-conference-3",
+      "issued": {
+        "raw": "2010"
+      },
+      "page": "142",
+      "publisher": "Clute Institute",
+      "publisher-place": "Littleton, Colorado",
+      "title": "Student Editorial Board Members: In the Zone of Proximal Development of Language Learning",
+      "type": "paper-conference"
+    }
+  ],
+  "result": "John W. Schwieter, <i>Student Editorial Board Members: In the Zone of Proximal Development of Language Learning</i>, <span style=\"font-variant:small-caps;\">2010 EABR &#38; ETLC Conference Proceedings</span> 142 (Littleton, Colorado, Clute Institute 2010).",
+  "stylename": "mlz-amlaw"
+}

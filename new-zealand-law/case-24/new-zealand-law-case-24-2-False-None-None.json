@@ -1,25 +1,25 @@
 {
-  "items": [
-    {
-      "title": "Powick v. Malvern Wells Water Co.", 
-      "issued": {
-        "raw": "1993-09-28"
-      }, 
-      "authority": "High Court|Queen's Bench", 
-      "note": "{:jurisdiction:gb;england.and.wales}", 
-      "container-title": "The Times", 
-      "type": "article-newspaper", 
-      "id": "ITEM-1"
-    }
-  ], 
-  "stylename": "mlz-new-zealand-law", 
   "citationitems": [
     {
-      "position": 2, 
-      "first-reference-note-number": 1, 
-      "id": "ITEM-1", 
-      "near-note": false
+      "first-reference-note-number": 1,
+      "id": "ITEM-1",
+      "near-note": false,
+      "position": 2
     }
-  ], 
-  "result": "\u201cPowick v Malvern Wells Water Co\u201d, above n 1."
+  ],
+  "items": [
+    {
+      "authority": "High Court|Queen's Bench",
+      "container-title": "The Times",
+      "id": "ITEM-1",
+      "issued": {
+        "raw": "1993-09-28"
+      },
+      "note": "{:jurisdiction:gb;england.and.wales}",
+      "title": "Powick v. Malvern Wells Water Co.",
+      "type": "article-newspaper"
+    }
+  ],
+  "result": "\u201cPowick v Malvern Wells Water Co\u201d, above n 1.",
+  "stylename": "mlz-new-zealand-law"
 }

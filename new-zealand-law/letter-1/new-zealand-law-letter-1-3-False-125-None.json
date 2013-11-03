@@ -1,36 +1,36 @@
 {
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "letter-1",
+      "label": null,
+      "locator": 125,
+      "near-note": false,
+      "position": 3
+    }
+  ],
   "items": [
     {
       "author": [
         {
-          "given": "Gordon", 
-          "family": "Brown"
+          "family": "Brown",
+          "given": "Gordon"
         }
-      ], 
+      ],
+      "genre": "Letter",
+      "id": "letter-1",
       "issued": {
         "raw": "2009-11-20"
-      }, 
-      "type": "personal_communication", 
-      "genre": "Letter", 
+      },
       "recipient": [
         {
-          "given": "Lady", 
-          "family": "Ashton"
+          "family": "Ashton",
+          "given": "Lady"
         }
-      ], 
-      "id": "letter-1"
+      ],
+      "type": "personal_communication"
     }
-  ], 
-  "stylename": "mlz-new-zealand-law", 
-  "citationitems": [
-    {
-      "first-reference-note-number": 1, 
-      "label": null, 
-      "locator": 125, 
-      "position": 3, 
-      "id": "letter-1", 
-      "near-note": false
-    }
-  ], 
-  "result": "At 125."
+  ],
+  "result": "At 125.",
+  "stylename": "mlz-new-zealand-law"
 }

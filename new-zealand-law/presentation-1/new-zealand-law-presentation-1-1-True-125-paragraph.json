@@ -1,1 +1,36 @@
-{"items": [{"publisher-place": "Chicago", "author": [{"given": "Brian", "family": "Reid"}], "URL": "http://www.reid.org/~brian/markup98.ppt", "issued": {"raw": "1998-11-19"}, "title": "20 Years of Abstract Markup: Any Progress?", "event": "Markup Technologies \u201998", "accessed": {"raw": "2012-05-15"}, "type": "speech", "id": "presentation-1"}], "stylename": "mlz-new-zealand-law", "citationitems": [{"first-reference-note-number": 1, "label": "paragraph", "locator": 125, "position": 1, "id": "presentation-1", "near-note": true}], "result": "Reid, above n 1, at [125]."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "presentation-1",
+      "label": "paragraph",
+      "locator": 125,
+      "near-note": true,
+      "position": 1
+    }
+  ],
+  "items": [
+    {
+      "URL": "http://www.reid.org/~brian/markup98.ppt",
+      "accessed": {
+        "raw": "2012-05-15"
+      },
+      "author": [
+        {
+          "family": "Reid",
+          "given": "Brian"
+        }
+      ],
+      "event": "Markup Technologies \u201998",
+      "id": "presentation-1",
+      "issued": {
+        "raw": "1998-11-19"
+      },
+      "publisher-place": "Chicago",
+      "title": "20 Years of Abstract Markup: Any Progress?",
+      "type": "speech"
+    }
+  ],
+  "result": "Reid, above n 1, at [125].",
+  "stylename": "mlz-new-zealand-law"
+}

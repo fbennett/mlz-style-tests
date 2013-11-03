@@ -1,1 +1,34 @@
-{"items": [{"type": "article-journal", "title": "Organized crime: A social network approach", "issued": {"raw": "1999"}, "author": [{"given": "Jeffrey Scott", "family": "McIllwain"}], "id": "article-journal-1", "volume": "32", "container-title": "Crime, Law and Social Change", "issue": "4", "page": "301-323"}], "stylename": "mlz-mcgill-fr-v7", "citationitems": [{"first-reference-note-number": 1, "label": "paragraph", "locator": 125, "position": 1, "id": "article-journal-1", "near-note": true}], "result": "McIllwain, \u00ab\u00a0Organized crime: A social network approach\u00a0\u00bb, <i>supra</i> note 1 au para\u00a0125."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "article-journal-1",
+      "label": "paragraph",
+      "locator": 125,
+      "near-note": true,
+      "position": 1
+    }
+  ],
+  "items": [
+    {
+      "author": [
+        {
+          "family": "McIllwain",
+          "given": "Jeffrey Scott"
+        }
+      ],
+      "container-title": "Crime, Law and Social Change",
+      "id": "article-journal-1",
+      "issue": "4",
+      "issued": {
+        "raw": "1999"
+      },
+      "page": "301-323",
+      "title": "Organized crime: A social network approach",
+      "type": "article-journal",
+      "volume": "32"
+    }
+  ],
+  "result": "McIllwain, \u00ab\u00a0Organized crime: A social network approach\u00a0\u00bb, <i>supra</i> note 1 au para\u00a0125.",
+  "stylename": "mlz-mcgill-fr-v7"
+}

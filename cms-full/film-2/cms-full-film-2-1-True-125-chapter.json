@@ -1,1 +1,25 @@
-{"items": [{"publisher": "New Line Cinema", "title": "Snakes on a plane", "type": "motion_picture", "id": "film-2", "issued": {"raw": "2006"}}], "stylename": "mlz-cms-full", "citationitems": [{"first-reference-note-number": 1, "label": "chapter", "locator": 125, "position": 1, "id": "film-2", "near-note": true}], "result": "<i>Snakes on a Plane</i>, chap. 125."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "film-2",
+      "label": "chapter",
+      "locator": 125,
+      "near-note": true,
+      "position": 1
+    }
+  ],
+  "items": [
+    {
+      "id": "film-2",
+      "issued": {
+        "raw": "2006"
+      },
+      "publisher": "New Line Cinema",
+      "title": "Snakes on a plane",
+      "type": "motion_picture"
+    }
+  ],
+  "result": "<i>Snakes on a Plane</i>, chap. 125.",
+  "stylename": "mlz-cms-full"
+}

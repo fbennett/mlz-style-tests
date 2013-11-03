@@ -1,1 +1,40 @@
-{"items": [{"publisher": "MJF", "title": "vexatious litigation", "URL": "http://dictionary.law.com/", "issued": {"raw": "2002"}, "author": [{"given": "Gerald", "family": "Hill"}, {"given": "Kathleen", "family": "Hill"}], "container-title": "The People's Law Dictionary", "accessed": {"raw": "Feb 25, 2012"}, "type": "entry-dictionary", "id": "dictionary-entry-2"}], "stylename": "mlz-mcgill-fr-v7", "citationitems": [{"first-reference-note-number": 1, "label": "section", "locator": 125, "position": 0, "id": "dictionary-entry-2", "near-note": false}], "result": "Gerald Hill et Kathleen Hill, \u00ab\u00a0vexatious litigation\u00a0\u00bb <i>The People\u2019s Law Dictionary</i> (2002) sect\u00a0125."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "dictionary-entry-2",
+      "label": "section",
+      "locator": 125,
+      "near-note": false,
+      "position": 0
+    }
+  ],
+  "items": [
+    {
+      "URL": "http://dictionary.law.com/",
+      "accessed": {
+        "raw": "Feb 25, 2012"
+      },
+      "author": [
+        {
+          "family": "Hill",
+          "given": "Gerald"
+        },
+        {
+          "family": "Hill",
+          "given": "Kathleen"
+        }
+      ],
+      "container-title": "The People's Law Dictionary",
+      "id": "dictionary-entry-2",
+      "issued": {
+        "raw": "2002"
+      },
+      "publisher": "MJF",
+      "title": "vexatious litigation",
+      "type": "entry-dictionary"
+    }
+  ],
+  "result": "Gerald Hill et Kathleen Hill, \u00ab\u00a0vexatious litigation\u00a0\u00bb <i>The People\u2019s Law Dictionary</i> (2002) sect\u00a0125.",
+  "stylename": "mlz-mcgill-fr-v7"
+}

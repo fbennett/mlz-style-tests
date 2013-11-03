@@ -1,1 +1,33 @@
-{"items": [{"title": "Simpson v. U.K.", "issued": {"raw": "1989"}, "jurisdiction": "coe.int", "number": "14688/89", "authority": "European Commission of Human Rights", "id": "case-13", "volume": "64", "publication-date": {"raw": "1989"}, "container-title": "Decisions and Reports", "type": "legal_case", "page": "188"}], "stylename": "mlz-mcgill-fr-v7", "citationitems": [{"first-reference-note-number": 1, "label": "section", "locator": 125, "position": 0, "id": "case-13", "near-note": false}], "result": "<i>Simpson v UK</i>, (1989) 64 DR 188 sect\u00a0125."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "case-13",
+      "label": "section",
+      "locator": 125,
+      "near-note": false,
+      "position": 0
+    }
+  ],
+  "items": [
+    {
+      "authority": "European Commission of Human Rights",
+      "container-title": "Decisions and Reports",
+      "id": "case-13",
+      "issued": {
+        "raw": "1989"
+      },
+      "jurisdiction": "coe.int",
+      "number": "14688/89",
+      "page": "188",
+      "publication-date": {
+        "raw": "1989"
+      },
+      "title": "Simpson v. U.K.",
+      "type": "legal_case",
+      "volume": "64"
+    }
+  ],
+  "result": "<i>Simpson v UK</i>, (1989) 64 DR 188 sect\u00a0125.",
+  "stylename": "mlz-mcgill-fr-v7"
+}

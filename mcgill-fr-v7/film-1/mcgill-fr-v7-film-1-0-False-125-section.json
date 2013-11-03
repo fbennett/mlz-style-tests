@@ -1,1 +1,25 @@
-{"items": [{"publisher": "Newmarket", "title": "Memento", "type": "motion_picture", "id": "film-1", "issued": {"raw": "2000"}}], "stylename": "mlz-mcgill-fr-v7", "citationitems": [{"first-reference-note-number": 1, "label": "section", "locator": 125, "position": 0, "id": "film-1", "near-note": false}], "result": "<i>Memento</i>, Newmarket, 2000, sect\u00a0125."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "film-1",
+      "label": "section",
+      "locator": 125,
+      "near-note": false,
+      "position": 0
+    }
+  ],
+  "items": [
+    {
+      "id": "film-1",
+      "issued": {
+        "raw": "2000"
+      },
+      "publisher": "Newmarket",
+      "title": "Memento",
+      "type": "motion_picture"
+    }
+  ],
+  "result": "<i>Memento</i>, Newmarket, 2000, sect\u00a0125.",
+  "stylename": "mlz-mcgill-fr-v7"
+}

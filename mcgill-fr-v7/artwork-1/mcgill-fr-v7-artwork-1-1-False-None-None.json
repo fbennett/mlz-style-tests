@@ -1,1 +1,32 @@
-{"items": [{"medium": "Online cartoon", "dimensions": "500 px \u00d7 271 px", "title": "Wikipedian Protester", "URL": "http://xkcd.com/285/", "issued": {"raw": "2007-08"}, "author": [{"given": "Randall", "family": "Munroe"}], "container-title": "XKCD", "type": "graphic", "id": "artwork-1"}], "stylename": "mlz-mcgill-fr-v7", "citationitems": [{"position": 1, "first-reference-note-number": 1, "id": "artwork-1", "near-note": false}], "result": "Munroe, \u00ab\u00a0Wikipedian Protester\u00a0\u00bb, <i>supra</i> note 1."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "artwork-1",
+      "near-note": false,
+      "position": 1
+    }
+  ],
+  "items": [
+    {
+      "URL": "http://xkcd.com/285/",
+      "author": [
+        {
+          "family": "Munroe",
+          "given": "Randall"
+        }
+      ],
+      "container-title": "XKCD",
+      "dimensions": "500 px \u00d7 271 px",
+      "id": "artwork-1",
+      "issued": {
+        "raw": "2007-08"
+      },
+      "medium": "Online cartoon",
+      "title": "Wikipedian Protester",
+      "type": "graphic"
+    }
+  ],
+  "result": "Munroe, \u00ab\u00a0Wikipedian Protester\u00a0\u00bb, <i>supra</i> note 1.",
+  "stylename": "mlz-mcgill-fr-v7"
+}

@@ -1,33 +1,33 @@
 {
-  "items": [
-    {
-      "publisher": "Bizarre Records", 
-      "medium": "Vinyl LP", 
-      "author": [
-        {
-          "given": "Frank", 
-          "family": "Zappa"
-        }
-      ], 
-      "issued": {
-        "raw": "1969"
-      }, 
-      "title": "Little Umbrellas", 
-      "container-title": "Hot Rats", 
-      "type": "song", 
-      "id": "audio-1"
-    }
-  ], 
-  "stylename": "mlz-new-zealand-law", 
   "citationitems": [
     {
-      "first-reference-note-number": 1, 
-      "label": "section", 
-      "locator": 125, 
-      "position": 0, 
-      "id": "audio-1", 
-      "near-note": false
+      "first-reference-note-number": 1,
+      "id": "audio-1",
+      "label": "section",
+      "locator": 125,
+      "near-note": false,
+      "position": 0
     }
-  ], 
-  "result": "Frank Zappa \u201cLittle Umbrellas\u201d on <i>Hot Rats</i> (Vinyl LP, Bizarre Records, 1969) at s 125."
+  ],
+  "items": [
+    {
+      "author": [
+        {
+          "family": "Zappa",
+          "given": "Frank"
+        }
+      ],
+      "container-title": "Hot Rats",
+      "id": "audio-1",
+      "issued": {
+        "raw": "1969"
+      },
+      "medium": "Vinyl LP",
+      "publisher": "Bizarre Records",
+      "title": "Little Umbrellas",
+      "type": "song"
+    }
+  ],
+  "result": "Frank Zappa \u201cLittle Umbrellas\u201d on <i>Hot Rats</i> (Vinyl LP, Bizarre Records, 1969) at s 125.",
+  "stylename": "mlz-new-zealand-law"
 }

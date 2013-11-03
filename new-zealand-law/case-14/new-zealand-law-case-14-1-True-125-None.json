@@ -1,33 +1,33 @@
 {
-  "items": [
-    {
-      "title": "Council of Civil Service Unions v. U.K.", 
-      "issued": {
-        "raw": "1987"
-      }, 
-      "jurisdiction": "coe.int", 
-      "number": "11603/85", 
-      "authority": "European Commission of Human Rights", 
-      "page": "269", 
-      "volume": "10", 
-      "publication-date": {
-        "raw": "1987"
-      }, 
-      "container-title": "European Human Rights Reports", 
-      "type": "legal_case", 
-      "id": "case-14"
-    }
-  ], 
-  "stylename": "mlz-new-zealand-law", 
   "citationitems": [
     {
-      "first-reference-note-number": 1, 
-      "label": null, 
-      "locator": 125, 
-      "position": 1, 
-      "id": "case-14", 
-      "near-note": true
+      "first-reference-note-number": 1,
+      "id": "case-14",
+      "label": null,
+      "locator": 125,
+      "near-note": true,
+      "position": 1
     }
-  ], 
-  "result": "<i>Council of Civil Service Unions v UK</i>, above n 1, at 125."
+  ],
+  "items": [
+    {
+      "authority": "European Commission of Human Rights",
+      "container-title": "European Human Rights Reports",
+      "id": "case-14",
+      "issued": {
+        "raw": "1987"
+      },
+      "jurisdiction": "coe.int",
+      "number": "11603/85",
+      "page": "269",
+      "publication-date": {
+        "raw": "1987"
+      },
+      "title": "Council of Civil Service Unions v. U.K.",
+      "type": "legal_case",
+      "volume": "10"
+    }
+  ],
+  "result": "<i>Council of Civil Service Unions v UK</i>, above n 1, at 125.",
+  "stylename": "mlz-new-zealand-law"
 }

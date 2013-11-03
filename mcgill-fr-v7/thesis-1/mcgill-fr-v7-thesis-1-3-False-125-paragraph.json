@@ -1,1 +1,33 @@
-{"items": [{"publisher": "Rutgers University", "title": "Incremental Data Flow Analysis Based on a Unified Model of Elimination Algorithms", "issued": {"raw": "1982-08-15"}, "author": [{"given": "Barbara G.", "family": "Ryder"}], "number-of-pages": "430", "genre": "Ph.D. dissertation", "type": "thesis", "id": "thesis-1"}], "stylename": "mlz-mcgill-fr-v7", "citationitems": [{"first-reference-note-number": 1, "label": "paragraph", "locator": 125, "position": 3, "id": "thesis-1", "near-note": false}], "result": "<i>Ibid</i>, au para\u00a0125."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "thesis-1",
+      "label": "paragraph",
+      "locator": 125,
+      "near-note": false,
+      "position": 3
+    }
+  ],
+  "items": [
+    {
+      "author": [
+        {
+          "family": "Ryder",
+          "given": "Barbara G."
+        }
+      ],
+      "genre": "Ph.D. dissertation",
+      "id": "thesis-1",
+      "issued": {
+        "raw": "1982-08-15"
+      },
+      "number-of-pages": "430",
+      "publisher": "Rutgers University",
+      "title": "Incremental Data Flow Analysis Based on a Unified Model of Elimination Algorithms",
+      "type": "thesis"
+    }
+  ],
+  "result": "<i>Ibid</i>, au para\u00a0125.",
+  "stylename": "mlz-mcgill-fr-v7"
+}

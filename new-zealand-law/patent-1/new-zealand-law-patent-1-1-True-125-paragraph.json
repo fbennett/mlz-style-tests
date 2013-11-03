@@ -1,49 +1,49 @@
 {
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "patent-1",
+      "label": "paragraph",
+      "locator": 125,
+      "near-note": true,
+      "position": 1
+    }
+  ],
   "items": [
     {
       "author": [
         {
-          "given": "Charles W.", 
-          "family": "Howlett"
-        }, 
+          "family": "Howlett",
+          "given": "Charles W."
+        },
         {
-          "given": "Grant", 
-          "family": "Bullis"
-        }, 
+          "family": "Bullis",
+          "given": "Grant"
+        },
         {
-          "given": "Angel", 
-          "family": "Bernardo"
+          "family": "Bernardo",
+          "given": "Angel"
         }
-      ], 
-      "type": "patent", 
-      "jurisdiction": "us", 
-      "number": "6,913,465", 
-      "submitted": {
-        "raw": "2003-01-13"
-      }, 
+      ],
+      "id": "patent-1",
       "issued": {
         "raw": "2005-07-05"
-      }, 
-      "title": "Dental implant delivery system", 
+      },
+      "jurisdiction": "us",
+      "number": "6,913,465",
       "recipient": [
         {
-          "isInstitution": "true", 
-          "family": "Nobel Biocare Services A.G."
+          "family": "Nobel Biocare Services A.G.",
+          "isInstitution": "true"
         }
-      ], 
-      "id": "patent-1"
+      ],
+      "submitted": {
+        "raw": "2003-01-13"
+      },
+      "title": "Dental implant delivery system",
+      "type": "patent"
     }
-  ], 
-  "stylename": "mlz-new-zealand-law", 
-  "citationitems": [
-    {
-      "first-reference-note-number": 1, 
-      "label": "paragraph", 
-      "locator": 125, 
-      "position": 1, 
-      "id": "patent-1", 
-      "near-note": true
-    }
-  ], 
-  "result": "Dental implant delivery system, US Patent No 6,913,465, above n 1, at [125]."
+  ],
+  "result": "Dental implant delivery system, US Patent No 6,913,465, above n 1, at [125].",
+  "stylename": "mlz-new-zealand-law"
 }

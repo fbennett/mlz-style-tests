@@ -1,1 +1,31 @@
-{"items": [{"title": "Bunt v. Tilley", "issued": {"raw": "2006-03-10"}, "jurisdiction": "gb;england.and.wales", "authority": "High Court | Queen's Bench", "id": "case-23", "volume": "3", "publication-date": {"raw": "2006"}, "collection-number": "2006", "container-title": "All England Reports", "type": "legal_case", "page": "336"}], "stylename": "mlz-mcgill-fr-v7", "citationitems": [{"position": 0, "first-reference-note-number": 1, "id": "case-23", "near-note": false}], "result": "<i>Bunt v Tilley</i>, [2006] 3 All ER 336 (QB)."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "case-23",
+      "near-note": false,
+      "position": 0
+    }
+  ],
+  "items": [
+    {
+      "authority": "High Court | Queen's Bench",
+      "collection-number": "2006",
+      "container-title": "All England Reports",
+      "id": "case-23",
+      "issued": {
+        "raw": "2006-03-10"
+      },
+      "jurisdiction": "gb;england.and.wales",
+      "page": "336",
+      "publication-date": {
+        "raw": "2006"
+      },
+      "title": "Bunt v. Tilley",
+      "type": "legal_case",
+      "volume": "3"
+    }
+  ],
+  "result": "<i>Bunt v Tilley</i>, [2006] 3 All ER 336 (QB).",
+  "stylename": "mlz-mcgill-fr-v7"
+}

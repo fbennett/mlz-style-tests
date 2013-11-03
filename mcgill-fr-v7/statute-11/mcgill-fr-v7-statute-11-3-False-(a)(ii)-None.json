@@ -1,1 +1,26 @@
-{"items": [{"title": "Counter Terrorism Act", "issued": {"raw": "2008"}, "section": "sec. 1", "jurisdiction": "gb", "type": "legislation", "id": "statute-11"}], "stylename": "mlz-mcgill-fr-v7", "citationitems": [{"first-reference-note-number": 1, "label": null, "locator": "(a)(ii)", "position": 3, "id": "statute-11", "near-note": false}], "result": "<i>Ibid</i>, sect\u00a01(a)(ii)."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "statute-11",
+      "label": null,
+      "locator": "(a)(ii)",
+      "near-note": false,
+      "position": 3
+    }
+  ],
+  "items": [
+    {
+      "id": "statute-11",
+      "issued": {
+        "raw": "2008"
+      },
+      "jurisdiction": "gb",
+      "section": "sec. 1",
+      "title": "Counter Terrorism Act",
+      "type": "legislation"
+    }
+  ],
+  "result": "<i>Ibid</i>, sect\u00a01(a)(ii).",
+  "stylename": "mlz-mcgill-fr-v7"
+}

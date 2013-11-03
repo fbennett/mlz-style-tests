@@ -1,1 +1,32 @@
-{"items": [{"publisher": "Dover Publications", "publisher-place": "New York", "author": [{"given": "Ambrose", "family": "Bierce"}], "issued": {"raw": "1993"}, "title": "Positive", "page": "96", "container-title": "Devil's Dictionary", "type": "entry-dictionary", "id": "dictionary-entry-1"}], "stylename": "mlz-mcgill-en-v7", "citationitems": [{"position": 1, "first-reference-note-number": 1, "id": "dictionary-entry-1", "near-note": false}], "result": "Bierce, \u201cPositive\u201d, <i>supra</i> note 1."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "dictionary-entry-1",
+      "near-note": false,
+      "position": 1
+    }
+  ],
+  "items": [
+    {
+      "author": [
+        {
+          "family": "Bierce",
+          "given": "Ambrose"
+        }
+      ],
+      "container-title": "Devil's Dictionary",
+      "id": "dictionary-entry-1",
+      "issued": {
+        "raw": "1993"
+      },
+      "page": "96",
+      "publisher": "Dover Publications",
+      "publisher-place": "New York",
+      "title": "Positive",
+      "type": "entry-dictionary"
+    }
+  ],
+  "result": "Bierce, \u201cPositive\u201d, <i>supra</i> note 1.",
+  "stylename": "mlz-mcgill-en-v7"
+}

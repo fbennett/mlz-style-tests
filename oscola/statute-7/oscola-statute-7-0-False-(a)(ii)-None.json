@@ -1,1 +1,33 @@
-{"items": [{"publisher": "West", "title": "Parking Authority Law", "issued": {"raw": "2010"}, "section": "sec. 342", "jurisdiction": "us;pa", "number": "tit. 53", "volume": "53", "publication-date": {"raw": "2010"}, "container-title": "Pennsylvania Statutes Annotated", "type": "legislation", "id": "statute-7"}], "stylename": "mlz-oscola", "citationitems": [{"first-reference-note-number": 1, "label": null, "locator": "(a)(ii)", "position": 0, "id": "statute-7", "near-note": false}], "result": "Parking Authority Law, 53 <span style=\"font-variant:small-caps;\">Pa Stat Ann</span> tit 53 s 342(a)(ii) (West 2010)"}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "statute-7",
+      "label": null,
+      "locator": "(a)(ii)",
+      "near-note": false,
+      "position": 0
+    }
+  ],
+  "items": [
+    {
+      "container-title": "Pennsylvania Statutes Annotated",
+      "id": "statute-7",
+      "issued": {
+        "raw": "2010"
+      },
+      "jurisdiction": "us;pa",
+      "number": "tit. 53",
+      "publication-date": {
+        "raw": "2010"
+      },
+      "publisher": "West",
+      "section": "sec. 342",
+      "title": "Parking Authority Law",
+      "type": "legislation",
+      "volume": "53"
+    }
+  ],
+  "result": "Parking Authority Law, 53 <span style=\"font-variant:small-caps;\">Pa Stat Ann</span> tit 53 s 342(a)(ii) (West 2010)",
+  "stylename": "mlz-oscola"
+}

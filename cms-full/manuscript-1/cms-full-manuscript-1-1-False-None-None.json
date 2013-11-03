@@ -1,1 +1,31 @@
-{"items": [{"publisher-place": "New York", "author": [{"given": "Alvin", "family": "Johnson"}], "issued": {"raw": "1937"}, "archive_location": "file 36", "id": "manuscript-1", "genre": "memorandum", "type": "manuscript", "archive": "Horace Kallen Papers, YIVO Institute for Jewish Research"}], "stylename": "mlz-cms-full", "citationitems": [{"position": 1, "first-reference-note-number": 1, "id": "manuscript-1", "near-note": false}], "result": "Johnson, memorandum."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "manuscript-1",
+      "near-note": false,
+      "position": 1
+    }
+  ],
+  "items": [
+    {
+      "archive": "Horace Kallen Papers, YIVO Institute for Jewish Research",
+      "archive_location": "file 36",
+      "author": [
+        {
+          "family": "Johnson",
+          "given": "Alvin"
+        }
+      ],
+      "genre": "memorandum",
+      "id": "manuscript-1",
+      "issued": {
+        "raw": "1937"
+      },
+      "publisher-place": "New York",
+      "type": "manuscript"
+    }
+  ],
+  "result": "Johnson, memorandum.",
+  "stylename": "mlz-cms-full"
+}

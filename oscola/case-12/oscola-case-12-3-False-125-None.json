@@ -1,1 +1,33 @@
-{"items": [{"title": "X v. Netherlands", "issued": {"raw": "1971-07-20"}, "jurisdiction": "coe.int", "number": "4130/69", "authority": "European Commission of Human Rights", "id": "case-12", "volume": "38", "publication-date": {"raw": "1971"}, "container-title": "Collection of Decisions", "type": "legal_case", "page": "9"}], "stylename": "mlz-oscola", "citationitems": [{"first-reference-note-number": 1, "label": null, "locator": 125, "position": 3, "id": "case-12", "near-note": false}], "result": "ibid 125"}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "case-12",
+      "label": null,
+      "locator": 125,
+      "near-note": false,
+      "position": 3
+    }
+  ],
+  "items": [
+    {
+      "authority": "European Commission of Human Rights",
+      "container-title": "Collection of Decisions",
+      "id": "case-12",
+      "issued": {
+        "raw": "1971-07-20"
+      },
+      "jurisdiction": "coe.int",
+      "number": "4130/69",
+      "page": "9",
+      "publication-date": {
+        "raw": "1971"
+      },
+      "title": "X v. Netherlands",
+      "type": "legal_case",
+      "volume": "38"
+    }
+  ],
+  "result": "ibid 125",
+  "stylename": "mlz-oscola"
+}

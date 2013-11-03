@@ -1,1 +1,29 @@
-{"items": [{"collection-title": "GlobalNews", "title": "PM Lawsuit against former UK Foreign Secretary", "URL": "http://downloads.bbc.co.uk/podcasts/worldservice/globalnews/globalnews_20120418-1627a.mp3", "issued": {"raw": "2012-04-19"}, "publisher": "BBC World Service", "genre": "podcast", "accessed": {"raw": "2012-05-12"}, "type": "song", "id": "podcast-1"}], "stylename": "mlz-oscola", "citationitems": [{"position": 1, "first-reference-note-number": 1, "id": "podcast-1", "near-note": false}], "result": "\u2018PM Lawsuit against former UK Foreign Secretary\u2019 (n 1)"}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "podcast-1",
+      "near-note": false,
+      "position": 1
+    }
+  ],
+  "items": [
+    {
+      "URL": "http://downloads.bbc.co.uk/podcasts/worldservice/globalnews/globalnews_20120418-1627a.mp3",
+      "accessed": {
+        "raw": "2012-05-12"
+      },
+      "collection-title": "GlobalNews",
+      "genre": "podcast",
+      "id": "podcast-1",
+      "issued": {
+        "raw": "2012-04-19"
+      },
+      "publisher": "BBC World Service",
+      "title": "PM Lawsuit against former UK Foreign Secretary",
+      "type": "song"
+    }
+  ],
+  "result": "\u2018PM Lawsuit against former UK Foreign Secretary\u2019 (n 1)",
+  "stylename": "mlz-oscola"
+}

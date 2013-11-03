@@ -1,1 +1,38 @@
-{"items": [{"title": "Privatization and Accountability", "issued": {"raw": "2003"}, "author": [{"given": "Michael J.", "family": "Trebilcock"}, {"given": "Edward M.", "family": "Iacobucci"}], "id": "paper-conference-2", "volume": "116", "container-title": "Harvard Law Review", "type": "paper-conference", "event": "Symposium: Public Values in an Era of Privatization", "page": "1422-1454"}], "stylename": "mlz-mcgill-fr-v7", "citationitems": [{"first-reference-note-number": 1, "label": "section", "locator": 125, "position": 1, "id": "paper-conference-2", "near-note": false}], "result": "Trebilcock et Iacobucci, \u00ab\u00a0Privatization and Accountability\u00a0\u00bb, <i>supra</i> note 1 sect\u00a0125."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "paper-conference-2",
+      "label": "section",
+      "locator": 125,
+      "near-note": false,
+      "position": 1
+    }
+  ],
+  "items": [
+    {
+      "author": [
+        {
+          "family": "Trebilcock",
+          "given": "Michael J."
+        },
+        {
+          "family": "Iacobucci",
+          "given": "Edward M."
+        }
+      ],
+      "container-title": "Harvard Law Review",
+      "event": "Symposium: Public Values in an Era of Privatization",
+      "id": "paper-conference-2",
+      "issued": {
+        "raw": "2003"
+      },
+      "page": "1422-1454",
+      "title": "Privatization and Accountability",
+      "type": "paper-conference",
+      "volume": "116"
+    }
+  ],
+  "result": "Trebilcock et Iacobucci, \u00ab\u00a0Privatization and Accountability\u00a0\u00bb, <i>supra</i> note 1 sect\u00a0125.",
+  "stylename": "mlz-mcgill-fr-v7"
+}

@@ -1,30 +1,30 @@
 {
-  "items": [
-    {
-      "title": "In re Looney", 
-      "issued": {
-        "raw": "1988-09-09"
-      }, 
-      "jurisdiction": "us;federal;va.western", 
-      "authority": "Bankruptcy Court", 
-      "page": "para. 72,447", 
-      "collection-number": "1987-1989", 
-      "container-title": "Bankruptcy Law Reports (CCH)", 
-      "genre": "Transfer Binder", 
-      "type": "legal_case", 
-      "id": "case-21"
-    }
-  ], 
-  "stylename": "mlz-amlaw", 
   "citationitems": [
     {
-      "first-reference-note-number": 1, 
-      "label": "paragraph", 
-      "locator": 125, 
-      "position": 3, 
-      "id": "case-21", 
-      "near-note": false
+      "first-reference-note-number": 1,
+      "id": "case-21",
+      "label": "paragraph",
+      "locator": 125,
+      "near-note": false,
+      "position": 3
     }
-  ], 
-  "result": "<i>Id.</i> \u00b6 125."
+  ],
+  "items": [
+    {
+      "authority": "Bankruptcy Court",
+      "collection-number": "1987-1989",
+      "container-title": "Bankruptcy Law Reports (CCH)",
+      "genre": "Transfer Binder",
+      "id": "case-21",
+      "issued": {
+        "raw": "1988-09-09"
+      },
+      "jurisdiction": "us;federal;va.western",
+      "page": "para. 72,447",
+      "title": "In re Looney",
+      "type": "legal_case"
+    }
+  ],
+  "result": "<i>Id.</i> \u00b6 125.",
+  "stylename": "mlz-amlaw"
 }

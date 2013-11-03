@@ -1,28 +1,28 @@
 {
-  "items": [
-    {
-      "title": "Hopp v. Lepp", 
-      "issued": {
-        "raw": "1980-05-20"
-      }, 
-      "jurisdiction": "ca", 
-      "authority": "Supreme Court", 
-      "page": "192", 
-      "volume": "2", 
-      "collection-number": "1980", 
-      "container-title": "Supreme Court Reports", 
-      "type": "legal_case", 
-      "id": "case-17"
-    }
-  ], 
-  "stylename": "mlz-new-zealand-law", 
   "citationitems": [
     {
-      "position": 1, 
-      "first-reference-note-number": 1, 
-      "id": "case-17", 
-      "near-note": true
+      "first-reference-note-number": 1,
+      "id": "case-17",
+      "near-note": true,
+      "position": 1
     }
-  ], 
-  "result": "<i>Hopp v Lepp</i>, above n 1."
+  ],
+  "items": [
+    {
+      "authority": "Supreme Court",
+      "collection-number": "1980",
+      "container-title": "Supreme Court Reports",
+      "id": "case-17",
+      "issued": {
+        "raw": "1980-05-20"
+      },
+      "jurisdiction": "ca",
+      "page": "192",
+      "title": "Hopp v. Lepp",
+      "type": "legal_case",
+      "volume": "2"
+    }
+  ],
+  "result": "<i>Hopp v Lepp</i>, above n 1.",
+  "stylename": "mlz-new-zealand-law"
 }

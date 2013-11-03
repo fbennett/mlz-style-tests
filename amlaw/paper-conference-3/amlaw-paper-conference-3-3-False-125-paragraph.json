@@ -1,1 +1,38 @@
-{"items": [{"publisher": "Clute Institute", "publisher-place": "Littleton, Colorado", "title": "Student Editorial Board Members: In the Zone of Proximal Development of Language Learning", "URL": "http://www.cluteinstitute.com/proceedings/2010_Dublin_ETLC_Articles/Article%20270.pdf", "issued": {"raw": "2010"}, "author": [{"given": "John W.", "family": "Schwieter"}], "id": "paper-conference-3", "container-title": "2010 EABR & ETLC Conference Proceedings", "accessed": {"raw": "2012-02-25"}, "type": "paper-conference", "page": "142"}], "stylename": "mlz-amlaw", "citationitems": [{"first-reference-note-number": 1, "label": "paragraph", "locator": 125, "position": 3, "id": "paper-conference-3", "near-note": false}], "result": "<i>Id.</i> para. 125."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "paper-conference-3",
+      "label": "paragraph",
+      "locator": 125,
+      "near-note": false,
+      "position": 3
+    }
+  ],
+  "items": [
+    {
+      "URL": "http://www.cluteinstitute.com/proceedings/2010_Dublin_ETLC_Articles/Article%20270.pdf",
+      "accessed": {
+        "raw": "2012-02-25"
+      },
+      "author": [
+        {
+          "family": "Schwieter",
+          "given": "John W."
+        }
+      ],
+      "container-title": "2010 EABR & ETLC Conference Proceedings",
+      "id": "paper-conference-3",
+      "issued": {
+        "raw": "2010"
+      },
+      "page": "142",
+      "publisher": "Clute Institute",
+      "publisher-place": "Littleton, Colorado",
+      "title": "Student Editorial Board Members: In the Zone of Proximal Development of Language Learning",
+      "type": "paper-conference"
+    }
+  ],
+  "result": "<i>Id.</i> para. 125.",
+  "stylename": "mlz-amlaw"
+}

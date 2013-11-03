@@ -1,37 +1,37 @@
 {
-  "items": [
-    {
-      "author": [
-        {
-          "given": "Emmanuel", 
-          "family": "Udo"
-        }
-      ], 
-      "URL": "http://www.witiger.com/ecommerce/screen~nigeria1sm.jpg", 
-      "issued": {
-        "raw": "2001-06-26"
-      }, 
-      "type": "personal_communication", 
-      "genre": "email", 
-      "recipient": [
-        {
-          "given": "Tim", 
-          "family": "Richardson"
-        }
-      ], 
-      "id": "email-1"
-    }
-  ], 
-  "stylename": "mlz-new-zealand-law", 
   "citationitems": [
     {
-      "first-reference-note-number": 1, 
-      "label": "chapter", 
-      "locator": 125, 
-      "position": 0, 
-      "id": "email-1", 
-      "near-note": false
+      "first-reference-note-number": 1,
+      "id": "email-1",
+      "label": "chapter",
+      "locator": 125,
+      "near-note": false,
+      "position": 0
     }
-  ], 
-  "result": "Email from Emmanuel Udo to Tim Richardson (26 June 2001) at ch 125."
+  ],
+  "items": [
+    {
+      "URL": "http://www.witiger.com/ecommerce/screen~nigeria1sm.jpg",
+      "author": [
+        {
+          "family": "Udo",
+          "given": "Emmanuel"
+        }
+      ],
+      "genre": "email",
+      "id": "email-1",
+      "issued": {
+        "raw": "2001-06-26"
+      },
+      "recipient": [
+        {
+          "family": "Richardson",
+          "given": "Tim"
+        }
+      ],
+      "type": "personal_communication"
+    }
+  ],
+  "result": "Email from Emmanuel Udo to Tim Richardson (26 June 2001) at ch 125.",
+  "stylename": "mlz-new-zealand-law"
 }

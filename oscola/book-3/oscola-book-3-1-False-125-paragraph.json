@@ -1,1 +1,39 @@
-{"items": [{"publisher": "Comstock Editions", "ISBN": "9780891740087", "publisher-place": "Sausalito, California", "title": "Tough trip through Paradise 1878-1879", "issued": {"raw": "1986"}, "author": [{"given": "Andrew", "family": "Garcia"}], "editor": [{"given": "Bennett H.", "family": "Stein"}], "type": "book", "id": "book-3"}], "stylename": "mlz-oscola", "citationitems": [{"first-reference-note-number": 1, "label": "paragraph", "locator": 125, "position": 1, "id": "book-3", "near-note": false}], "result": "Garcia (n 1) para 125"}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "book-3",
+      "label": "paragraph",
+      "locator": 125,
+      "near-note": false,
+      "position": 1
+    }
+  ],
+  "items": [
+    {
+      "ISBN": "9780891740087",
+      "author": [
+        {
+          "family": "Garcia",
+          "given": "Andrew"
+        }
+      ],
+      "editor": [
+        {
+          "family": "Stein",
+          "given": "Bennett H."
+        }
+      ],
+      "id": "book-3",
+      "issued": {
+        "raw": "1986"
+      },
+      "publisher": "Comstock Editions",
+      "publisher-place": "Sausalito, California",
+      "title": "Tough trip through Paradise 1878-1879",
+      "type": "book"
+    }
+  ],
+  "result": "Garcia (n 1) para 125",
+  "stylename": "mlz-oscola"
+}

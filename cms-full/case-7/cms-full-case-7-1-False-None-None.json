@@ -1,1 +1,27 @@
-{"items": [{"title": "Re Bernard L. Madoff Investment Securities L.L.C.", "issued": {"raw": "2009-02-27"}, "jurisdiction": "gb;england.and.wales", "authority": "High Court | Chancery", "id": "case-7", "collection-number": "2009", "title-short": "Bernard Madoff Securities", "type": "legal_case", "page": "442"}], "stylename": "mlz-cms-full", "citationitems": [{"position": 1, "first-reference-note-number": 1, "id": "case-7", "near-note": false}], "result": "Re Bernard L. Madoff Investment Securities L.L.C., [2009] EWHC 442 (Ch)."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "case-7",
+      "near-note": false,
+      "position": 1
+    }
+  ],
+  "items": [
+    {
+      "authority": "High Court | Chancery",
+      "collection-number": "2009",
+      "id": "case-7",
+      "issued": {
+        "raw": "2009-02-27"
+      },
+      "jurisdiction": "gb;england.and.wales",
+      "page": "442",
+      "title": "Re Bernard L. Madoff Investment Securities L.L.C.",
+      "title-short": "Bernard Madoff Securities",
+      "type": "legal_case"
+    }
+  ],
+  "result": "Re Bernard L. Madoff Investment Securities L.L.C., [2009] EWHC 442 (Ch).",
+  "stylename": "mlz-cms-full"
+}

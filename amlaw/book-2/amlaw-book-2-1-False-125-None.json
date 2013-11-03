@@ -1,1 +1,42 @@
-{"items": [{"publisher": "Deno\u00ebl", "publisher-place": "Paris", "title": "Fahrenheit 451", "issued": {"raw": "1955"}, "author": [{"given": "Ray", "family": "Bradbury"}], "translator": [{"given": "Jacques", "family": "Chambon"}, {"given": "Henri", "family": "Robillot"}], "type": "book", "id": "book-2"}], "stylename": "mlz-amlaw", "citationitems": [{"first-reference-note-number": 1, "label": null, "locator": 125, "position": 1, "id": "book-2", "near-note": false}], "result": "<span style=\"font-variant:small-caps;\">Bradbury</span>, <i>supra</i> note 1, at 125."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "book-2",
+      "label": null,
+      "locator": 125,
+      "near-note": false,
+      "position": 1
+    }
+  ],
+  "items": [
+    {
+      "author": [
+        {
+          "family": "Bradbury",
+          "given": "Ray"
+        }
+      ],
+      "id": "book-2",
+      "issued": {
+        "raw": "1955"
+      },
+      "publisher": "Deno\u00ebl",
+      "publisher-place": "Paris",
+      "title": "Fahrenheit 451",
+      "translator": [
+        {
+          "family": "Chambon",
+          "given": "Jacques"
+        },
+        {
+          "family": "Robillot",
+          "given": "Henri"
+        }
+      ],
+      "type": "book"
+    }
+  ],
+  "result": "<span style=\"font-variant:small-caps;\">Bradbury</span>, <i>supra</i> note 1, at 125.",
+  "stylename": "mlz-amlaw"
+}

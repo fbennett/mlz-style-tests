@@ -1,35 +1,35 @@
 {
-  "items": [
-    {
-      "publisher": "CERN", 
-      "author": [
-        {
-          "given": "Tim", 
-          "family": "Berners-Lee"
-        }
-      ], 
-      "URL": "http://www.w3.org/History/1989/proposal.html", 
-      "issued": {
-        "raw": "1989-03"
-      }, 
-      "title": "Information Management: A Proposal", 
-      "accessed": {
-        "raw": "2012-09-15"
-      }, 
-      "type": "report", 
-      "id": "report-1"
-    }
-  ], 
-  "stylename": "mlz-new-zealand-law", 
   "citationitems": [
     {
-      "first-reference-note-number": 1, 
-      "label": null, 
-      "locator": 125, 
-      "position": 1, 
-      "id": "report-1", 
-      "near-note": true
+      "first-reference-note-number": 1,
+      "id": "report-1",
+      "label": null,
+      "locator": 125,
+      "near-note": true,
+      "position": 1
     }
-  ], 
-  "result": "Berners-Lee, above n 1, at 125."
+  ],
+  "items": [
+    {
+      "URL": "http://www.w3.org/History/1989/proposal.html",
+      "accessed": {
+        "raw": "2012-09-15"
+      },
+      "author": [
+        {
+          "family": "Berners-Lee",
+          "given": "Tim"
+        }
+      ],
+      "id": "report-1",
+      "issued": {
+        "raw": "1989-03"
+      },
+      "publisher": "CERN",
+      "title": "Information Management: A Proposal",
+      "type": "report"
+    }
+  ],
+  "result": "Berners-Lee, above n 1, at 125.",
+  "stylename": "mlz-new-zealand-law"
 }

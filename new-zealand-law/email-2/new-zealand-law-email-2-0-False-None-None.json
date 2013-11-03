@@ -1,34 +1,34 @@
 {
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "email-2",
+      "near-note": false,
+      "position": 0
+    }
+  ],
   "items": [
     {
       "author": [
         {
-          "given": "Kostya", 
-          "family": "Lantsman"
+          "family": "Lantsman",
+          "given": "Kostya"
         }
-      ], 
+      ],
+      "genre": "email",
+      "id": "email-2",
       "issued": {
         "raw": "2011-08-22"
-      }, 
-      "type": "personal_communication", 
-      "genre": "email", 
+      },
       "recipient": [
         {
-          "given": "Frank", 
-          "family": "Bennett"
+          "family": "Bennett",
+          "given": "Frank"
         }
-      ], 
-      "id": "email-2"
+      ],
+      "type": "personal_communication"
     }
-  ], 
-  "stylename": "mlz-new-zealand-law", 
-  "citationitems": [
-    {
-      "position": 0, 
-      "first-reference-note-number": 1, 
-      "id": "email-2", 
-      "near-note": false
-    }
-  ], 
-  "result": "Email from Kostya Lantsman to author (22 August 2011)."
+  ],
+  "result": "Email from Kostya Lantsman to author (22 August 2011).",
+  "stylename": "mlz-new-zealand-law"
 }

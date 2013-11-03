@@ -1,1 +1,42 @@
-{"items": [{"publisher-place": "London", "author": [{"given": "Patrick", "family": "Wintour"}, {"given": "Nick", "family": "Davies"}], "URL": "http://www.guardian.co.uk/media/2010/sep/05/mps-seek-phone-hacking-investigation", "issued": {"raw": "2010-09-05"}, "section": "Media", "title": "MPs seek fresh investigation into News of the World phone hacking", "edition": "Online Edition", "container-title": "The Guardian", "accessed": {"raw": "2012-05-05"}, "type": "article-newspaper", "id": "article-newspaper-1"}], "stylename": "mlz-cms-full", "citationitems": [{"first-reference-note-number": 1, "label": null, "locator": 125, "position": 1, "id": "article-newspaper-1", "near-note": true}], "result": "Wintour and Davies, \u201cMPs Seek Fresh Investigation into News of the World Phone Hacking,\u201d 125."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "article-newspaper-1",
+      "label": null,
+      "locator": 125,
+      "near-note": true,
+      "position": 1
+    }
+  ],
+  "items": [
+    {
+      "URL": "http://www.guardian.co.uk/media/2010/sep/05/mps-seek-phone-hacking-investigation",
+      "accessed": {
+        "raw": "2012-05-05"
+      },
+      "author": [
+        {
+          "family": "Wintour",
+          "given": "Patrick"
+        },
+        {
+          "family": "Davies",
+          "given": "Nick"
+        }
+      ],
+      "container-title": "The Guardian",
+      "edition": "Online Edition",
+      "id": "article-newspaper-1",
+      "issued": {
+        "raw": "2010-09-05"
+      },
+      "publisher-place": "London",
+      "section": "Media",
+      "title": "MPs seek fresh investigation into News of the World phone hacking",
+      "type": "article-newspaper"
+    }
+  ],
+  "result": "Wintour and Davies, \u201cMPs Seek Fresh Investigation into News of the World Phone Hacking,\u201d 125.",
+  "stylename": "mlz-cms-full"
+}

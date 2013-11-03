@@ -1,25 +1,25 @@
 {
-  "items": [
-    {
-      "publisher": "New Line Cinema", 
-      "issued": {
-        "raw": "2006"
-      }, 
-      "type": "motion_picture", 
-      "id": "film-2", 
-      "title": "Snakes on a plane"
-    }
-  ], 
-  "stylename": "mlz-amlaw", 
   "citationitems": [
     {
-      "first-reference-note-number": 1, 
-      "label": "section", 
-      "locator": 125, 
-      "position": 0, 
-      "id": "film-2", 
-      "near-note": false
+      "first-reference-note-number": 1,
+      "id": "film-2",
+      "label": "section",
+      "locator": 125,
+      "near-note": false,
+      "position": 0
     }
-  ], 
-  "result": "<span style=\"font-variant:small-caps;\">Snakes on a Plane</span> \u00a7 125 (New Line Cinema 2006)."
+  ],
+  "items": [
+    {
+      "id": "film-2",
+      "issued": {
+        "raw": "2006"
+      },
+      "publisher": "New Line Cinema",
+      "title": "Snakes on a plane",
+      "type": "motion_picture"
+    }
+  ],
+  "result": "<span style=\"font-variant:small-caps;\">Snakes on a Plane</span> \u00a7 125 (New Line Cinema 2006).",
+  "stylename": "mlz-amlaw"
 }

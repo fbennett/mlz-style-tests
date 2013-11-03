@@ -1,1 +1,35 @@
-{"items": [{"publisher": "CERN", "title": "Information Management: A Proposal", "URL": "http://www.w3.org/History/1989/proposal.html", "issued": {"raw": "1989-03"}, "author": [{"given": "Tim", "family": "Berners-Lee"}], "accessed": {"raw": "2012-09-15"}, "type": "report", "id": "report-1"}], "stylename": "mlz-cms-full", "citationitems": [{"first-reference-note-number": 1, "label": "paragraph", "locator": 125, "position": 1, "id": "report-1", "near-note": true}], "result": "Berners-Lee, <i>Information Management: A Proposal</i>, para. 125."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "report-1",
+      "label": "paragraph",
+      "locator": 125,
+      "near-note": true,
+      "position": 1
+    }
+  ],
+  "items": [
+    {
+      "URL": "http://www.w3.org/History/1989/proposal.html",
+      "accessed": {
+        "raw": "2012-09-15"
+      },
+      "author": [
+        {
+          "family": "Berners-Lee",
+          "given": "Tim"
+        }
+      ],
+      "id": "report-1",
+      "issued": {
+        "raw": "1989-03"
+      },
+      "publisher": "CERN",
+      "title": "Information Management: A Proposal",
+      "type": "report"
+    }
+  ],
+  "result": "Berners-Lee, <i>Information Management: A Proposal</i>, para. 125.",
+  "stylename": "mlz-cms-full"
+}

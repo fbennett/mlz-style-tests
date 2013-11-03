@@ -1,1 +1,25 @@
-{"items": [{"publisher": "Newmarket", "title": "Memento", "type": "motion_picture", "id": "film-1", "issued": {"raw": "2000"}}], "stylename": "mlz-oscola", "citationitems": [{"first-reference-note-number": 1, "label": "section", "locator": 125, "position": 1, "id": "film-1", "near-note": false}], "result": "\u2018Memento\u2019 (n 1) s 125"}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "film-1",
+      "label": "section",
+      "locator": 125,
+      "near-note": false,
+      "position": 1
+    }
+  ],
+  "items": [
+    {
+      "id": "film-1",
+      "issued": {
+        "raw": "2000"
+      },
+      "publisher": "Newmarket",
+      "title": "Memento",
+      "type": "motion_picture"
+    }
+  ],
+  "result": "\u2018Memento\u2019 (n 1) s 125",
+  "stylename": "mlz-oscola"
+}

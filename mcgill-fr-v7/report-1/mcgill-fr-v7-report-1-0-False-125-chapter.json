@@ -1,1 +1,35 @@
-{"items": [{"publisher": "CERN", "title": "Information Management: A Proposal", "URL": "http://www.w3.org/History/1989/proposal.html", "issued": {"raw": "1989-03"}, "author": [{"given": "Tim", "family": "Berners-Lee"}], "accessed": {"raw": "2012-09-15"}, "type": "report", "id": "report-1"}], "stylename": "mlz-mcgill-fr-v7", "citationitems": [{"first-reference-note-number": 1, "label": "chapter", "locator": 125, "position": 0, "id": "report-1", "near-note": false}], "result": "Tim Berners-Lee, <i>Information Management: A Proposal</i>, CERN, 1989, chap\u00a0125."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "report-1",
+      "label": "chapter",
+      "locator": 125,
+      "near-note": false,
+      "position": 0
+    }
+  ],
+  "items": [
+    {
+      "URL": "http://www.w3.org/History/1989/proposal.html",
+      "accessed": {
+        "raw": "2012-09-15"
+      },
+      "author": [
+        {
+          "family": "Berners-Lee",
+          "given": "Tim"
+        }
+      ],
+      "id": "report-1",
+      "issued": {
+        "raw": "1989-03"
+      },
+      "publisher": "CERN",
+      "title": "Information Management: A Proposal",
+      "type": "report"
+    }
+  ],
+  "result": "Tim Berners-Lee, <i>Information Management: A Proposal</i>, CERN, 1989, chap\u00a0125.",
+  "stylename": "mlz-mcgill-fr-v7"
+}

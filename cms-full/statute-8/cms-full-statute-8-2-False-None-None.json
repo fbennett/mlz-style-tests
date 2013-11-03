@@ -1,1 +1,27 @@
-{"items": [{"title": "Crown Debts Act", "issued": {"raw": "1801"}, "section": "sec. 1", "jurisdiction": "gb", "number": "ch. 90", "collection-number": "41", "genre": "George III", "type": "legislation", "id": "statute-8"}], "stylename": "mlz-cms-full", "citationitems": [{"position": 2, "first-reference-note-number": 1, "id": "statute-8", "near-note": false}], "result": "Ibid."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "statute-8",
+      "near-note": false,
+      "position": 2
+    }
+  ],
+  "items": [
+    {
+      "collection-number": "41",
+      "genre": "George III",
+      "id": "statute-8",
+      "issued": {
+        "raw": "1801"
+      },
+      "jurisdiction": "gb",
+      "number": "ch. 90",
+      "section": "sec. 1",
+      "title": "Crown Debts Act",
+      "type": "legislation"
+    }
+  ],
+  "result": "Ibid.",
+  "stylename": "mlz-cms-full"
+}

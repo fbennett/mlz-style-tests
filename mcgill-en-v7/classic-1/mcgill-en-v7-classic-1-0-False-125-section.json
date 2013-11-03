@@ -1,1 +1,28 @@
-{"items": [{"volume": "2", "title": "Commentaries", "type": "classic", "id": "classic-1", "author": [{"given": "William", "family": "Blackstone"}]}], "stylename": "mlz-mcgill-en-v7", "citationitems": [{"first-reference-note-number": 1, "label": "section", "locator": 125, "position": 0, "id": "classic-1", "near-note": false}], "result": "William Blackstone, Commentaries 2 at sec 125."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "classic-1",
+      "label": "section",
+      "locator": 125,
+      "near-note": false,
+      "position": 0
+    }
+  ],
+  "items": [
+    {
+      "author": [
+        {
+          "family": "Blackstone",
+          "given": "William"
+        }
+      ],
+      "id": "classic-1",
+      "title": "Commentaries",
+      "type": "classic",
+      "volume": "2"
+    }
+  ],
+  "result": "William Blackstone, Commentaries 2 at sec 125.",
+  "stylename": "mlz-mcgill-en-v7"
+}

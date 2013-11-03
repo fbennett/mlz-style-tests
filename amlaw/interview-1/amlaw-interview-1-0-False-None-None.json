@@ -1,1 +1,33 @@
-{"items": [{"issued": {"raw": "2004-06-24"}, "interviewer": [{"given": "Carol", "family": "Coleman"}], "type": "interview", "id": "interview-1", "author": [{"given": "George W.", "family": "Bush"}]}], "stylename": "mlz-amlaw", "citationitems": [{"position": 0, "first-reference-note-number": 1, "id": "interview-1", "near-note": false}], "result": "Interview by Carol Coleman with George W. Bush (Jun. 24, 2004)."}
+{
+  "citationitems": [
+    {
+      "first-reference-note-number": 1,
+      "id": "interview-1",
+      "near-note": false,
+      "position": 0
+    }
+  ],
+  "items": [
+    {
+      "author": [
+        {
+          "family": "Bush",
+          "given": "George W."
+        }
+      ],
+      "id": "interview-1",
+      "interviewer": [
+        {
+          "family": "Coleman",
+          "given": "Carol"
+        }
+      ],
+      "issued": {
+        "raw": "2004-06-24"
+      },
+      "type": "interview"
+    }
+  ],
+  "result": "Interview by Carol Coleman with George W. Bush (Jun. 24, 2004).",
+  "stylename": "mlz-amlaw"
+}
