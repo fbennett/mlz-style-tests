@@ -27,6 +27,6 @@
       "type": "book"
     }
   ],
-  "result": "<span style=\"font-variant:small-caps;\">West</span>, <span style=\"font-variant:small-caps;\">A Cool Million</span>, <i>supra</i> note 1, at 125.",
+  "result": "<span style=\"font-variant:small-caps;\">West</span>, <i>supra</i> note 1, at 125.",
   "stylename": "mlz-amlaw"
 }

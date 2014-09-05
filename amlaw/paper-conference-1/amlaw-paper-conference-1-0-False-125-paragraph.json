@@ -18,11 +18,12 @@
         }
       ],
       "event": "National Health Law Conference",
+      "event-place": "Toronto",
       "id": "paper-conference-1",
       "issued": {
         "raw": "Jan 2004"
       },
-      "publisher-place": "Toronto",
+      "publisher-place": "",
       "title": "Merchants in the Temple? The Implications of the GATS for Canada's Health Care System",
       "type": "paper-conference"
     }
